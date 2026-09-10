@@ -1,5 +1,11 @@
 [
   {
+    "section_id": "pg000_sec001",
+    "href": "index.html",
+    "title": "Front cover",
+    "level": 1
+  },
+  {
     "section_id": "pg003_sec001",
     "href": "pg003_sec001.html",
     "title": "Table of Contents",
@@ -1454,5 +1460,11 @@
     "title": "Bibliography",
     "chapter_id": "pg238_n0003",
     "level": 2
+  },
+  {
+    "section_id": "pg241_sec001",
+    "href": "pg241_sec001.html",
+    "title": "Back cover",
+    "level": 1
   }
 ]
