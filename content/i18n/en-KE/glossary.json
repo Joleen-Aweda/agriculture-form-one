@@ -1,0 +1,8186 @@
+{
+  "abdomen": {
+    "word": "abdomen",
+    "definition": "the lower part of the body that contains organs such as the stomach and intestines",
+    "variations": [
+      "abdomen",
+      "abdomens"
+    ],
+    "emoji": "🩺🐔",
+    "id": "gl001"
+  },
+  "abnormalities": {
+    "word": "abnormalities",
+    "definition": "conditions or body features that are not normal",
+    "variations": [
+      "abnormality",
+      "abnormalities"
+    ],
+    "emoji": "⚠️👀",
+    "id": "gl002"
+  },
+  "abnormality": {
+    "word": "abnormality",
+    "definition": "something not normal in the body or behaviour.",
+    "variations": [
+      "abnormality",
+      "abnormalities"
+    ],
+    "emoji": "⚠️🩺",
+    "id": "gl003"
+  },
+  "acceptable": {
+    "word": "acceptable",
+    "definition": "good enough to be used, sold, or approved",
+    "variations": [
+      "acceptable"
+    ],
+    "emoji": "👍✅",
+    "id": "gl004"
+  },
+  "acidic": {
+    "word": "acidic",
+    "definition": "having an acid level below neutral.",
+    "variations": [
+      "acidic",
+      "acidity"
+    ],
+    "emoji": "🧪🌍",
+    "id": "gl005"
+  },
+  "acidic soil": {
+    "word": "acidic soil",
+    "definition": "soil with a pH below 7",
+    "variations": [
+      "acidic soil",
+      "acidic soils"
+    ],
+    "emoji": "🌍🧪",
+    "id": "gl006"
+  },
+  "acidity": {
+    "word": "acidity",
+    "definition": "the condition of having too much acid",
+    "variations": [
+      "acidity",
+      "acidic"
+    ],
+    "emoji": "🧪⬇️",
+    "id": "gl007"
+  },
+  "ad libitum": {
+    "word": "ad libitum",
+    "definition": "available at all times, especially feed or water",
+    "variations": [
+      "ad libitum"
+    ],
+    "emoji": "💧⏰",
+    "id": "gl008"
+  },
+  "adhere": {
+    "word": "adhere",
+    "definition": "to follow rules or instructions carefully",
+    "variations": [
+      "adhere",
+      "adheres",
+      "adhered",
+      "adhering"
+    ],
+    "emoji": "📏✅",
+    "id": "gl009"
+  },
+  "administration": {
+    "word": "administration",
+    "definition": "the way medicine or a vaccine is given to an animal",
+    "variations": [
+      "administration",
+      "administrations"
+    ],
+    "emoji": "💊💉",
+    "id": "gl010"
+  },
+  "aggregates": {
+    "word": "aggregates",
+    "definition": "Groups of soil particles that stick together.",
+    "variations": [
+      "aggregate",
+      "aggregates"
+    ],
+    "emoji": "🟫🔗",
+    "id": "gl011"
+  },
+  "aggressive": {
+    "word": "aggressive",
+    "definition": "ready to fight or push others away",
+    "variations": [
+      "aggressive"
+    ],
+    "emoji": "😠🐓",
+    "id": "gl012"
+  },
+  "agricultural economics": {
+    "word": "agricultural economics",
+    "definition": "the study of how farming resources are used wisely to reduce costs and make profit",
+    "variations": [
+      "agricultural economics",
+      "economics"
+    ],
+    "emoji": "💰📊",
+    "id": "gl013"
+  },
+  "agricultural engineering": {
+    "word": "agricultural engineering",
+    "definition": "the use of science and technology to design tools, machines, and structures for farming",
+    "variations": [
+      "agricultural engineering",
+      "engineering"
+    ],
+    "emoji": "🚜⚙️",
+    "id": "gl014"
+  },
+  "agriculture": {
+    "word": "agriculture",
+    "definition": "the work of growing crops and keeping animals for food and other useful products",
+    "variations": [
+      "agriculture",
+      "agricultural"
+    ],
+    "emoji": "🌾🚜",
+    "id": "gl015"
+  },
+  "agritourism": {
+    "word": "agritourism",
+    "definition": "tourism that involves visiting farms for learning, enjoyment, or activities",
+    "variations": [
+      "agritourism"
+    ],
+    "emoji": "🚜🌾😊",
+    "id": "gl016"
+  },
+  "agrochemicals": {
+    "word": "agrochemicals",
+    "definition": "chemicals used in farming, such as fertilisers and pesticides",
+    "variations": [
+      "agrochemical",
+      "agrochemicals"
+    ],
+    "emoji": "🧪🚜",
+    "id": "gl017"
+  },
+  "air cell": {
+    "word": "air cell",
+    "definition": "the small space of air inside an egg, usually at the broad end",
+    "variations": [
+      "air cell",
+      "air cells"
+    ],
+    "emoji": "🥚🫧",
+    "id": "gl018"
+  },
+  "airtight": {
+    "word": "airtight",
+    "definition": "closed in a way that does not let air in or out",
+    "variations": [
+      "airtight"
+    ],
+    "emoji": "🫙🔒",
+    "id": "gl019"
+  },
+  "alkaline": {
+    "word": "alkaline",
+    "definition": "having a high pH; too much alkalinity in soil can affect plant growth",
+    "variations": [
+      "alkaline",
+      "alkalinity",
+      "alkali"
+    ],
+    "emoji": "🧪⬆️",
+    "id": "gl020"
+  },
+  "alkaline soil": {
+    "word": "alkaline soil",
+    "definition": "soil with a pH above 7",
+    "variations": [
+      "alkaline soil",
+      "alkaline soils"
+    ],
+    "emoji": "🌍🧪",
+    "id": "gl021"
+  },
+  "alkalinity": {
+    "word": "alkalinity",
+    "definition": "the condition of being alkaline or not acidic",
+    "variations": [
+      "alkalinity",
+      "alkaline"
+    ],
+    "emoji": "🧪⬆️",
+    "id": "gl022"
+  },
+  "altitude": {
+    "word": "altitude",
+    "definition": "the height of a place above sea level",
+    "variations": [
+      "altitude",
+      "altitudes"
+    ],
+    "emoji": "⛰️📏",
+    "id": "gl023"
+  },
+  "amaranth": {
+    "word": "amaranth",
+    "definition": "a fast-growing leafy or grain crop that is used for food and can also be sold",
+    "variations": [
+      "amaranth",
+      "amaranths"
+    ],
+    "emoji": "🌿🌾",
+    "id": "gl024"
+  },
+  "ambient": {
+    "word": "ambient",
+    "definition": "surrounding or present in the environment around something",
+    "variations": [
+      "ambient"
+    ],
+    "emoji": "🌡️🌍",
+    "id": "gl025"
+  },
+  "ambient temperature": {
+    "word": "ambient temperature",
+    "definition": "Ambient temperature is the temperature of the surrounding air.",
+    "variations": [
+      "ambient temperature",
+      "ambient temperatures"
+    ],
+    "emoji": "🌡️☀️",
+    "id": "gl026"
+  },
+  "ammonia": {
+    "word": "ammonia",
+    "definition": "a strong-smelling gas that can build up in animal houses from waste",
+    "variations": [
+      "ammonia"
+    ],
+    "emoji": "💨⚠️",
+    "id": "gl027"
+  },
+  "ample": {
+    "word": "ample",
+    "definition": "enough or more than enough for a need",
+    "variations": [
+      "ample"
+    ],
+    "emoji": "✅📦",
+    "id": "gl028"
+  },
+  "anaemia": {
+    "word": "anaemia",
+    "definition": "a health condition in which the body does not have enough healthy blood to carry oxygen well",
+    "variations": [
+      "anaemia"
+    ],
+    "emoji": "🩸😟",
+    "id": "gl029"
+  },
+  "analyse": {
+    "word": "analyse",
+    "definition": "To examine something carefully in order to understand it better.",
+    "variations": [
+      "analyse",
+      "analyses",
+      "analysed",
+      "analysing",
+      "analysis"
+    ],
+    "emoji": "🔍🧠",
+    "id": "gl030"
+  },
+  "analysis": {
+    "word": "analysis",
+    "definition": "careful study of information to understand it better and make decisions",
+    "variations": [
+      "analyse",
+      "analyses",
+      "analysed",
+      "analysis"
+    ],
+    "emoji": "📊🧠",
+    "id": "gl031"
+  },
+  "animal production": {
+    "word": "animal production",
+    "definition": "all the activities involved in raising animals and getting products from them, such as milk, eggs, or meat",
+    "variations": [
+      "animal production",
+      "animals"
+    ],
+    "emoji": "🐄🐓",
+    "id": "gl032"
+  },
+  "anthelmintics": {
+    "word": "anthelmintics",
+    "definition": "medicines used to kill worms in animals",
+    "variations": [
+      "anthelmintic",
+      "anthelmintics"
+    ],
+    "emoji": "💊🪱",
+    "id": "gl033"
+  },
+  "antibodies": {
+    "word": "antibodies",
+    "definition": "protective substances made by the body to fight diseases",
+    "variations": [
+      "antibody",
+      "antibodies"
+    ],
+    "emoji": "🛡️🦠",
+    "id": "gl034"
+  },
+  "aphid": {
+    "word": "aphid",
+    "definition": "a small soft-bodied insect that sucks sap from plants",
+    "variations": [
+      "aphid",
+      "aphids"
+    ],
+    "emoji": "🐜🌿",
+    "id": "gl035"
+  },
+  "aphids": {
+    "word": "aphids",
+    "definition": "small soft-bodied insects that suck sap from plants and can spread diseases.",
+    "variations": [
+      "aphid",
+      "aphids"
+    ],
+    "emoji": "🐜🍃",
+    "id": "gl036"
+  },
+  "aquatic": {
+    "word": "aquatic",
+    "definition": "living in, on, or near water.",
+    "variations": [
+      "aquatic"
+    ],
+    "emoji": "💧🦆",
+    "id": "gl037"
+  },
+  "artificial incubator": {
+    "word": "artificial incubator",
+    "definition": "a machine that provides the right conditions for eggs to hatch",
+    "variations": [
+      "artificial incubator",
+      "artificial incubators",
+      "incubator",
+      "incubators"
+    ],
+    "emoji": "🥚⚙️🐣",
+    "id": "gl038"
+  },
+  "atmosphere": {
+    "word": "atmosphere",
+    "definition": "The layer of air surrounding the Earth.",
+    "variations": [
+      "atmosphere",
+      "atmospheres"
+    ],
+    "emoji": "🌍🌬️",
+    "id": "gl039"
+  },
+  "automated": {
+    "word": "automated",
+    "definition": "working by machine or system with little human effort",
+    "variations": [
+      "automated",
+      "automate",
+      "automation"
+    ],
+    "emoji": "🤖⚙️",
+    "id": "gl040"
+  },
+  "avian influenza": {
+    "word": "avian influenza",
+    "definition": "a highly infectious disease that affects birds",
+    "variations": [
+      "avian influenza"
+    ],
+    "emoji": "🐦🦠⚠️",
+    "id": "gl041"
+  },
+  "avitaminosis": {
+    "word": "avitaminosis",
+    "definition": "a disease or condition caused by not having enough vitamins in the body",
+    "variations": [
+      "avitaminosis"
+    ],
+    "emoji": "💊🥬",
+    "id": "gl042"
+  },
+  "axis": {
+    "word": "axis",
+    "definition": "an imaginary line used to show direction or position",
+    "variations": [
+      "axis",
+      "axes"
+    ],
+    "emoji": "📏🧭",
+    "id": "gl043"
+  },
+  "bacteria": {
+    "word": "bacteria",
+    "definition": "very small living things; some help plants while others can cause harm",
+    "variations": [
+      "bacteria",
+      "bacterium"
+    ],
+    "emoji": "🦠🔬",
+    "id": "gl044"
+  },
+  "bacterial": {
+    "word": "bacterial",
+    "definition": "caused by bacteria, which are tiny living things that can sometimes cause disease",
+    "variations": [
+      "bacteria",
+      "bacterial"
+    ],
+    "emoji": "🦠",
+    "id": "gl045"
+  },
+  "bacterial soft rot": {
+    "word": "bacterial soft rot",
+    "definition": "a disease that makes plant parts soft, wet, and rotten",
+    "variations": [
+      "bacterial soft rot",
+      "soft rot"
+    ],
+    "emoji": "🦠💧",
+    "id": "gl046"
+  },
+  "balanced diet": {
+    "word": "balanced diet",
+    "definition": "food that contains the right amounts of different nutrients needed for good health",
+    "variations": [
+      "balanced diet",
+      "balanced diets"
+    ],
+    "emoji": "🥣💪",
+    "id": "gl047"
+  },
+  "balanced feed": {
+    "word": "balanced feed",
+    "definition": "feed that contains the right amounts of energy, protein, vitamins, and minerals.",
+    "variations": [
+      "balanced feed",
+      "balanced feeds"
+    ],
+    "emoji": "🌾⚖️🐓",
+    "id": "gl048"
+  },
+  "balanced ration": {
+    "word": "balanced ration",
+    "definition": "a mixture of feeds that gives an animal the right amount of nutrients it needs.",
+    "variations": [
+      "balanced ration",
+      "balanced rations",
+      "ration",
+      "rations"
+    ],
+    "emoji": "🥣🌽⚖️",
+    "id": "gl049"
+  },
+  "bare roots": {
+    "word": "bare roots",
+    "definition": "roots of a plant that are not covered with soil when the plant is moved",
+    "variations": [
+      "bare root",
+      "bare roots"
+    ],
+    "emoji": "🌱根🪴",
+    "id": "gl050"
+  },
+  "beautify": {
+    "word": "beautify",
+    "definition": "to make a place or thing more beautiful",
+    "variations": [
+      "beautify",
+      "beautified",
+      "beautifying"
+    ],
+    "emoji": "🌺✨",
+    "id": "gl051"
+  },
+  "bedding": {
+    "word": "bedding",
+    "definition": "material placed on the floor or in nests for animals to lie on and keep clean",
+    "variations": [
+      "bedding",
+      "beddings"
+    ],
+    "emoji": "🪹🌾",
+    "id": "gl052"
+  },
+  "bedrock": {
+    "word": "bedrock",
+    "definition": "The hard solid rock beneath the soil layers.",
+    "variations": [
+      "bedrock"
+    ],
+    "emoji": "🪨",
+    "id": "gl053"
+  },
+  "biennial": {
+    "word": "biennial",
+    "definition": "a plant that takes two growing seasons to complete its life cycle",
+    "variations": [
+      "biennial",
+      "biennials"
+    ],
+    "emoji": "2️⃣🌿",
+    "id": "gl054"
+  },
+  "bio-pesticide": {
+    "word": "bio-pesticide",
+    "definition": "a pesticide made from natural materials such as plants, animals, or other living things",
+    "variations": [
+      "bio-pesticide",
+      "bio-pesticides"
+    ],
+    "emoji": "🌿🧪",
+    "id": "gl055"
+  },
+  "biodiversity": {
+    "word": "biodiversity",
+    "definition": "the variety of living things in an area",
+    "variations": [
+      "biodiversity"
+    ],
+    "emoji": "🦋🌿🐝",
+    "id": "gl056"
+  },
+  "Biological control": {
+    "word": "Biological control",
+    "definition": "a way of controlling pests, diseases, or weeds by using living organisms",
+    "variations": [
+      "biological control"
+    ],
+    "emoji": "🐞🌱",
+    "id": "gl057"
+  },
+  "biological pest management": {
+    "word": "biological pest management",
+    "definition": "controlling pests by using other living things such as natural predators",
+    "variations": [
+      "biological pest management"
+    ],
+    "emoji": "🐞🕷️🌱",
+    "id": "gl058"
+  },
+  "biology": {
+    "word": "biology",
+    "definition": "the study of living things such as plants, animals, and people",
+    "variations": [
+      "biology",
+      "biological"
+    ],
+    "emoji": "🧬🌿",
+    "id": "gl059"
+  },
+  "biosecurity": {
+    "word": "biosecurity",
+    "definition": "actions taken to stop diseases and harmful organisms from entering or spreading on a farm.",
+    "variations": [
+      "biosecurity"
+    ],
+    "emoji": "🧴🚫🐔",
+    "id": "gl060"
+  },
+  "black mould": {
+    "word": "black mould",
+    "definition": "a disease or fungus that appears as black powdery growth on plants or bulbs",
+    "variations": [
+      "black mould",
+      "mould"
+    ],
+    "emoji": "⚫🦠",
+    "id": "gl061"
+  },
+  "blossom end rot": {
+    "word": "blossom end rot",
+    "definition": "a problem in fruits where the bottom end becomes dark, sunken, and rotten",
+    "variations": [
+      "blossom end rot"
+    ],
+    "emoji": "🍅⚫",
+    "id": "gl062"
+  },
+  "bollworms": {
+    "word": "bollworms",
+    "definition": "crop pests whose young feed on leaves and fruits",
+    "variations": [
+      "bollworm",
+      "bollworms"
+    ],
+    "emoji": "🐛🍅",
+    "id": "gl063"
+  },
+  "brand identity": {
+    "word": "brand identity",
+    "definition": "the image and style that make a product easy to recognise",
+    "variations": [
+      "brand identity",
+      "brand identities"
+    ],
+    "emoji": "🏷️✨",
+    "id": "gl064"
+  },
+  "Breed": {
+    "word": "Breed",
+    "definition": "a group of animals of the same kind that have similar features and common ancestry",
+    "variations": [
+      "breed",
+      "breeds",
+      "breeding"
+    ],
+    "emoji": "🐓🐐",
+    "id": "gl065"
+  },
+  "breeding": {
+    "word": "breeding",
+    "definition": "the process of producing young animals from selected parents.",
+    "variations": [
+      "breed",
+      "breeding",
+      "breeds"
+    ],
+    "emoji": "🐓🥚",
+    "id": "gl066"
+  },
+  "breeds": {
+    "word": "breeds",
+    "definition": "different types of animals within the same kind",
+    "variations": [
+      "breed",
+      "breeds",
+      "breeding"
+    ],
+    "emoji": "🐄🐔",
+    "id": "gl067"
+  },
+  "broadcasting": {
+    "word": "broadcasting",
+    "definition": "scattering seeds thinly and evenly over the soil surface",
+    "variations": [
+      "broadcast",
+      "broadcasts",
+      "broadcasting"
+    ],
+    "emoji": "🌾🖐️",
+    "id": "gl068"
+  },
+  "broiler": {
+    "word": "broiler",
+    "definition": "a chicken kept mainly for meat production because it grows fast.",
+    "variations": [
+      "broiler",
+      "broilers"
+    ],
+    "emoji": "🐔🍗",
+    "id": "gl069"
+  },
+  "broilers": {
+    "word": "broilers",
+    "definition": "chickens that are raised mainly for meat production",
+    "variations": [
+      "broiler",
+      "broilers"
+    ],
+    "emoji": "🐔🍗",
+    "id": "gl070"
+  },
+  "brokers": {
+    "word": "brokers",
+    "definition": "people who help buyers and sellers make business deals",
+    "variations": [
+      "broker",
+      "brokers"
+    ],
+    "emoji": "🤝💼",
+    "id": "gl071"
+  },
+  "brooder": {
+    "word": "brooder",
+    "definition": "a warm and safe place prepared for young chicks to live in during their early days.",
+    "variations": [
+      "brooder",
+      "brooders"
+    ],
+    "emoji": "🐣🔥🏠",
+    "id": "gl072"
+  },
+  "brooder ring": {
+    "word": "brooder ring",
+    "definition": "a round area used to keep chicks together near heat in a brooder",
+    "variations": [
+      "brooder ring",
+      "brooder rings"
+    ],
+    "emoji": "⭕🐥🔥",
+    "id": "gl073"
+  },
+  "brooding": {
+    "word": "brooding",
+    "definition": "the period when young chicks are kept warm and cared for closely after hatching",
+    "variations": [
+      "brooding"
+    ],
+    "emoji": "🐣🔥",
+    "id": "gl074"
+  },
+  "broody": {
+    "word": "broody",
+    "definition": "wanting to sit on eggs in order to hatch them",
+    "variations": [
+      "broody"
+    ],
+    "emoji": "🦆🥚",
+    "id": "gl075"
+  },
+  "bruised": {
+    "word": "bruised",
+    "definition": "slightly damaged by being pressed, hit, or dropped",
+    "variations": [
+      "bruise",
+      "bruised",
+      "bruises"
+    ],
+    "emoji": "🤕🍅",
+    "id": "gl076"
+  },
+  "bulb": {
+    "word": "bulb",
+    "definition": "a short rounded underground plant part that stores food, like in onions and garlic",
+    "variations": [
+      "bulb",
+      "bulbs"
+    ],
+    "emoji": "🧅🌱",
+    "id": "gl077"
+  },
+  "bush-type": {
+    "word": "bush-type",
+    "definition": "growing in a short, spreading shape like a bush",
+    "variations": [
+      "bush-type",
+      "bush types"
+    ],
+    "emoji": "🌳🌿",
+    "id": "gl078"
+  },
+  "by-products": {
+    "word": "by-products",
+    "definition": "useful materials left after the main product has been made or processed.",
+    "variations": [
+      "by-product",
+      "by-products"
+    ],
+    "emoji": "🌾📦",
+    "id": "gl079"
+  },
+  "cage layer fatigue": {
+    "word": "cage layer fatigue",
+    "definition": "an illness in laying birds in cages that makes them weak and unable to stand properly",
+    "variations": [
+      "cage layer fatigue"
+    ],
+    "emoji": "🐔😓",
+    "id": "gl080"
+  },
+  "cage system": {
+    "word": "cage system",
+    "definition": "a poultry housing system where birds are kept in cages for easy feeding, egg collection, and management",
+    "variations": [
+      "cage system",
+      "cage systems"
+    ],
+    "emoji": "🐔🪶",
+    "id": "gl081"
+  },
+  "calcium": {
+    "word": "calcium",
+    "definition": "a mineral that helps plants grow well and form healthy fruits",
+    "variations": [
+      "calcium"
+    ],
+    "emoji": "🪨🌱",
+    "id": "gl082"
+  },
+  "candling": {
+    "word": "candling",
+    "definition": "checking the inside of an egg with light to see if it is developing",
+    "variations": [
+      "candling"
+    ],
+    "emoji": "🥚🔦",
+    "id": "gl083"
+  },
+  "cannibalism": {
+    "word": "cannibalism",
+    "definition": "a harmful behaviour where chickens peck and injure or eat each other",
+    "variations": [
+      "cannibalism"
+    ],
+    "emoji": "🐓⚠️",
+    "id": "gl084"
+  },
+  "canopy": {
+    "word": "canopy",
+    "definition": "the top leafy part of a plant that spreads out and covers the ground below",
+    "variations": [
+      "canopy",
+      "canopies"
+    ],
+    "emoji": "🌿☂️",
+    "id": "gl085"
+  },
+  "capital": {
+    "word": "capital",
+    "definition": "money used to start or run a business",
+    "variations": [
+      "capital",
+      "capitals"
+    ],
+    "emoji": "💵🏦",
+    "id": "gl086"
+  },
+  "carbohydrates": {
+    "word": "carbohydrates",
+    "definition": "nutrients in food that give energy",
+    "variations": [
+      "carbohydrate",
+      "carbohydrates"
+    ],
+    "emoji": "🌽⚡",
+    "id": "gl087"
+  },
+  "carcass": {
+    "word": "carcass",
+    "definition": "the body of a slaughtered animal after blood, feathers, skin, or internal organs have been removed.",
+    "variations": [
+      "carcass",
+      "carcasses"
+    ],
+    "emoji": "🍖🐓",
+    "id": "gl088"
+  },
+  "carton": {
+    "word": "carton",
+    "definition": "a light box or container used for packing goods such as eggs",
+    "variations": [
+      "carton",
+      "cartons"
+    ],
+    "emoji": "📦🥚",
+    "id": "gl089"
+  },
+  "caruncles": {
+    "word": "caruncles",
+    "definition": "small fleshy growths on the skin, especially around the face of some birds",
+    "variations": [
+      "caruncle",
+      "caruncles"
+    ],
+    "emoji": "🦆🔴",
+    "id": "gl090"
+  },
+  "categorise": {
+    "word": "categorise",
+    "definition": "to put things into groups based on how they are alike",
+    "variations": [
+      "categorise",
+      "categorised",
+      "categorising",
+      "categorisation"
+    ],
+    "emoji": "🗂️📚",
+    "id": "gl091"
+  },
+  "caterpillars": {
+    "word": "caterpillars",
+    "definition": "worm-like young insects that later change into butterflies or moths",
+    "variations": [
+      "caterpillar",
+      "caterpillars"
+    ],
+    "emoji": "🐛🦋",
+    "id": "gl092"
+  },
+  "cereals": {
+    "word": "cereals",
+    "definition": "grain crops such as maize, rice, and wheat that are grown for food",
+    "variations": [
+      "cereal",
+      "cereals"
+    ],
+    "emoji": "🌾🍚",
+    "id": "gl093"
+  },
+  "certification": {
+    "word": "certification",
+    "definition": "official proof that a product or process meets set standards.",
+    "variations": [
+      "certification",
+      "certifications",
+      "certify",
+      "certified"
+    ],
+    "emoji": "📜✅",
+    "id": "gl094"
+  },
+  "certified": {
+    "word": "certified",
+    "definition": "officially tested and approved as good, safe, or reliable",
+    "variations": [
+      "certified",
+      "certify",
+      "certifies",
+      "certifying",
+      "certification"
+    ],
+    "emoji": "✅📄",
+    "id": "gl095"
+  },
+  "characteristic": {
+    "word": "characteristic",
+    "definition": "A characteristic is a feature or quality that helps to identify something.",
+    "variations": [
+      "characteristic",
+      "characteristics"
+    ],
+    "emoji": "🔍🧩",
+    "id": "gl096"
+  },
+  "charcoal cooler": {
+    "word": "charcoal cooler",
+    "definition": "a simple cooling store that uses charcoal to help keep produce cool",
+    "variations": [
+      "charcoal cooler",
+      "charcoal coolers"
+    ],
+    "emoji": "🧊🪵",
+    "id": "gl097"
+  },
+  "chemistry": {
+    "word": "chemistry",
+    "definition": "the study of substances and how they change or react",
+    "variations": [
+      "chemistry",
+      "chemical",
+      "chemicals"
+    ],
+    "emoji": "🧪⚗️",
+    "id": "gl098"
+  },
+  "chick": {
+    "word": "chick",
+    "definition": "a young chicken",
+    "variations": [
+      "chick",
+      "chicks"
+    ],
+    "emoji": "🐥",
+    "id": "gl099"
+  },
+  "chick starter mash": {
+    "word": "chick starter mash",
+    "definition": "a special feed made for young chicks to help them grow well",
+    "variations": [
+      "chick starter mash",
+      "starter mash"
+    ],
+    "emoji": "🐥🌽",
+    "id": "gl100"
+  },
+  "Chinese cabbage": {
+    "word": "Chinese cabbage",
+    "definition": "a leafy vegetable that grows quickly and can be eaten raw or cooked",
+    "variations": [
+      "Chinese cabbage",
+      "Chinese cabbages"
+    ],
+    "emoji": "🥬🇨🇳",
+    "id": "gl101"
+  },
+  "chlorophyll": {
+    "word": "chlorophyll",
+    "definition": "the green substance in plants that helps them make food using sunlight",
+    "variations": [
+      "chlorophyll"
+    ],
+    "emoji": "🍃☀️",
+    "id": "gl102"
+  },
+  "cholera": {
+    "word": "cholera",
+    "definition": "a serious disease that can affect chickens and spread quickly",
+    "variations": [
+      "cholera"
+    ],
+    "emoji": "⚠️🦠",
+    "id": "gl103"
+  },
+  "circulate": {
+    "word": "circulate",
+    "definition": "To move around freely, especially air or water.",
+    "variations": [
+      "circulate",
+      "circulates",
+      "circulated",
+      "circulating",
+      "circulation"
+    ],
+    "emoji": "🔄🌬️",
+    "id": "gl104"
+  },
+  "classified": {
+    "word": "classified",
+    "definition": "arranged into groups based on shared features",
+    "variations": [
+      "classify",
+      "classifies",
+      "classified",
+      "classification"
+    ],
+    "emoji": "📂📋",
+    "id": "gl105"
+  },
+  "clay": {
+    "word": "clay",
+    "definition": "Very small soil particles that are sticky when wet and hold a lot of water.",
+    "variations": [
+      "clay",
+      "clays",
+      "clayey"
+    ],
+    "emoji": "🟤💧",
+    "id": "gl106"
+  },
+  "climate": {
+    "word": "climate",
+    "definition": "the usual weather conditions of a place over a long time",
+    "variations": [
+      "climate",
+      "climates"
+    ],
+    "emoji": "☀️🌧️",
+    "id": "gl107"
+  },
+  "cloaca": {
+    "word": "cloaca",
+    "definition": "the body opening in a chicken through which eggs and waste pass out.",
+    "variations": [
+      "cloaca",
+      "cloacas"
+    ],
+    "emoji": "🐔🥚",
+    "id": "gl108"
+  },
+  "clogging": {
+    "word": "clogging",
+    "definition": "the blocking of small holes or pipes so that water cannot pass through well",
+    "variations": [
+      "clogging",
+      "clog",
+      "clogs",
+      "clogged"
+    ],
+    "emoji": "🚫💦",
+    "id": "gl109"
+  },
+  "coarse-textured": {
+    "word": "coarse-textured",
+    "definition": "Describes soil with large particles, mostly sand.",
+    "variations": [
+      "coarse-textured",
+      "coarse texture"
+    ],
+    "emoji": "🟤✋",
+    "id": "gl110"
+  },
+  "coccidiosis": {
+    "word": "coccidiosis",
+    "definition": "a disease in chickens that affects the intestines and can make them weak or sick",
+    "variations": [
+      "coccidiosis"
+    ],
+    "emoji": "🦠🐓",
+    "id": "gl111"
+  },
+  "coccidiostat": {
+    "word": "coccidiostat",
+    "definition": "a medicine added to some feeds to control a disease called coccidiosis",
+    "variations": [
+      "coccidiostat",
+      "coccidiostats"
+    ],
+    "emoji": "💊⚠️",
+    "id": "gl112"
+  },
+  "coccidiostats": {
+    "word": "coccidiostats",
+    "definition": "medicines used to prevent or control coccidiosis in poultry",
+    "variations": [
+      "coccidiostat",
+      "coccidiostats"
+    ],
+    "emoji": "💊🐔",
+    "id": "gl113"
+  },
+  "Cock": {
+    "word": "Cock",
+    "definition": "an adult male chicken used for breeding",
+    "variations": [
+      "cock",
+      "cocks"
+    ],
+    "emoji": "🐓",
+    "id": "gl114"
+  },
+  "cohesion": {
+    "word": "cohesion",
+    "definition": "The force that makes small soil particles stick together.",
+    "variations": [
+      "cohesion",
+      "cohesive"
+    ],
+    "emoji": "🤝🟤",
+    "id": "gl115"
+  },
+  "cohesive": {
+    "word": "cohesive",
+    "definition": "sticking together as one mass",
+    "variations": [
+      "cohesive"
+    ],
+    "emoji": "🧩",
+    "id": "gl116"
+  },
+  "cold storage": {
+    "word": "cold storage",
+    "definition": "keeping products in a very cool place to preserve freshness and safety",
+    "variations": [
+      "cold storage"
+    ],
+    "emoji": "❄️📦",
+    "id": "gl117"
+  },
+  "comb": {
+    "word": "comb",
+    "definition": "A comb is the soft fleshy part on top of a chicken’s head.",
+    "variations": [
+      "comb",
+      "combs"
+    ],
+    "emoji": "🐓🔴",
+    "id": "gl118"
+  },
+  "commercial horticulture": {
+    "word": "commercial horticulture",
+    "definition": "growing horticultural crops in order to sell them and make money",
+    "variations": [
+      "commercial horticulture",
+      "commercial horticultural farming"
+    ],
+    "emoji": "💰🥬",
+    "id": "gl119"
+  },
+  "communal": {
+    "word": "communal",
+    "definition": "shared by a group instead of used by one only",
+    "variations": [
+      "communal"
+    ],
+    "emoji": "👥🪹",
+    "id": "gl120"
+  },
+  "compacting": {
+    "word": "compacting",
+    "definition": "Pressing soil so tightly that there is less space for air and water.",
+    "variations": [
+      "compact",
+      "compacts",
+      "compacted",
+      "compacting",
+      "compaction"
+    ],
+    "emoji": "🧱⬇️",
+    "id": "gl121"
+  },
+  "compartment": {
+    "word": "compartment",
+    "definition": "a separate space or section within a larger structure",
+    "variations": [
+      "compartment",
+      "compartments"
+    ],
+    "emoji": "📦🚪",
+    "id": "gl122"
+  },
+  "competency": {
+    "word": "competency",
+    "definition": "an important skill or ability that helps a person do something well",
+    "variations": [
+      "competency",
+      "competencies"
+    ],
+    "emoji": "🧠✅",
+    "id": "gl123"
+  },
+  "competitive": {
+    "word": "competitive",
+    "definition": "involving strong effort to do better than others in business or activity",
+    "variations": [
+      "competitive",
+      "competition"
+    ],
+    "emoji": "🏁📈",
+    "id": "gl124"
+  },
+  "compost": {
+    "word": "compost",
+    "definition": "decayed plant or animal material added to soil to improve it",
+    "variations": [
+      "compost",
+      "composts"
+    ],
+    "emoji": "🍂🌱",
+    "id": "gl125"
+  },
+  "composting": {
+    "word": "composting",
+    "definition": "Composting is the process of changing waste materials into useful fertiliser for plants.",
+    "variations": [
+      "composting",
+      "compost",
+      "composted"
+    ],
+    "emoji": "♻️🌿",
+    "id": "gl126"
+  },
+  "compound fertilisers": {
+    "word": "compound fertilisers",
+    "definition": "fertilisers that contain two or more plant nutrients",
+    "variations": [
+      "compound fertiliser",
+      "compound fertilisers",
+      "mixed fertilisers"
+    ],
+    "emoji": "🧪➕",
+    "id": "gl127"
+  },
+  "confined": {
+    "word": "confined",
+    "definition": "kept within a limited space and not allowed to move freely outside",
+    "variations": [
+      "confine",
+      "confined",
+      "confinement"
+    ],
+    "emoji": "🚧🐓",
+    "id": "gl128"
+  },
+  "confinement": {
+    "word": "confinement",
+    "definition": "keeping animals within a limited or enclosed place",
+    "variations": [
+      "confinement",
+      "confine",
+      "confined",
+      "confining"
+    ],
+    "emoji": "🚧🐥",
+    "id": "gl129"
+  },
+  "conformation": {
+    "word": "conformation",
+    "definition": "Conformation is the body shape and structure of an animal.",
+    "variations": [
+      "conformation",
+      "conformations"
+    ],
+    "emoji": "🐓📏",
+    "id": "gl130"
+  },
+  "conservation agriculture": {
+    "word": "conservation agriculture",
+    "definition": "Farming methods that protect the soil, water, and environment.",
+    "variations": [
+      "conservation agriculture"
+    ],
+    "emoji": "🌍🌾🛡️",
+    "id": "gl131"
+  },
+  "constraint": {
+    "word": "constraint",
+    "definition": "something that limits what can be done",
+    "variations": [
+      "constraint",
+      "constraints"
+    ],
+    "emoji": "⛔📏",
+    "id": "gl132"
+  },
+  "consumer": {
+    "word": "consumer",
+    "definition": "a person who buys and uses goods or services",
+    "variations": [
+      "consumer",
+      "consumers"
+    ],
+    "emoji": "🧑🛍️",
+    "id": "gl133"
+  },
+  "consumption": {
+    "word": "consumption",
+    "definition": "the using, eating, or drinking of something",
+    "variations": [
+      "consume",
+      "consumes",
+      "consumed",
+      "consumption"
+    ],
+    "emoji": "🍽️🥚",
+    "id": "gl134"
+  },
+  "container": {
+    "word": "container",
+    "definition": "an object used to hold something",
+    "variations": [
+      "container",
+      "containers"
+    ],
+    "emoji": "🪣📦",
+    "id": "gl135"
+  },
+  "contaminant": {
+    "word": "contaminant",
+    "definition": "something harmful or dirty that makes food or water unsafe",
+    "variations": [
+      "contaminant",
+      "contaminants",
+      "contamination"
+    ],
+    "emoji": "⚠️💧",
+    "id": "gl136"
+  },
+  "contaminants": {
+    "word": "contaminants",
+    "definition": "harmful or unwanted substances that make something dirty or unsafe",
+    "variations": [
+      "contaminant",
+      "contaminants",
+      "contaminate",
+      "contaminated",
+      "contamination"
+    ],
+    "emoji": "⚠️🧪",
+    "id": "gl137"
+  },
+  "contaminate": {
+    "word": "contaminate",
+    "definition": "to make something dirty or unsafe by adding harmful matter or germs",
+    "variations": [
+      "contaminate",
+      "contaminated",
+      "contaminating",
+      "contamination"
+    ],
+    "emoji": "🦠⚠️",
+    "id": "gl138"
+  },
+  "contaminated": {
+    "word": "contaminated",
+    "definition": "made dirty or unsafe by harmful substances or germs.",
+    "variations": [
+      "contaminated",
+      "contaminate"
+    ],
+    "emoji": "⚠️💧",
+    "id": "gl139"
+  },
+  "contamination": {
+    "word": "contamination",
+    "definition": "the making of food or materials dirty or unsafe by germs, chemicals, or harmful substances",
+    "variations": [
+      "contamination",
+      "contaminate",
+      "contaminated",
+      "contaminating"
+    ],
+    "emoji": "⚠️🦠",
+    "id": "gl140"
+  },
+  "continuous cropping": {
+    "word": "continuous cropping",
+    "definition": "growing crops on the same land again and again without giving the soil time to recover",
+    "variations": [
+      "continuous cropping"
+    ],
+    "emoji": "🌾🔁",
+    "id": "gl141"
+  },
+  "contour farming": {
+    "word": "contour farming",
+    "definition": "farming across the slope of the land to reduce soil erosion",
+    "variations": [
+      "contour farming"
+    ],
+    "emoji": "⛰️🌾",
+    "id": "gl142"
+  },
+  "control": {
+    "word": "control",
+    "definition": "In an experiment, the sample kept under normal conditions for comparison.",
+    "variations": [
+      "control",
+      "controls",
+      "control pot"
+    ],
+    "emoji": "⚖️🪴",
+    "id": "gl143"
+  },
+  "controlled environment": {
+    "word": "controlled environment",
+    "definition": "a place where temperature, light, and air are managed carefully",
+    "variations": [
+      "controlled environment",
+      "controlled environments"
+    ],
+    "emoji": "🌡️💡🏠",
+    "id": "gl144"
+  },
+  "coop": {
+    "word": "coop",
+    "definition": "a small house or shelter where poultry are kept",
+    "variations": [
+      "coop",
+      "coops"
+    ],
+    "emoji": "🐔🏠",
+    "id": "gl145"
+  },
+  "cover crops": {
+    "word": "cover crops",
+    "definition": "Crops planted to protect and improve the soil rather than mainly for harvest.",
+    "variations": [
+      "cover crop",
+      "cover crops"
+    ],
+    "emoji": "🌱🛡️",
+    "id": "gl146"
+  },
+  "crate": {
+    "word": "crate",
+    "definition": "a box or container used for holding or carrying chickens or other items.",
+    "variations": [
+      "crate",
+      "crates"
+    ],
+    "emoji": "📦🐔",
+    "id": "gl147"
+  },
+  "crevices": {
+    "word": "crevices",
+    "definition": "small cracks or narrow openings",
+    "variations": [
+      "crevice",
+      "crevices"
+    ],
+    "emoji": "🪨↔️",
+    "id": "gl148"
+  },
+  "crippled": {
+    "word": "crippled",
+    "definition": "having a body problem that makes movement difficult",
+    "variations": [
+      "crippled"
+    ],
+    "emoji": "🐔🩼",
+    "id": "gl149"
+  },
+  "crop": {
+    "word": "crop",
+    "definition": "a plant grown by people for food, sale, or other uses",
+    "variations": [
+      "crop",
+      "crops"
+    ],
+    "emoji": "🌾🌱",
+    "id": "gl150"
+  },
+  "crop production": {
+    "word": "crop production",
+    "definition": "all the activities involved in growing crops, from planting to harvesting and selling",
+    "variations": [
+      "crop production",
+      "crops"
+    ],
+    "emoji": "🌽🌱",
+    "id": "gl151"
+  },
+  "crop rotation": {
+    "word": "crop rotation",
+    "definition": "growing different crops on the same land in a planned order over time",
+    "variations": [
+      "crop rotation",
+      "crop rotations"
+    ],
+    "emoji": "🌽🥬🔄",
+    "id": "gl152"
+  },
+  "crops": {
+    "word": "crops",
+    "definition": "plants that are grown by people for food, sale, or other uses",
+    "variations": [
+      "crop",
+      "crops"
+    ],
+    "emoji": "🌾🌽",
+    "id": "gl153"
+  },
+  "crossbred": {
+    "word": "crossbred",
+    "definition": "an animal produced by parents from different breeds.",
+    "variations": [
+      "crossbred",
+      "crossbreds",
+      "crossbreed",
+      "crossbreeding"
+    ],
+    "emoji": "🔀🐔",
+    "id": "gl154"
+  },
+  "crumble": {
+    "word": "crumble",
+    "definition": "feed that is broken into small soft pieces for young birds",
+    "variations": [
+      "crumble",
+      "crumbles"
+    ],
+    "emoji": "🐥🌾",
+    "id": "gl155"
+  },
+  "Crumble feed": {
+    "word": "Crumble feed",
+    "definition": "animal feed made by breaking pellets into smaller pieces",
+    "variations": [
+      "crumble feed"
+    ],
+    "emoji": "🌾🐔",
+    "id": "gl156"
+  },
+  "culled": {
+    "word": "culled",
+    "definition": "removed from a group because they are old, weak, or not productive",
+    "variations": [
+      "cull",
+      "culled",
+      "culling"
+    ],
+    "emoji": "🐓✂️",
+    "id": "gl157"
+  },
+  "culling": {
+    "word": "culling",
+    "definition": "removing unproductive, weak, or sick birds from the flock",
+    "variations": [
+      "cull",
+      "culling",
+      "culled"
+    ],
+    "emoji": "🐔🚫",
+    "id": "gl158"
+  },
+  "cultivars": {
+    "word": "cultivars",
+    "definition": "plant varieties that are grown because they have useful qualities",
+    "variations": [
+      "cultivar",
+      "cultivars"
+    ],
+    "emoji": "🌱🧑‍🌾",
+    "id": "gl159"
+  },
+  "cultural pest management": {
+    "word": "cultural pest management",
+    "definition": "controlling pests by using good farming practices such as crop rotation, sanitation, and timely planting",
+    "variations": [
+      "cultural pest management"
+    ],
+    "emoji": "🚜🌿",
+    "id": "gl160"
+  },
+  "curative": {
+    "word": "curative",
+    "definition": "meant to cure or treat a disease after it has occurred",
+    "variations": [
+      "curative",
+      "cure",
+      "curing"
+    ],
+    "emoji": "💊❤️‍🩹",
+    "id": "gl161"
+  },
+  "curing": {
+    "word": "curing",
+    "definition": "drying harvested onions so they last longer in storage",
+    "variations": [
+      "curing",
+      "cure",
+      "cured"
+    ],
+    "emoji": "☀️🧅",
+    "id": "gl162"
+  },
+  "cutworm": {
+    "word": "cutworm",
+    "definition": "a caterpillar that cuts young plant stems near the ground",
+    "variations": [
+      "cutworm",
+      "cutworms"
+    ],
+    "emoji": "🐛✂️🌱",
+    "id": "gl163"
+  },
+  "cutworms": {
+    "word": "cutworms",
+    "definition": "pests that cut young plant stems near the ground",
+    "variations": [
+      "cutworm",
+      "cutworms"
+    ],
+    "emoji": "🪱🌱",
+    "id": "gl164"
+  },
+  "damping off": {
+    "word": "damping off",
+    "definition": "a disease that causes young seedlings to rot and fall over",
+    "variations": [
+      "damping off"
+    ],
+    "emoji": "🦠🌱",
+    "id": "gl165"
+  },
+  "Day-old chick": {
+    "word": "Day-old chick",
+    "definition": "a chick that has just hatched and is one day old",
+    "variations": [
+      "day-old chick",
+      "day-old chicks",
+      "DOC"
+    ],
+    "emoji": "🐣",
+    "id": "gl166"
+  },
+  "de-beaking": {
+    "word": "de-beaking",
+    "definition": "the trimming of a bird’s beak to reduce harmful pecking",
+    "variations": [
+      "de-beaking",
+      "debeaking"
+    ],
+    "emoji": "🐤✂️",
+    "id": "gl167"
+  },
+  "debeaking": {
+    "word": "debeaking",
+    "definition": "the trimming of a bird’s beak to reduce harmful behaviours and feed wastage",
+    "variations": [
+      "debeak",
+      "debeaking",
+      "debeaked"
+    ],
+    "emoji": "🐔✂️",
+    "id": "gl168"
+  },
+  "debris": {
+    "word": "debris",
+    "definition": "Small scattered pieces of dead plants or other materials.",
+    "variations": [
+      "debris"
+    ],
+    "emoji": "🍂🪵",
+    "id": "gl169"
+  },
+  "decisions": {
+    "word": "decisions",
+    "definition": "choices made after thinking carefully",
+    "variations": [
+      "decision",
+      "decisions",
+      "decide",
+      "decides",
+      "decided"
+    ],
+    "emoji": "🤔✅",
+    "id": "gl170"
+  },
+  "decompose": {
+    "word": "decompose",
+    "definition": "to rot or break down naturally into simpler materials",
+    "variations": [
+      "decompose",
+      "decomposes",
+      "decomposed",
+      "decomposing",
+      "decomposition"
+    ],
+    "emoji": "🍂🦠",
+    "id": "gl171"
+  },
+  "decomposition": {
+    "word": "decomposition",
+    "definition": "the breaking down of dead plants and animals into simpler materials",
+    "variations": [
+      "decomposition",
+      "decompose",
+      "decomposing"
+    ],
+    "emoji": "🍂🪱🌿",
+    "id": "gl172"
+  },
+  "decorative": {
+    "word": "decorative",
+    "definition": "made or used to make something look attractive",
+    "variations": [
+      "decorative"
+    ],
+    "emoji": "✨🎀",
+    "id": "gl173"
+  },
+  "deep litter system": {
+    "word": "deep litter system",
+    "definition": "a poultry housing system where birds stay on a floor covered with dry litter materials",
+    "variations": [
+      "deep litter system",
+      "deep litter systems"
+    ],
+    "emoji": "🐔🌾",
+    "id": "gl174"
+  },
+  "defects": {
+    "word": "defects",
+    "definition": "faults or problems that make something imperfect or lower in quality",
+    "variations": [
+      "defect",
+      "defects"
+    ],
+    "emoji": "⚠️🥚",
+    "id": "gl175"
+  },
+  "deficiency": {
+    "word": "deficiency",
+    "definition": "a lack of something needed for healthy growth",
+    "variations": [
+      "deficiency",
+      "deficiencies"
+    ],
+    "emoji": "➖🌱",
+    "id": "gl176"
+  },
+  "deformation": {
+    "word": "deformation",
+    "definition": "a change that makes something lose its normal shape",
+    "variations": [
+      "deformation",
+      "deformations"
+    ],
+    "emoji": "↪️🌱",
+    "id": "gl177"
+  },
+  "deformed": {
+    "word": "deformed",
+    "definition": "not having the normal shape or structure",
+    "variations": [
+      "deformed"
+    ],
+    "emoji": "⚠️🐣",
+    "id": "gl178"
+  },
+  "dehydration": {
+    "word": "dehydration",
+    "definition": "a harmful condition caused by losing too much water from the body",
+    "variations": [
+      "dehydration",
+      "dehydrate",
+      "dehydrated"
+    ],
+    "emoji": "💧😓",
+    "id": "gl179"
+  },
+  "determinate": {
+    "word": "determinate",
+    "definition": "a type of tomato plant that grows to a fixed height and then stops growing taller.",
+    "variations": [
+      "determinate",
+      "determinate tomatoes"
+    ],
+    "emoji": "🍅📏",
+    "id": "gl180"
+  },
+  "deviation": {
+    "word": "deviation",
+    "definition": "a change away from what is normal or expected.",
+    "variations": [
+      "deviation",
+      "deviations"
+    ],
+    "emoji": "↪️⚠️",
+    "id": "gl181"
+  },
+  "deworm": {
+    "word": "deworm",
+    "definition": "to give medicine that removes worms from the body",
+    "variations": [
+      "deworm",
+      "deworming",
+      "dewormed"
+    ],
+    "emoji": "💊🪱",
+    "id": "gl182"
+  },
+  "deworming": {
+    "word": "deworming",
+    "definition": "the removal of worms from an animal using medicine.",
+    "variations": [
+      "deworm",
+      "deworms",
+      "dewormed",
+      "deworming"
+    ],
+    "emoji": "💊🪱🐓",
+    "id": "gl183"
+  },
+  "diarrhoea": {
+    "word": "diarrhoea",
+    "definition": "a condition in which waste comes out of the body often and in a watery form",
+    "variations": [
+      "diarrhoea"
+    ],
+    "emoji": "🤒🚽",
+    "id": "gl184"
+  },
+  "dibbler": {
+    "word": "dibbler",
+    "definition": "a tool used to make holes in the soil for planting seedlings or seeds",
+    "variations": [
+      "dibbler",
+      "dibblers"
+    ],
+    "emoji": "🛠️🌱",
+    "id": "gl185"
+  },
+  "dibbling": {
+    "word": "dibbling",
+    "definition": "a method of planting seeds by making small holes in the soil and putting seeds into them",
+    "variations": [
+      "dibbling"
+    ],
+    "emoji": "🕳️🌱",
+    "id": "gl186"
+  },
+  "dietary fibre": {
+    "word": "dietary fibre",
+    "definition": "the part of plant food that helps digestion",
+    "variations": [
+      "dietary fibre",
+      "fibre"
+    ],
+    "emoji": "🥗💪",
+    "id": "gl187"
+  },
+  "digestive system": {
+    "word": "digestive system",
+    "definition": "the body parts that break down food and absorb nutrients",
+    "variations": [
+      "digestive system",
+      "digestive systems"
+    ],
+    "emoji": "🫃🍽️",
+    "id": "gl188"
+  },
+  "digital marketing": {
+    "word": "digital marketing",
+    "definition": "promoting products using the internet and digital tools",
+    "variations": [
+      "digital marketing"
+    ],
+    "emoji": "📱💻📣",
+    "id": "gl189"
+  },
+  "direct seeding": {
+    "word": "direct seeding",
+    "definition": "planting seeds straight into the garden soil where they will grow",
+    "variations": [
+      "direct seeding",
+      "direct seed",
+      "direct sowing"
+    ],
+    "emoji": "🌱🧑‍🌾",
+    "id": "gl190"
+  },
+  "discharge": {
+    "word": "discharge",
+    "definition": "liquid coming out from the eyes, nose, or another body part, often showing illness.",
+    "variations": [
+      "discharge",
+      "discharges"
+    ],
+    "emoji": "👁️💧",
+    "id": "gl191"
+  },
+  "discolouration": {
+    "word": "discolouration",
+    "definition": "a change in normal colour, often showing damage or disease",
+    "variations": [
+      "discolouration"
+    ],
+    "emoji": "🎨⚠️",
+    "id": "gl192"
+  },
+  "disease": {
+    "word": "disease",
+    "definition": "an unhealthy condition in a plant that stops it from growing well",
+    "variations": [
+      "disease",
+      "diseases"
+    ],
+    "emoji": "🦠🌿",
+    "id": "gl193"
+  },
+  "disease resistance": {
+    "word": "disease resistance",
+    "definition": "the ability of a plant to avoid or fight disease",
+    "variations": [
+      "disease resistance",
+      "resistant",
+      "resistance"
+    ],
+    "emoji": "🛡️🌿",
+    "id": "gl194"
+  },
+  "diseases": {
+    "word": "diseases",
+    "definition": "illnesses that affect plants, animals, or people",
+    "variations": [
+      "disease",
+      "diseases"
+    ],
+    "emoji": "🦠🤒",
+    "id": "gl195"
+  },
+  "disinfect": {
+    "word": "disinfect",
+    "definition": "to clean something using chemicals that kill germs",
+    "variations": [
+      "disinfect",
+      "disinfected",
+      "disinfecting",
+      "disinfection"
+    ],
+    "emoji": "🧴🦠",
+    "id": "gl196"
+  },
+  "disinfectant": {
+    "word": "disinfectant",
+    "definition": "a substance used to kill germs",
+    "variations": [
+      "disinfectant",
+      "disinfectants",
+      "disinfect"
+    ],
+    "emoji": "🧴🦠",
+    "id": "gl197"
+  },
+  "disinfection": {
+    "word": "disinfection",
+    "definition": "the process of cleaning in a way that kills germs and disease-causing organisms",
+    "variations": [
+      "disinfection",
+      "disinfect",
+      "disinfected",
+      "disinfecting"
+    ],
+    "emoji": "🧼🦠",
+    "id": "gl198"
+  },
+  "distribution channels": {
+    "word": "distribution channels",
+    "definition": "the ways goods move from the producer to the final buyer",
+    "variations": [
+      "distribution channel",
+      "distribution channels"
+    ],
+    "emoji": "🚚🛒",
+    "id": "gl199"
+  },
+  "docile": {
+    "word": "docile",
+    "definition": "calm, quiet, and easy to control",
+    "variations": [
+      "docile"
+    ],
+    "emoji": "😌🐔",
+    "id": "gl200"
+  },
+  "domesticated": {
+    "word": "domesticated",
+    "definition": "tamed and kept by people",
+    "variations": [
+      "domesticate",
+      "domesticated"
+    ],
+    "emoji": "🏠🐓",
+    "id": "gl201"
+  },
+  "downy mildew": {
+    "word": "downy mildew",
+    "definition": "a disease that makes leaves turn yellow and develop a grey or purple growth",
+    "variations": [
+      "downy mildew"
+    ],
+    "emoji": "🍃🦠",
+    "id": "gl202"
+  },
+  "drain": {
+    "word": "drain",
+    "definition": "to allow water to flow away through the soil",
+    "variations": [
+      "drain",
+      "drains",
+      "draining",
+      "drained"
+    ],
+    "emoji": "💧⬇️",
+    "id": "gl203"
+  },
+  "drainage": {
+    "word": "drainage",
+    "definition": "the movement of extra water out of the soil",
+    "variations": [
+      "drainage"
+    ],
+    "emoji": "💧↘️",
+    "id": "gl204"
+  },
+  "drains": {
+    "word": "drains",
+    "definition": "allows water to flow away from the land or building",
+    "variations": [
+      "drain",
+      "drains",
+      "drained",
+      "draining"
+    ],
+    "emoji": "💧⬇️",
+    "id": "gl205"
+  },
+  "Drake": {
+    "word": "Drake",
+    "definition": "an adult male duck used for breeding",
+    "variations": [
+      "drake",
+      "drakes"
+    ],
+    "emoji": "🦆",
+    "id": "gl206"
+  },
+  "draughts": {
+    "word": "draughts",
+    "definition": "unwanted flows of cold air moving through a house",
+    "variations": [
+      "draught",
+      "draughts"
+    ],
+    "emoji": "🌬️🥶",
+    "id": "gl207"
+  },
+  "drilling": {
+    "word": "drilling",
+    "definition": "planting seeds in a shallow line or furrow in the soil",
+    "variations": [
+      "drill",
+      "drills",
+      "drilled",
+      "drilling"
+    ],
+    "emoji": "📏🌱",
+    "id": "gl208"
+  },
+  "drinker": {
+    "word": "drinker",
+    "definition": "a container or device that supplies water to birds",
+    "variations": [
+      "drinker",
+      "drinkers"
+    ],
+    "emoji": "💧🐥",
+    "id": "gl209"
+  },
+  "drinkers": {
+    "word": "drinkers",
+    "definition": "containers or devices used to give water to chickens",
+    "variations": [
+      "drinker",
+      "drinkers"
+    ],
+    "emoji": "💧🐓",
+    "id": "gl210"
+  },
+  "drip": {
+    "word": "drip",
+    "definition": "a watering method that gives water slowly to the base of plants through small tubes or holes",
+    "variations": [
+      "drip",
+      "drip irrigation"
+    ],
+    "emoji": "💧🌱",
+    "id": "gl211"
+  },
+  "drip irrigation": {
+    "word": "drip irrigation",
+    "definition": "a method of watering plants slowly, drop by drop, near the roots",
+    "variations": [
+      "drip irrigation",
+      "drip irrigations"
+    ],
+    "emoji": "💧🪴",
+    "id": "gl212"
+  },
+  "droppings": {
+    "word": "droppings",
+    "definition": "animal waste passed out of the body",
+    "variations": [
+      "dropping",
+      "droppings"
+    ],
+    "emoji": "💩🐓",
+    "id": "gl213"
+  },
+  "drought": {
+    "word": "drought",
+    "definition": "a long period with little or no rain",
+    "variations": [
+      "drought",
+      "droughts"
+    ],
+    "emoji": "☀️🌵",
+    "id": "gl214"
+  },
+  "dual-purpose": {
+    "word": "dual-purpose",
+    "definition": "used for two main purposes; in chickens, for both meat and eggs.",
+    "variations": [
+      "dual-purpose"
+    ],
+    "emoji": "🥚🍗🐓",
+    "id": "gl215"
+  },
+  "Dual-purpose chicken": {
+    "word": "Dual-purpose chicken",
+    "definition": "a chicken raised for both meat and eggs",
+    "variations": [
+      "dual-purpose chicken",
+      "dual-purpose chickens"
+    ],
+    "emoji": "🐔🥚🍗",
+    "id": "gl216"
+  },
+  "Duckling": {
+    "word": "Duckling",
+    "definition": "a young duck",
+    "variations": [
+      "duckling",
+      "ducklings"
+    ],
+    "emoji": "🦆🐥",
+    "id": "gl217"
+  },
+  "durable": {
+    "word": "durable",
+    "definition": "strong and able to last a long time",
+    "variations": [
+      "durable",
+      "durability"
+    ],
+    "emoji": "🪨⏳",
+    "id": "gl218"
+  },
+  "duration": {
+    "word": "duration",
+    "definition": "the length of time that something lasts or continues",
+    "variations": [
+      "duration",
+      "durations"
+    ],
+    "emoji": "⏳🕒",
+    "id": "gl219"
+  },
+  "earthworm": {
+    "word": "earthworm",
+    "definition": "a worm that lives in soil and helps mix and loosen it",
+    "variations": [
+      "earthworm",
+      "earthworms"
+    ],
+    "emoji": "🪱🌱",
+    "id": "gl220"
+  },
+  "ecological conditions": {
+    "word": "ecological conditions",
+    "definition": "Ecological conditions are the natural environmental conditions of a place, such as climate, plants, and animals.",
+    "variations": [
+      "ecological condition",
+      "ecological conditions"
+    ],
+    "emoji": "🌍🌦️🌿",
+    "id": "gl221"
+  },
+  "ecosystem": {
+    "word": "ecosystem",
+    "definition": "a community of living things and their environment working together",
+    "variations": [
+      "ecosystem",
+      "ecosystems"
+    ],
+    "emoji": "🌍🌿🐞",
+    "id": "gl222"
+  },
+  "Ecotype": {
+    "word": "Ecotype",
+    "definition": "a group within a species that is adapted to a certain environment",
+    "variations": [
+      "ecotype",
+      "ecotypes"
+    ],
+    "emoji": "🌍🧬",
+    "id": "gl223"
+  },
+  "edible": {
+    "word": "edible",
+    "definition": "safe and suitable to be eaten",
+    "variations": [
+      "edible"
+    ],
+    "emoji": "🍽️✅",
+    "id": "gl224"
+  },
+  "egg-type": {
+    "word": "egg-type",
+    "definition": "Egg-type chickens are chickens kept mainly for laying many eggs.",
+    "variations": [
+      "egg-type",
+      "egg-types"
+    ],
+    "emoji": "🥚🐓",
+    "id": "gl225"
+  },
+  "eggshell": {
+    "word": "eggshell",
+    "definition": "An eggshell is the hard outer covering of an egg.",
+    "variations": [
+      "eggshell",
+      "eggshells"
+    ],
+    "emoji": "🥚",
+    "id": "gl226"
+  },
+  "electricity": {
+    "word": "electricity",
+    "definition": "Electricity is power used to run lights, machines, and equipment.",
+    "variations": [
+      "electricity"
+    ],
+    "emoji": "⚡💡",
+    "id": "gl227"
+  },
+  "eluviation": {
+    "word": "eluviation",
+    "definition": "The washing out of minerals and organic matter from the upper soil layers to lower layers.",
+    "variations": [
+      "eluviation"
+    ],
+    "emoji": "💧⬇️",
+    "id": "gl228"
+  },
+  "enclosure": {
+    "word": "enclosure",
+    "definition": "a closed or fenced space used to keep animals safely",
+    "variations": [
+      "enclosure",
+      "enclosures"
+    ],
+    "emoji": "🪵🔒🐔",
+    "id": "gl229"
+  },
+  "enterprise": {
+    "word": "enterprise",
+    "definition": "a business activity started to produce goods or make money",
+    "variations": [
+      "enterprise",
+      "enterprises"
+    ],
+    "emoji": "💼📈",
+    "id": "gl230"
+  },
+  "entrepreneurial": {
+    "word": "entrepreneurial",
+    "definition": "related to starting and managing a business",
+    "variations": [
+      "entrepreneurial",
+      "entrepreneur",
+      "entrepreneurship"
+    ],
+    "emoji": "💼💡",
+    "id": "gl231"
+  },
+  "entrepreneurial opportunities": {
+    "word": "entrepreneurial opportunities",
+    "definition": "chances to start or grow a business and earn income",
+    "variations": [
+      "entrepreneurial opportunity",
+      "entrepreneurial opportunities"
+    ],
+    "emoji": "💡💼💰",
+    "id": "gl232"
+  },
+  "equipment": {
+    "word": "equipment",
+    "definition": "Equipment means the tools and machines needed for work.",
+    "variations": [
+      "equipment"
+    ],
+    "emoji": "🛠️⚙️",
+    "id": "gl233"
+  },
+  "equipped": {
+    "word": "equipped",
+    "definition": "provided with the tools or items needed for use",
+    "variations": [
+      "equip",
+      "equipped",
+      "equipping",
+      "equipment"
+    ],
+    "emoji": "🧰✅",
+    "id": "gl234"
+  },
+  "erosion": {
+    "word": "erosion",
+    "definition": "the wearing away or removal of soil by water or wind",
+    "variations": [
+      "erosion",
+      "erosions",
+      "erode",
+      "eroded",
+      "eroding"
+    ],
+    "emoji": "🌧️🟫",
+    "id": "gl235"
+  },
+  "ethylene": {
+    "word": "ethylene",
+    "definition": "a gas produced by fruits and vegetables that can speed up ripening and spoilage",
+    "variations": [
+      "ethylene"
+    ],
+    "emoji": "🍎💨",
+    "id": "gl236"
+  },
+  "evaporation": {
+    "word": "evaporation",
+    "definition": "the process where water changes into vapour and goes into the air.",
+    "variations": [
+      "evaporation",
+      "evaporate",
+      "evaporates"
+    ],
+    "emoji": "💧☀️",
+    "id": "gl237"
+  },
+  "evaporative cooler": {
+    "word": "evaporative cooler",
+    "definition": "a storage structure that keeps produce cool by using water evaporation",
+    "variations": [
+      "evaporative cooler",
+      "evaporative coolers"
+    ],
+    "emoji": "💧🧊🥕",
+    "id": "gl238"
+  },
+  "evapotranspiration": {
+    "word": "evapotranspiration",
+    "definition": "the total loss of water from the soil and plants into the air",
+    "variations": [
+      "evapotranspiration"
+    ],
+    "emoji": "☀️💧🌿",
+    "id": "gl239"
+  },
+  "exotic": {
+    "word": "exotic",
+    "definition": "Exotic means coming from a foreign country or place.",
+    "variations": [
+      "exotic",
+      "exotics"
+    ],
+    "emoji": "🌍🐔",
+    "id": "gl240"
+  },
+  "Exotic breed": {
+    "word": "Exotic breed",
+    "definition": "an animal or plant variety that was brought from another place",
+    "variations": [
+      "exotic breed",
+      "exotic breeds"
+    ],
+    "emoji": "🐄🌍",
+    "id": "gl241"
+  },
+  "expenditures": {
+    "word": "expenditures",
+    "definition": "money spent on goods, services, or activities",
+    "variations": [
+      "expenditure",
+      "expenditures"
+    ],
+    "emoji": "💸🧾",
+    "id": "gl242"
+  },
+  "expensive": {
+    "word": "expensive",
+    "definition": "costing a lot of money",
+    "variations": [
+      "expensive"
+    ],
+    "emoji": "💸🛒",
+    "id": "gl243"
+  },
+  "experimental": {
+    "word": "experimental",
+    "definition": "Used for testing in an experiment.",
+    "variations": [
+      "experimental",
+      "experiment"
+    ],
+    "emoji": "🧪🔬",
+    "id": "gl244"
+  },
+  "extension worker": {
+    "word": "extension worker",
+    "definition": "a person who gives farmers advice and training on better farming methods",
+    "variations": [
+      "extension worker",
+      "extension workers"
+    ],
+    "emoji": "👨‍🌾📘",
+    "id": "gl245"
+  },
+  "extract": {
+    "word": "extract",
+    "definition": "to take out a useful substance from something",
+    "variations": [
+      "extract",
+      "extracts",
+      "extracted",
+      "extracting"
+    ],
+    "emoji": "🧪💧",
+    "id": "gl246"
+  },
+  "extractor fans": {
+    "word": "extractor fans",
+    "definition": "machines that remove stale air from a building",
+    "variations": [
+      "extractor fan",
+      "extractor fans"
+    ],
+    "emoji": "🌀🌬️",
+    "id": "gl247"
+  },
+  "factors of production": {
+    "word": "factors of production",
+    "definition": "the main resources used to produce goods, such as land, labour, capital, and skills",
+    "variations": [
+      "factor of production",
+      "factors of production"
+    ],
+    "emoji": "🏞️👷💵",
+    "id": "gl248"
+  },
+  "faeces": {
+    "word": "faeces",
+    "definition": "solid body waste passed out from the bowels; droppings.",
+    "variations": [
+      "faeces"
+    ],
+    "emoji": "💩🐓",
+    "id": "gl249"
+  },
+  "farming": {
+    "word": "farming",
+    "definition": "the activity of growing crops and raising animals",
+    "variations": [
+      "farm",
+      "farms",
+      "farming",
+      "farmer",
+      "farmers"
+    ],
+    "emoji": "🚜🌱",
+    "id": "gl250"
+  },
+  "farmyard manure": {
+    "word": "farmyard manure",
+    "definition": "manure made from animal waste, bedding, and leftover feed from the farm",
+    "variations": [
+      "farmyard manure"
+    ],
+    "emoji": "🐄🚜",
+    "id": "gl251"
+  },
+  "feather pecking": {
+    "word": "feather pecking",
+    "definition": "when birds peck at the feathers of other birds, often because of stress or poor management",
+    "variations": [
+      "feather pecking"
+    ],
+    "emoji": "🪶🐔",
+    "id": "gl252"
+  },
+  "feathering": {
+    "word": "feathering",
+    "definition": "the growth and covering of feathers on a bird’s body",
+    "variations": [
+      "feathering"
+    ],
+    "emoji": "🪶🐔",
+    "id": "gl253"
+  },
+  "feed": {
+    "word": "feed",
+    "definition": "Feed is food given to farm animals or birds.",
+    "variations": [
+      "feed",
+      "feeds",
+      "feeding",
+      "fed"
+    ],
+    "emoji": "🌾🐓",
+    "id": "gl254"
+  },
+  "feed efficiency": {
+    "word": "feed efficiency",
+    "definition": "Feed efficiency is how well an animal turns feed into body growth or production.",
+    "variations": [
+      "feed efficiency"
+    ],
+    "emoji": "🌾📈🐔",
+    "id": "gl255"
+  },
+  "Feed regime": {
+    "word": "Feed regime",
+    "definition": "a planned system of feeding animals",
+    "variations": [
+      "feed regime",
+      "feed regimes"
+    ],
+    "emoji": "🌾📋🐄",
+    "id": "gl256"
+  },
+  "feeder": {
+    "word": "feeder",
+    "definition": "a container or device used to give feed to birds",
+    "variations": [
+      "feeder",
+      "feeders"
+    ],
+    "emoji": "🌾🐔",
+    "id": "gl257"
+  },
+  "feeders": {
+    "word": "feeders",
+    "definition": "containers or devices used to give food to chickens",
+    "variations": [
+      "feeder",
+      "feeders"
+    ],
+    "emoji": "🥣🐔",
+    "id": "gl258"
+  },
+  "feedstuff": {
+    "word": "feedstuff",
+    "definition": "any material used as animal feed.",
+    "variations": [
+      "feedstuff",
+      "feedstuffs"
+    ],
+    "emoji": "🌾🐓",
+    "id": "gl259"
+  },
+  "fenced": {
+    "word": "fenced",
+    "definition": "surrounded by a barrier to keep animals in or out",
+    "variations": [
+      "fence",
+      "fenced",
+      "fencing"
+    ],
+    "emoji": "🚧🐔",
+    "id": "gl260"
+  },
+  "fertile egg": {
+    "word": "fertile egg",
+    "definition": "an egg that can develop into a chick",
+    "variations": [
+      "fertile egg",
+      "fertile eggs"
+    ],
+    "emoji": "🥚🐣",
+    "id": "gl261"
+  },
+  "fertile eggs": {
+    "word": "fertile eggs",
+    "definition": "eggs that can develop into young ones if incubated properly",
+    "variations": [
+      "fertile egg",
+      "fertile eggs"
+    ],
+    "emoji": "🥚🐣",
+    "id": "gl262"
+  },
+  "fertilise": {
+    "word": "fertilise",
+    "definition": "to make soil or water richer so that plants or natural food can grow better",
+    "variations": [
+      "fertilise",
+      "fertilised",
+      "fertilising",
+      "fertiliser"
+    ],
+    "emoji": "🌱💧",
+    "id": "gl263"
+  },
+  "fertilised": {
+    "word": "fertilised",
+    "definition": "an egg joined with the male cell so it can develop into a chick.",
+    "variations": [
+      "fertilised",
+      "fertilise",
+      "fertilisation"
+    ],
+    "emoji": "🥚🐣",
+    "id": "gl264"
+  },
+  "fertiliser": {
+    "word": "fertiliser",
+    "definition": "a substance added to soil to help plants grow better",
+    "variations": [
+      "fertiliser",
+      "fertilisers"
+    ],
+    "emoji": "🌾🧪",
+    "id": "gl265"
+  },
+  "fertilisers": {
+    "word": "fertilisers",
+    "definition": "materials added to soil or plants to help them grow better",
+    "variations": [
+      "fertiliser",
+      "fertilisers"
+    ],
+    "emoji": "🌱🪴",
+    "id": "gl266"
+  },
+  "fertility": {
+    "word": "fertility",
+    "definition": "The ability of soil to support healthy plant growth.",
+    "variations": [
+      "fertility",
+      "fertile"
+    ],
+    "emoji": "🌾🌱",
+    "id": "gl267"
+  },
+  "fine-textured": {
+    "word": "fine-textured",
+    "definition": "Describes soil with very small particles, mostly clay.",
+    "variations": [
+      "fine-textured",
+      "fine texture"
+    ],
+    "emoji": "🟤🔬",
+    "id": "gl268"
+  },
+  "Fingerling": {
+    "word": "Fingerling",
+    "definition": "a young small fish",
+    "variations": [
+      "fingerling",
+      "fingerlings"
+    ],
+    "emoji": "🐟",
+    "id": "gl269"
+  },
+  "fitness": {
+    "word": "fitness",
+    "definition": "Fitness is how well an animal is suited to live, grow, and produce well in its environment.",
+    "variations": [
+      "fitness",
+      "fit"
+    ],
+    "emoji": "💪🌍",
+    "id": "gl270"
+  },
+  "flatbed": {
+    "word": "flatbed",
+    "definition": "a level seedbed prepared on flat ground for planting",
+    "variations": [
+      "flatbed",
+      "flatbeds"
+    ],
+    "emoji": "🟫🌱",
+    "id": "gl271"
+  },
+  "flavour": {
+    "word": "flavour",
+    "definition": "the taste or smell of food or drink",
+    "variations": [
+      "flavour",
+      "flavours"
+    ],
+    "emoji": "😋🍲",
+    "id": "gl272"
+  },
+  "fleas": {
+    "word": "fleas",
+    "definition": "small jumping parasites that suck blood from animals",
+    "variations": [
+      "flea",
+      "fleas"
+    ],
+    "emoji": "🦠🦆",
+    "id": "gl273"
+  },
+  "flock": {
+    "word": "flock",
+    "definition": "a group of chickens or other birds kept together",
+    "variations": [
+      "flock",
+      "flocks"
+    ],
+    "emoji": "🐔🐔🐔",
+    "id": "gl274"
+  },
+  "floriculture": {
+    "word": "floriculture",
+    "definition": "the branch of horticulture that deals with growing flowers and ornamental plants",
+    "variations": [
+      "floriculture"
+    ],
+    "emoji": "🌸🌺",
+    "id": "gl275"
+  },
+  "flower": {
+    "word": "flower",
+    "definition": "the part of a plant that can develop into seeds or fruit",
+    "variations": [
+      "flower",
+      "flowers"
+    ],
+    "emoji": "🌸🌼",
+    "id": "gl276"
+  },
+  "fluctuations": {
+    "word": "fluctuations",
+    "definition": "changes up and down over time.",
+    "variations": [
+      "fluctuation",
+      "fluctuations",
+      "fluctuate"
+    ],
+    "emoji": "📉📈",
+    "id": "gl277"
+  },
+  "flukes": {
+    "word": "flukes",
+    "definition": "flat parasitic worms that can live inside the body of an animal",
+    "variations": [
+      "fluke",
+      "flukes"
+    ],
+    "emoji": "🪱⚠️",
+    "id": "gl278"
+  },
+  "fodder": {
+    "word": "fodder",
+    "definition": "plant material given to animals as food.",
+    "variations": [
+      "fodder",
+      "fodders"
+    ],
+    "emoji": "🌿🐔",
+    "id": "gl279"
+  },
+  "foliar fertilisers": {
+    "word": "foliar fertilisers",
+    "definition": "fertilisers that are mixed with water and sprayed on plant leaves.",
+    "variations": [
+      "foliar fertiliser",
+      "foliar fertilisers"
+    ],
+    "emoji": "🍃🧴",
+    "id": "gl280"
+  },
+  "Food security": {
+    "word": "Food security",
+    "definition": "having enough safe and nutritious food to meet people’s needs",
+    "variations": [
+      "food security"
+    ],
+    "emoji": "🍲🌽✅",
+    "id": "gl281"
+  },
+  "foodborne illnesses": {
+    "word": "foodborne illnesses",
+    "definition": "diseases people get from eating unsafe or contaminated food",
+    "variations": [
+      "foodborne illness",
+      "foodborne illnesses"
+    ],
+    "emoji": "🍽️🦠🤒",
+    "id": "gl282"
+  },
+  "forage": {
+    "word": "forage",
+    "definition": "green plants or grasses eaten by animals",
+    "variations": [
+      "forage"
+    ],
+    "emoji": "🌿🐓",
+    "id": "gl283"
+  },
+  "Foraging": {
+    "word": "Foraging",
+    "definition": "the act of searching for food by animals",
+    "variations": [
+      "forage",
+      "foraging",
+      "foraged"
+    ],
+    "emoji": "🐐🌿",
+    "id": "gl284"
+  },
+  "foreign exchange": {
+    "word": "foreign exchange",
+    "definition": "money earned from selling goods and services to other countries",
+    "variations": [
+      "foreign exchange"
+    ],
+    "emoji": "💱🌍",
+    "id": "gl285"
+  },
+  "formula": {
+    "word": "formula",
+    "definition": "A formula is a set way of mixing things in the correct amounts.",
+    "variations": [
+      "formula",
+      "formulas"
+    ],
+    "emoji": "🧪📋",
+    "id": "gl286"
+  },
+  "formulate": {
+    "word": "formulate",
+    "definition": "to prepare or make something carefully using the right ingredients or parts",
+    "variations": [
+      "formulate",
+      "formulates",
+      "formulated",
+      "formulation"
+    ],
+    "emoji": "🧪🌾",
+    "id": "gl287"
+  },
+  "foundation": {
+    "word": "foundation",
+    "definition": "the strong base on which a building is built",
+    "variations": [
+      "foundation",
+      "foundations"
+    ],
+    "emoji": "🧱🏗️",
+    "id": "gl288"
+  },
+  "fowl typhoid": {
+    "word": "fowl typhoid",
+    "definition": "a serious infectious disease of chickens caused by bacteria",
+    "variations": [
+      "fowl typhoid"
+    ],
+    "emoji": "🐔🦠",
+    "id": "gl289"
+  },
+  "free-range": {
+    "word": "free-range",
+    "definition": "a system where birds move around freely for part of the day",
+    "variations": [
+      "free-range"
+    ],
+    "emoji": "🐓🌿",
+    "id": "gl290"
+  },
+  "freshness": {
+    "word": "freshness",
+    "definition": "the state of being fresh and not spoiled or old",
+    "variations": [
+      "fresh",
+      "fresher",
+      "freshest",
+      "freshness"
+    ],
+    "emoji": "🥚✨",
+    "id": "gl291"
+  },
+  "fruit": {
+    "word": "fruit",
+    "definition": "the part of a plant that holds seeds and is often eaten",
+    "variations": [
+      "fruit",
+      "fruits"
+    ],
+    "emoji": "🍎🍊",
+    "id": "gl292"
+  },
+  "fungi": {
+    "word": "fungi",
+    "definition": "simple living things, such as moulds, that help break down dead material",
+    "variations": [
+      "fungi",
+      "fungus"
+    ],
+    "emoji": "🍄🔬",
+    "id": "gl293"
+  },
+  "fungicide": {
+    "word": "fungicide",
+    "definition": "a pesticide used to kill fungi that cause plant diseases",
+    "variations": [
+      "fungicide",
+      "fungicides"
+    ],
+    "emoji": "🧪🍄",
+    "id": "gl294"
+  },
+  "fungicides": {
+    "word": "fungicides",
+    "definition": "chemicals used to prevent or kill fungal diseases in plants",
+    "variations": [
+      "fungicide",
+      "fungicides"
+    ],
+    "emoji": "🧪🍄",
+    "id": "gl295"
+  },
+  "furrow": {
+    "word": "furrow",
+    "definition": "a long narrow channel in the soil, often used to guide water or plant crops",
+    "variations": [
+      "furrow",
+      "furrows"
+    ],
+    "emoji": "🌾💧",
+    "id": "gl296"
+  },
+  "furrow irrigation": {
+    "word": "furrow irrigation",
+    "definition": "a method of watering crops by letting water flow through small channels made in the soil",
+    "variations": [
+      "furrow irrigation",
+      "furrow irrigations"
+    ],
+    "emoji": "🌾💧",
+    "id": "gl297"
+  },
+  "fusarium wilt": {
+    "word": "fusarium wilt",
+    "definition": "a plant disease that causes yellowing and drooping, often starting from the lower part of the plant",
+    "variations": [
+      "fusarium wilt"
+    ],
+    "emoji": "🥀🌱",
+    "id": "gl298"
+  },
+  "gable roof": {
+    "word": "gable roof",
+    "definition": "a roof with two sloping sides that meet at the top",
+    "variations": [
+      "gable roof",
+      "gable roofs"
+    ],
+    "emoji": "🏠📐",
+    "id": "gl299"
+  },
+  "galvanized": {
+    "word": "galvanized",
+    "definition": "covered with a protective metal layer to prevent rust",
+    "variations": [
+      "galvanized",
+      "galvanised"
+    ],
+    "emoji": "🛠️🔩",
+    "id": "gl300"
+  },
+  "galvanized wire": {
+    "word": "galvanized wire",
+    "definition": "wire coated to prevent rust and make it last longer",
+    "variations": [
+      "galvanized wire"
+    ],
+    "emoji": "🧵🛠️",
+    "id": "gl301"
+  },
+  "Gap filling": {
+    "word": "Gap filling",
+    "definition": "planting extra crops in empty spaces in a field",
+    "variations": [
+      "gap filling"
+    ],
+    "emoji": "🌱🕳️",
+    "id": "gl302"
+  },
+  "gap-filling": {
+    "word": "gap-filling",
+    "definition": "planting in empty spaces where seeds or seedlings did not grow",
+    "variations": [
+      "gap-filling",
+      "gap filling",
+      "fill gaps",
+      "gap-filled"
+    ],
+    "emoji": "🕳️🌱",
+    "id": "gl303"
+  },
+  "genetically": {
+    "word": "genetically",
+    "definition": "Genetically means relating to genes and how features are passed from parents to young ones.",
+    "variations": [
+      "genetically",
+      "genetic",
+      "genetics"
+    ],
+    "emoji": "🧬👪",
+    "id": "gl304"
+  },
+  "genetics": {
+    "word": "genetics",
+    "definition": "the study of how traits are passed from parents to offspring",
+    "variations": [
+      "genetics",
+      "genetic"
+    ],
+    "emoji": "🧬🌱",
+    "id": "gl305"
+  },
+  "germinated": {
+    "word": "germinated",
+    "definition": "started to grow from a seed.",
+    "variations": [
+      "germinate",
+      "germinates",
+      "germinating",
+      "germinated"
+    ],
+    "emoji": "🌱✨",
+    "id": "gl306"
+  },
+  "germination": {
+    "word": "germination",
+    "definition": "the process by which a seed starts to grow into a plant",
+    "variations": [
+      "germination",
+      "germinate",
+      "germinated",
+      "germinating"
+    ],
+    "emoji": "🌰🌱",
+    "id": "gl307"
+  },
+  "germination percentage": {
+    "word": "germination percentage",
+    "definition": "the number of seeds that sprout out of every 100 seeds tested",
+    "variations": [
+      "germination percentage",
+      "germination percentages"
+    ],
+    "emoji": "💯🌱",
+    "id": "gl308"
+  },
+  "germination test": {
+    "word": "germination test",
+    "definition": "a test done to check how many seeds can sprout and grow",
+    "variations": [
+      "germination test",
+      "germination tests"
+    ],
+    "emoji": "🧪🌱",
+    "id": "gl309"
+  },
+  "grade": {
+    "word": "grade",
+    "definition": "to classify produce by quality, size, or condition",
+    "variations": [
+      "grade",
+      "grades",
+      "graded",
+      "grading"
+    ],
+    "emoji": "🏷️📊",
+    "id": "gl310"
+  },
+  "graded": {
+    "word": "graded",
+    "definition": "sorted into groups based on quality, size, or another feature.",
+    "variations": [
+      "grade",
+      "graded",
+      "grading"
+    ],
+    "emoji": "📦🥚",
+    "id": "gl311"
+  },
+  "grading": {
+    "word": "grading",
+    "definition": "grouping vegetables by size, shape, colour, or quality",
+    "variations": [
+      "grading",
+      "grade",
+      "grades",
+      "graded"
+    ],
+    "emoji": "📏🥕",
+    "id": "gl312"
+  },
+  "green manure": {
+    "word": "green manure",
+    "definition": "a crop grown and then mixed into the soil to improve fertility",
+    "variations": [
+      "green manure"
+    ],
+    "emoji": "🌿🌱",
+    "id": "gl313"
+  },
+  "greenhouse": {
+    "word": "greenhouse",
+    "definition": "a building with clear walls or roof used for growing plants under controlled conditions",
+    "variations": [
+      "greenhouse",
+      "greenhouses"
+    ],
+    "emoji": "🏠🌿☀️",
+    "id": "gl314"
+  },
+  "grit": {
+    "word": "grit",
+    "definition": "small hard particles that birds swallow to help grind food in their stomach",
+    "variations": [
+      "grit",
+      "grits"
+    ],
+    "emoji": "🪨🐦",
+    "id": "gl315"
+  },
+  "grower": {
+    "word": "grower",
+    "definition": "a chicken in the growing stage before it starts laying eggs",
+    "variations": [
+      "grower",
+      "growers"
+    ],
+    "emoji": "🐓📈",
+    "id": "gl316"
+  },
+  "grower feed": {
+    "word": "grower feed",
+    "definition": "feed given to growing animals after the starter stage",
+    "variations": [
+      "grower feed",
+      "grower feeds"
+    ],
+    "emoji": "🌾🦆",
+    "id": "gl317"
+  },
+  "grower mash": {
+    "word": "grower mash",
+    "definition": "feed made for growing chickens before they start laying eggs",
+    "variations": [
+      "grower mash",
+      "grower mashes"
+    ],
+    "emoji": "🌾🐔",
+    "id": "gl318"
+  },
+  "growing media": {
+    "word": "growing media",
+    "definition": "materials in which plants grow, such as soil or other planting substances",
+    "variations": [
+      "growing media"
+    ],
+    "emoji": "🪴🌱",
+    "id": "gl319"
+  },
+  "hardened": {
+    "word": "hardened",
+    "definition": "made stronger before transplanting by reducing water or exposing seedlings slowly to outside conditions.",
+    "variations": [
+      "harden",
+      "hardens",
+      "hardening",
+      "hardened"
+    ],
+    "emoji": "🌱💪",
+    "id": "gl320"
+  },
+  "hardened off": {
+    "word": "hardened off",
+    "definition": "prepared slowly for outdoor conditions by reducing water or shade before transplanting",
+    "variations": [
+      "harden off",
+      "hardened off",
+      "hardening off"
+    ],
+    "emoji": "🌤️💪🌱",
+    "id": "gl321"
+  },
+  "Hardening off": {
+    "word": "Hardening off",
+    "definition": "the gradual process of getting young plants used to outdoor conditions before transplanting",
+    "variations": [
+      "hardening off"
+    ],
+    "emoji": "🪴☀️🌬️",
+    "id": "gl322"
+  },
+  "harrow": {
+    "word": "harrow",
+    "definition": "to break up and smooth soil after ploughing",
+    "variations": [
+      "harrow",
+      "harrows",
+      "harrowed",
+      "harrowing"
+    ],
+    "emoji": "🌾🛠️",
+    "id": "gl323"
+  },
+  "harvest": {
+    "word": "harvest",
+    "definition": "to pick or collect mature crops from the field",
+    "variations": [
+      "harvest",
+      "harvesting",
+      "harvested"
+    ],
+    "emoji": "🧺🌾",
+    "id": "gl324"
+  },
+  "harvesting": {
+    "word": "harvesting",
+    "definition": "the act of collecting mature crops from the farm",
+    "variations": [
+      "harvest",
+      "harvests",
+      "harvesting",
+      "harvested"
+    ],
+    "emoji": "🌽🧺",
+    "id": "gl325"
+  },
+  "hatch": {
+    "word": "hatch",
+    "definition": "to come out of an egg",
+    "variations": [
+      "hatch",
+      "hatches",
+      "hatched",
+      "hatching"
+    ],
+    "emoji": "🐣🥚",
+    "id": "gl326"
+  },
+  "hatchery": {
+    "word": "hatchery",
+    "definition": "a place where eggs are hatched and chicks are produced",
+    "variations": [
+      "hatchery",
+      "hatcheries"
+    ],
+    "emoji": "🥚🐣",
+    "id": "gl327"
+  },
+  "hatching": {
+    "word": "hatching",
+    "definition": "the process of a chick coming out of an egg",
+    "variations": [
+      "hatch",
+      "hatching",
+      "hatched"
+    ],
+    "emoji": "🥚🐣",
+    "id": "gl328"
+  },
+  "head-forming": {
+    "word": "head-forming",
+    "definition": "describing a cabbage that grows into a compact head",
+    "variations": [
+      "head-forming"
+    ],
+    "emoji": "🥬⭕",
+    "id": "gl329"
+  },
+  "hectare": {
+    "word": "hectare",
+    "definition": "a unit used to measure land area, especially farms",
+    "variations": [
+      "hectare",
+      "hectares"
+    ],
+    "emoji": "📏🌍",
+    "id": "gl330"
+  },
+  "Hen": {
+    "word": "Hen",
+    "definition": "an adult female chicken or duck",
+    "variations": [
+      "hen",
+      "hens"
+    ],
+    "emoji": "🐔",
+    "id": "gl331"
+  },
+  "herbicide": {
+    "word": "herbicide",
+    "definition": "a chemical used to kill weeds",
+    "variations": [
+      "herbicide",
+      "herbicides"
+    ],
+    "emoji": "🧴🌿",
+    "id": "gl332"
+  },
+  "herbicides": {
+    "word": "herbicides",
+    "definition": "chemicals used to kill or control weeds.",
+    "variations": [
+      "herbicide",
+      "herbicides"
+    ],
+    "emoji": "🧴🌿",
+    "id": "gl333"
+  },
+  "hilling up": {
+    "word": "hilling up",
+    "definition": "putting soil around the base of a plant to support it and protect roots or tubers",
+    "variations": [
+      "hilling up"
+    ],
+    "emoji": "🌱🪏",
+    "id": "gl334"
+  },
+  "hinged": {
+    "word": "hinged",
+    "definition": "attached in a way that allows opening and closing by turning on a joint",
+    "variations": [
+      "hinged",
+      "hinge",
+      "hinges"
+    ],
+    "emoji": "🚪🔧",
+    "id": "gl335"
+  },
+  "honeydew": {
+    "word": "honeydew",
+    "definition": "a sticky liquid left on plants by some insects after sucking sap",
+    "variations": [
+      "honeydew"
+    ],
+    "emoji": "🍯🌿",
+    "id": "gl336"
+  },
+  "hopper feeder": {
+    "word": "hopper feeder",
+    "definition": "a feeder that stores feed and releases it gradually for birds to eat",
+    "variations": [
+      "hopper feeder",
+      "hopper feeders"
+    ],
+    "emoji": "🍽️🐔",
+    "id": "gl337"
+  },
+  "horizons": {
+    "word": "horizons",
+    "definition": "The different layers found in a soil profile.",
+    "variations": [
+      "horizon",
+      "horizons"
+    ],
+    "emoji": "📚🟤",
+    "id": "gl338"
+  },
+  "horticultural crop": {
+    "word": "horticultural crop",
+    "definition": "a crop such as fruits, vegetables, flowers, or spices grown with special care",
+    "variations": [
+      "horticultural crop",
+      "horticultural crops"
+    ],
+    "emoji": "🥬🍓🌸",
+    "id": "gl339"
+  },
+  "horticultural crops": {
+    "word": "horticultural crops",
+    "definition": "crops such as fruits, vegetables, and flowers that are grown with special care",
+    "variations": [
+      "horticultural crop",
+      "horticultural crops",
+      "horticulture"
+    ],
+    "emoji": "🍅🥕🌸",
+    "id": "gl340"
+  },
+  "horticultural farming": {
+    "word": "horticultural farming",
+    "definition": "the growing of crops such as vegetables, fruits, spices, and ornamental plants",
+    "variations": [
+      "horticulture",
+      "horticultural"
+    ],
+    "emoji": "🌱🍅",
+    "id": "gl341"
+  },
+  "horticultural production": {
+    "word": "horticultural production",
+    "definition": "the growing and handling of horticultural crops for use or sale",
+    "variations": [
+      "horticultural production"
+    ],
+    "emoji": "🌱📦",
+    "id": "gl342"
+  },
+  "horticulture": {
+    "word": "horticulture",
+    "definition": "the growing and management of fruits, vegetables, flowers, and other garden crops",
+    "variations": [
+      "horticulture",
+      "horticultural"
+    ],
+    "emoji": "🌸🥕🍎",
+    "id": "gl343"
+  },
+  "host": {
+    "word": "host",
+    "definition": "a plant or animal that another organism lives on or inside.",
+    "variations": [
+      "host",
+      "hosts"
+    ],
+    "emoji": "🐔🪱",
+    "id": "gl344"
+  },
+  "houseplant": {
+    "word": "houseplant",
+    "definition": "a plant grown inside a house or building",
+    "variations": [
+      "houseplant",
+      "houseplants"
+    ],
+    "emoji": "🪴🏠",
+    "id": "gl345"
+  },
+  "housing": {
+    "word": "housing",
+    "definition": "the shelter or structure where animals are kept and protected",
+    "variations": [
+      "house",
+      "houses",
+      "housing",
+      "housed"
+    ],
+    "emoji": "🏠🐓",
+    "id": "gl346"
+  },
+  "humid": {
+    "word": "humid",
+    "definition": "having a lot of moisture or water in the air",
+    "variations": [
+      "humid",
+      "humidity"
+    ],
+    "emoji": "💧🌫️",
+    "id": "gl347"
+  },
+  "humidity": {
+    "word": "humidity",
+    "definition": "the amount of water vapour in the air",
+    "variations": [
+      "humidity"
+    ],
+    "emoji": "💧🌫️",
+    "id": "gl348"
+  },
+  "humus": {
+    "word": "humus",
+    "definition": "dark decayed organic matter in the soil that helps it stay fertile",
+    "variations": [
+      "humus"
+    ],
+    "emoji": "🌑🌿",
+    "id": "gl349"
+  },
+  "husbandry": {
+    "word": "husbandry",
+    "definition": "the care, feeding, and management of farm animals.",
+    "variations": [
+      "husbandry"
+    ],
+    "emoji": "🐄🐔🌾",
+    "id": "gl350"
+  },
+  "hybrid": {
+    "word": "hybrid",
+    "definition": "a plant produced by crossing two different types to get useful qualities",
+    "variations": [
+      "hybrid",
+      "hybrids"
+    ],
+    "emoji": "🧬🌿",
+    "id": "gl351"
+  },
+  "hybrids": {
+    "word": "hybrids",
+    "definition": "plant varieties made by crossing two different parent plants to get desired qualities.",
+    "variations": [
+      "hybrid",
+      "hybrids"
+    ],
+    "emoji": "🧬🍅",
+    "id": "gl352"
+  },
+  "Hydroponic": {
+    "word": "Hydroponic",
+    "definition": "a method of growing plants in nutrient water instead of soil",
+    "variations": [
+      "hydroponic",
+      "hydroponics"
+    ],
+    "emoji": "💧🌱",
+    "id": "gl353"
+  },
+  "hydroponic fodder": {
+    "word": "hydroponic fodder",
+    "definition": "animal feed grown from seeds in water with nutrients instead of soil.",
+    "variations": [
+      "hydroponic fodder"
+    ],
+    "emoji": "💧🌿🐔",
+    "id": "gl354"
+  },
+  "hydroponic system": {
+    "word": "hydroponic system",
+    "definition": "a way of growing plants without soil, usually using water with nutrients",
+    "variations": [
+      "hydroponic system",
+      "hydroponic systems",
+      "hydroponics"
+    ],
+    "emoji": "💧🌱🧪",
+    "id": "gl355"
+  },
+  "hygiene": {
+    "word": "hygiene",
+    "definition": "clean practices that help prevent disease",
+    "variations": [
+      "hygiene",
+      "hygienic"
+    ],
+    "emoji": "🧼✨",
+    "id": "gl356"
+  },
+  "hygienic": {
+    "word": "hygienic",
+    "definition": "clean and healthy in a way that helps prevent disease",
+    "variations": [
+      "hygienic",
+      "hygiene"
+    ],
+    "emoji": "🧼✨",
+    "id": "gl357"
+  },
+  "hygrometer": {
+    "word": "hygrometer",
+    "definition": "an instrument used to measure humidity in the air",
+    "variations": [
+      "hygrometer",
+      "hygrometers"
+    ],
+    "emoji": "💧📏",
+    "id": "gl358"
+  },
+  "ICT": {
+    "word": "ICT",
+    "definition": "tools such as computers, phones, and the internet used to find, store, and share information",
+    "variations": [
+      "ICT",
+      "ICT tools"
+    ],
+    "emoji": "💻📱🌐",
+    "id": "gl359"
+  },
+  "illuvial horizon": {
+    "word": "illuvial horizon",
+    "definition": "A soil layer where minerals washed from upper layers collect.",
+    "variations": [
+      "illuvial horizon",
+      "illuvial horizons"
+    ],
+    "emoji": "🟤⬇️",
+    "id": "gl360"
+  },
+  "improvised": {
+    "word": "improvised",
+    "definition": "made or arranged using what is available, often in a simple or creative way",
+    "variations": [
+      "improvised",
+      "improvise",
+      "improvising"
+    ],
+    "emoji": "🛠️♻️",
+    "id": "gl361"
+  },
+  "incidence": {
+    "word": "incidence",
+    "definition": "the rate or number of times something happens, especially disease or a problem",
+    "variations": [
+      "incidence",
+      "incidences"
+    ],
+    "emoji": "📊⚠️",
+    "id": "gl362"
+  },
+  "incubation": {
+    "word": "incubation",
+    "definition": "the process of keeping fertile eggs under the right conditions until they hatch",
+    "variations": [
+      "incubation"
+    ],
+    "emoji": "🥚🌡️🐣",
+    "id": "gl363"
+  },
+  "Incubator": {
+    "word": "Incubator",
+    "definition": "a controlled place that provides the right conditions for hatching eggs",
+    "variations": [
+      "incubator",
+      "incubators"
+    ],
+    "emoji": "🥚🌡️",
+    "id": "gl364"
+  },
+  "indeterminate": {
+    "word": "indeterminate",
+    "definition": "a type of tomato plant that keeps growing taller and continues producing leaves, flowers, and fruits.",
+    "variations": [
+      "indeterminate",
+      "indeterminate tomatoes"
+    ],
+    "emoji": "🍅⬆️🌿",
+    "id": "gl365"
+  },
+  "indigenous": {
+    "word": "indigenous",
+    "definition": "originally from a particular area or naturally found there.",
+    "variations": [
+      "indigenous"
+    ],
+    "emoji": "🌍🐔",
+    "id": "gl366"
+  },
+  "infected": {
+    "word": "infected",
+    "definition": "having disease-causing germs in the body.",
+    "variations": [
+      "infected",
+      "infect"
+    ],
+    "emoji": "🦠⚠️",
+    "id": "gl367"
+  },
+  "infection": {
+    "word": "infection",
+    "definition": "a disease caused by harmful germs entering the body",
+    "variations": [
+      "infection",
+      "infections",
+      "infect",
+      "infected",
+      "infecting"
+    ],
+    "emoji": "🦠🤒",
+    "id": "gl368"
+  },
+  "infectious": {
+    "word": "infectious",
+    "definition": "able to spread from one animal to another",
+    "variations": [
+      "infectious"
+    ],
+    "emoji": "🦠↔️",
+    "id": "gl369"
+  },
+  "inferior": {
+    "word": "inferior",
+    "definition": "lower in quality or performance",
+    "variations": [
+      "inferior"
+    ],
+    "emoji": "⬇️🐓",
+    "id": "gl370"
+  },
+  "infestation": {
+    "word": "infestation",
+    "definition": "a situation where very many harmful organisms are present in or on a place or animal.",
+    "variations": [
+      "infestation",
+      "infestations"
+    ],
+    "emoji": "🐛⚠️",
+    "id": "gl371"
+  },
+  "infrared bulb": {
+    "word": "infrared bulb",
+    "definition": "a bulb that gives off heat and is used to keep chicks warm",
+    "variations": [
+      "infrared bulb",
+      "infrared bulbs"
+    ],
+    "emoji": "💡🔥",
+    "id": "gl372"
+  },
+  "infrastructure": {
+    "word": "infrastructure",
+    "definition": "Infrastructure means basic systems and structures such as roads, transport, water, and electricity that support work and life.",
+    "variations": [
+      "infrastructure",
+      "infrastructures"
+    ],
+    "emoji": "🛣️🚚💡",
+    "id": "gl373"
+  },
+  "ingredient": {
+    "word": "ingredient",
+    "definition": "An ingredient is one of the things mixed together to make feed or food.",
+    "variations": [
+      "ingredient",
+      "ingredients"
+    ],
+    "emoji": "🌽🥣",
+    "id": "gl374"
+  },
+  "inorganic fertiliser": {
+    "word": "inorganic fertiliser",
+    "definition": "manufactured plant food added to soil to improve growth",
+    "variations": [
+      "inorganic fertiliser",
+      "fertiliser",
+      "fertilisers"
+    ],
+    "emoji": "🧪🌾",
+    "id": "gl375"
+  },
+  "inorganic fertilisers": {
+    "word": "inorganic fertilisers",
+    "definition": "fertilisers made in factories to supply plant nutrients",
+    "variations": [
+      "inorganic fertiliser",
+      "inorganic fertilisers",
+      "inorganic fertilizer",
+      "inorganic fertilizers"
+    ],
+    "emoji": "🏭🧪",
+    "id": "gl376"
+  },
+  "insecticide": {
+    "word": "insecticide",
+    "definition": "a pesticide used to kill insect pests",
+    "variations": [
+      "insecticide",
+      "insecticides"
+    ],
+    "emoji": "🐛🧪",
+    "id": "gl377"
+  },
+  "insecticides": {
+    "word": "insecticides",
+    "definition": "chemicals used to kill harmful insects",
+    "variations": [
+      "insecticide",
+      "insecticides"
+    ],
+    "emoji": "🧪🐜",
+    "id": "gl378"
+  },
+  "inspected": {
+    "word": "inspected",
+    "definition": "checked carefully to see if something is good, safe, or has problems",
+    "variations": [
+      "inspect",
+      "inspects",
+      "inspected",
+      "inspection"
+    ],
+    "emoji": "🔍👀",
+    "id": "gl379"
+  },
+  "insulation": {
+    "word": "insulation",
+    "definition": "material used to reduce heat or cold from passing through a roof or wall",
+    "variations": [
+      "insulation"
+    ],
+    "emoji": "🏠🌡️",
+    "id": "gl380"
+  },
+  "intact": {
+    "word": "intact",
+    "definition": "whole and not damaged.",
+    "variations": [
+      "intact"
+    ],
+    "emoji": "✅🩺",
+    "id": "gl381"
+  },
+  "Integrated Pest Management": {
+    "word": "Integrated Pest Management",
+    "definition": "a way of controlling pests by combining different methods such as cultural, biological, physical, and chemical control",
+    "variations": [
+      "Integrated Pest Management",
+      "IPM"
+    ],
+    "emoji": "🌱🐞🛡️",
+    "id": "gl382"
+  },
+  "integrated system": {
+    "word": "integrated system",
+    "definition": "a farming method where two or more activities, such as keeping ducks and fish together, are combined",
+    "variations": [
+      "integrated system",
+      "integrated systems"
+    ],
+    "emoji": "🦆🐟🌾",
+    "id": "gl383"
+  },
+  "intensive housing": {
+    "word": "intensive housing",
+    "definition": "a system where birds are kept mainly in houses and managed closely",
+    "variations": [
+      "intensive housing"
+    ],
+    "emoji": "🏠🐓",
+    "id": "gl384"
+  },
+  "intensive poultry production system": {
+    "word": "intensive poultry production system",
+    "definition": "a poultry keeping system where birds are kept closely in houses, cages, or on special floors for high production",
+    "variations": [
+      "intensive poultry production system",
+      "intensive poultry production systems"
+    ],
+    "emoji": "🐔🏢",
+    "id": "gl385"
+  },
+  "intensive system": {
+    "word": "intensive system",
+    "definition": "An intensive system is a method of keeping many animals in a small area with close management.",
+    "variations": [
+      "intensive system",
+      "intensive systems"
+    ],
+    "emoji": "🏠🐔",
+    "id": "gl386"
+  },
+  "intercropping": {
+    "word": "intercropping",
+    "definition": "growing two or more crops together in the same field.",
+    "variations": [
+      "intercrop",
+      "intercropping",
+      "intercropped"
+    ],
+    "emoji": "🌽🍅🌱",
+    "id": "gl387"
+  },
+  "intermediary": {
+    "word": "intermediary",
+    "definition": "a person or business that helps move products from producer to buyer",
+    "variations": [
+      "intermediary",
+      "intermediaries"
+    ],
+    "emoji": "🤝📦",
+    "id": "gl388"
+  },
+  "interspaces": {
+    "word": "interspaces",
+    "definition": "small gaps or spaces between bars, poles, or other objects",
+    "variations": [
+      "interspace",
+      "interspaces"
+    ],
+    "emoji": "↔️📏",
+    "id": "gl389"
+  },
+  "intestinal": {
+    "word": "intestinal",
+    "definition": "related to the intestines, the part of the body that digests food.",
+    "variations": [
+      "intestinal",
+      "intestine",
+      "intestines"
+    ],
+    "emoji": "🫃🔬",
+    "id": "gl390"
+  },
+  "investment": {
+    "word": "investment",
+    "definition": "money used to start or improve a business or activity",
+    "variations": [
+      "investment",
+      "investments"
+    ],
+    "emoji": "💰📊",
+    "id": "gl391"
+  },
+  "irrigate": {
+    "word": "irrigate",
+    "definition": "to supply water to crops when rain is not enough.",
+    "variations": [
+      "irrigate",
+      "irrigates",
+      "irrigation",
+      "irrigated"
+    ],
+    "emoji": "💦🚿",
+    "id": "gl392"
+  },
+  "irrigation": {
+    "word": "irrigation",
+    "definition": "the artificial supply of water to crops when rain is not enough",
+    "variations": [
+      "irrigation",
+      "irrigations",
+      "irrigate",
+      "irrigated",
+      "irrigating"
+    ],
+    "emoji": "💧🌱",
+    "id": "gl393"
+  },
+  "isolate": {
+    "word": "isolate",
+    "definition": "to keep a sick or injured bird away from others so it does not get harmed more or spread disease",
+    "variations": [
+      "isolate",
+      "isolated",
+      "isolating",
+      "isolation"
+    ],
+    "emoji": "🚧🐓",
+    "id": "gl394"
+  },
+  "isolated": {
+    "word": "isolated",
+    "definition": "kept separate from others to prevent disease from spreading",
+    "variations": [
+      "isolate",
+      "isolated",
+      "isolation"
+    ],
+    "emoji": "🚫🐓",
+    "id": "gl395"
+  },
+  "isolation": {
+    "word": "isolation",
+    "definition": "keeping an animal away from others to prevent the spread of disease",
+    "variations": [
+      "isolation",
+      "isolate",
+      "isolated",
+      "isolating"
+    ],
+    "emoji": "🚪⚠️",
+    "id": "gl396"
+  },
+  "jaundice": {
+    "word": "jaundice",
+    "definition": "a condition that makes the skin or eyes look yellow because of illness",
+    "variations": [
+      "jaundice"
+    ],
+    "emoji": "🟡🤒",
+    "id": "gl397"
+  },
+  "Keel": {
+    "word": "Keel",
+    "definition": "the breast bone that sticks out on poultry",
+    "variations": [
+      "keel",
+      "keels"
+    ],
+    "emoji": "🐓🦴",
+    "id": "gl398"
+  },
+  "keel bone": {
+    "word": "keel bone",
+    "definition": "the breast bone of a bird found in the chest area",
+    "variations": [
+      "keel bone",
+      "keel bones"
+    ],
+    "emoji": "🐔🦴",
+    "id": "gl399"
+  },
+  "labelled": {
+    "word": "labelled",
+    "definition": "marked with written information such as name, date, or size",
+    "variations": [
+      "label",
+      "labels",
+      "labelled",
+      "labelling"
+    ],
+    "emoji": "🏷️📝",
+    "id": "gl400"
+  },
+  "labour": {
+    "word": "labour",
+    "definition": "the work done by people on the farm",
+    "variations": [
+      "labour"
+    ],
+    "emoji": "🧑‍🌾💪",
+    "id": "gl401"
+  },
+  "land preparation": {
+    "word": "land preparation",
+    "definition": "the work of getting land ready for planting",
+    "variations": [
+      "land preparation"
+    ],
+    "emoji": "🚜🌍",
+    "id": "gl402"
+  },
+  "landscape": {
+    "word": "landscape",
+    "definition": "an outdoor area of land and how it looks",
+    "variations": [
+      "landscape",
+      "landscapes"
+    ],
+    "emoji": "🏞️🌳",
+    "id": "gl403"
+  },
+  "landscaping": {
+    "word": "landscaping",
+    "definition": "designing and arranging land, plants, and other materials to make a place attractive",
+    "variations": [
+      "landscaping",
+      "landscape"
+    ],
+    "emoji": "🌳🌷",
+    "id": "gl404"
+  },
+  "larva": {
+    "word": "larva",
+    "definition": "the young form of an insect before it becomes an adult",
+    "variations": [
+      "larva",
+      "larvae"
+    ],
+    "emoji": "🐛🔄",
+    "id": "gl405"
+  },
+  "larvae": {
+    "word": "larvae",
+    "definition": "the young form of some insects before they become adults",
+    "variations": [
+      "larva",
+      "larvae"
+    ],
+    "emoji": "🐛",
+    "id": "gl406"
+  },
+  "late blight": {
+    "word": "late blight",
+    "definition": "a serious plant disease that causes dark spots and damage on leaves and fruits",
+    "variations": [
+      "late blight"
+    ],
+    "emoji": "🍃🦠",
+    "id": "gl407"
+  },
+  "layer": {
+    "word": "layer",
+    "definition": "a hen kept mainly for laying eggs",
+    "variations": [
+      "layer",
+      "layers"
+    ],
+    "emoji": "🥚🐔",
+    "id": "gl408"
+  },
+  "layer chickens": {
+    "word": "layer chickens",
+    "definition": "chickens that are specially bred for laying eggs",
+    "variations": [
+      "layer chicken",
+      "layer chickens",
+      "layers"
+    ],
+    "emoji": "🐔🥚",
+    "id": "gl409"
+  },
+  "Layers": {
+    "word": "Layers",
+    "definition": "chickens kept mainly for egg production",
+    "variations": [
+      "layer",
+      "layers",
+      "egger",
+      "eggers"
+    ],
+    "emoji": "🐔🥚",
+    "id": "gl410"
+  },
+  "layout": {
+    "word": "layout",
+    "definition": "the way parts of a farm or building are arranged",
+    "variations": [
+      "layout",
+      "layouts"
+    ],
+    "emoji": "🗺️📍",
+    "id": "gl411"
+  },
+  "leaching": {
+    "word": "leaching",
+    "definition": "the washing away of plant nutrients from the soil by water",
+    "variations": [
+      "leaching",
+      "leach",
+      "leaches",
+      "leached"
+    ],
+    "emoji": "💧🌍",
+    "id": "gl412"
+  },
+  "leaf": {
+    "word": "leaf",
+    "definition": "the flat green part of a plant that helps it make food",
+    "variations": [
+      "leaf",
+      "leaves"
+    ],
+    "emoji": "🍃🌿",
+    "id": "gl413"
+  },
+  "leaf miner": {
+    "word": "leaf miner",
+    "definition": "a small insect whose young ones feed inside leaves and make winding marks",
+    "variations": [
+      "leaf miner",
+      "leaf miners"
+    ],
+    "emoji": "🍃🐛",
+    "id": "gl414"
+  },
+  "leguminous": {
+    "word": "leguminous",
+    "definition": "belonging to plants such as beans and peas that are rich in protein.",
+    "variations": [
+      "leguminous"
+    ],
+    "emoji": "🌱🫘",
+    "id": "gl415"
+  },
+  "lesion": {
+    "word": "lesion",
+    "definition": "a damaged or diseased mark on a plant part such as a leaf",
+    "variations": [
+      "lesion",
+      "lesions"
+    ],
+    "emoji": "🍃⚠️",
+    "id": "gl416"
+  },
+  "lethargy": {
+    "word": "lethargy",
+    "definition": "a state of being very tired, weak, and lacking energy",
+    "variations": [
+      "lethargy"
+    ],
+    "emoji": "😴🤒",
+    "id": "gl417"
+  },
+  "lifecycle": {
+    "word": "lifecycle",
+    "definition": "the stages a living thing goes through from beginning to end",
+    "variations": [
+      "lifecycle",
+      "lifecycles"
+    ],
+    "emoji": "🔄🌱",
+    "id": "gl418"
+  },
+  "lighting period": {
+    "word": "lighting period",
+    "definition": "the number of hours of light given each day",
+    "variations": [
+      "lighting period",
+      "lighting periods"
+    ],
+    "emoji": "💡⏰",
+    "id": "gl419"
+  },
+  "lime": {
+    "word": "lime",
+    "definition": "a material added to acidic soil to raise its pH",
+    "variations": [
+      "lime"
+    ],
+    "emoji": "🪨🌱",
+    "id": "gl420"
+  },
+  "litter": {
+    "word": "litter",
+    "definition": "dry material spread on the floor or in nests for animals",
+    "variations": [
+      "litter"
+    ],
+    "emoji": "🌾🏠",
+    "id": "gl421"
+  },
+  "livestock": {
+    "word": "livestock",
+    "definition": "farm animals kept for use or profit, such as cattle, goats, and sheep",
+    "variations": [
+      "livestock"
+    ],
+    "emoji": "🐄🐐",
+    "id": "gl422"
+  },
+  "loamy": {
+    "word": "loamy",
+    "definition": "describing soil that has a good mix of sand, clay, and organic matter and is good for crops",
+    "variations": [
+      "loam",
+      "loamy"
+    ],
+    "emoji": "🪨🌱",
+    "id": "gl423"
+  },
+  "loamy soil": {
+    "word": "loamy soil",
+    "definition": "Soil with a balanced mixture of sand, silt, clay, and organic matter, good for many crops.",
+    "variations": [
+      "loam",
+      "loamy soil",
+      "loamy soils"
+    ],
+    "emoji": "🌱🟫👍",
+    "id": "gl424"
+  },
+  "locally available": {
+    "word": "locally available",
+    "definition": "found easily in the nearby area",
+    "variations": [
+      "locally available"
+    ],
+    "emoji": "📍🧺",
+    "id": "gl425"
+  },
+  "logo": {
+    "word": "logo",
+    "definition": "a symbol or design used to identify a business or product",
+    "variations": [
+      "logo",
+      "logos"
+    ],
+    "emoji": "🔖🎨",
+    "id": "gl426"
+  },
+  "louse": {
+    "word": "louse",
+    "definition": "a small insect that lives on the body of animals and sucks blood or irritates the skin.",
+    "variations": [
+      "louse",
+      "lice"
+    ],
+    "emoji": "🐛🐔",
+    "id": "gl427"
+  },
+  "macro-organisms": {
+    "word": "macro-organisms",
+    "definition": "living things in the soil that are large enough to be seen easily",
+    "variations": [
+      "macro-organism",
+      "macro-organisms"
+    ],
+    "emoji": "🪱🐜",
+    "id": "gl428"
+  },
+  "macronutrients": {
+    "word": "macronutrients",
+    "definition": "nutrients that plants need in large amounts",
+    "variations": [
+      "macronutrient",
+      "macronutrients"
+    ],
+    "emoji": "🌱📦",
+    "id": "gl429"
+  },
+  "macropores": {
+    "word": "macropores",
+    "definition": "Large spaces in soil that allow air and water to move quickly.",
+    "variations": [
+      "macropore",
+      "macropores"
+    ],
+    "emoji": "🕳️🌬️💧",
+    "id": "gl430"
+  },
+  "maggot": {
+    "word": "maggot",
+    "definition": "the soft worm-like young stage of a fly",
+    "variations": [
+      "maggot",
+      "maggots"
+    ],
+    "emoji": "🪱🐛",
+    "id": "gl431"
+  },
+  "mandatory": {
+    "word": "mandatory",
+    "definition": "required by rule or necessity",
+    "variations": [
+      "mandatory"
+    ],
+    "emoji": "📌✅",
+    "id": "gl432"
+  },
+  "manually": {
+    "word": "manually",
+    "definition": "done by hand instead of by machine",
+    "variations": [
+      "manual",
+      "manually"
+    ],
+    "emoji": "✋⚙️",
+    "id": "gl433"
+  },
+  "manure": {
+    "word": "manure",
+    "definition": "animal waste used to make soil more fertile",
+    "variations": [
+      "manure",
+      "manures"
+    ],
+    "emoji": "🐄🌿",
+    "id": "gl434"
+  },
+  "market": {
+    "word": "market",
+    "definition": "the place or system where goods are bought and sold",
+    "variations": [
+      "market",
+      "markets"
+    ],
+    "emoji": "🛒💹",
+    "id": "gl435"
+  },
+  "market demand": {
+    "word": "market demand",
+    "definition": "how much people want to buy a product",
+    "variations": [
+      "market demand",
+      "demand"
+    ],
+    "emoji": "🛒📈",
+    "id": "gl436"
+  },
+  "market research": {
+    "word": "market research",
+    "definition": "the process of finding out what customers want and how a product can be sold",
+    "variations": [
+      "market research"
+    ],
+    "emoji": "📊🔎",
+    "id": "gl437"
+  },
+  "market survey": {
+    "word": "market survey",
+    "definition": "finding out what buyers want, how much they want, and the prices in the market",
+    "variations": [
+      "market survey",
+      "market surveys"
+    ],
+    "emoji": "📊🛒",
+    "id": "gl438"
+  },
+  "marketing": {
+    "word": "marketing",
+    "definition": "the act of selling produce in a way that reduces losses and brings a good price",
+    "variations": [
+      "marketing",
+      "market",
+      "markets",
+      "marketed"
+    ],
+    "emoji": "🛒💰",
+    "id": "gl439"
+  },
+  "marketing strategies": {
+    "word": "marketing strategies",
+    "definition": "plans used to promote and sell products effectively",
+    "variations": [
+      "marketing strategy",
+      "marketing strategies"
+    ],
+    "emoji": "📣💡",
+    "id": "gl440"
+  },
+  "Mash": {
+    "word": "Mash",
+    "definition": "a mixture of ground feed for animals",
+    "variations": [
+      "mash"
+    ],
+    "emoji": "🌾🥣",
+    "id": "gl441"
+  },
+  "mating": {
+    "word": "mating",
+    "definition": "the joining of a male and female animal for reproduction",
+    "variations": [
+      "mate",
+      "mates",
+      "mating"
+    ],
+    "emoji": "🦆❤️",
+    "id": "gl442"
+  },
+  "mature": {
+    "word": "mature",
+    "definition": "fully grown and ready for harvesting or use",
+    "variations": [
+      "mature",
+      "matures",
+      "matured",
+      "maturity"
+    ],
+    "emoji": "✅🌿",
+    "id": "gl443"
+  },
+  "maturing": {
+    "word": "maturing",
+    "definition": "Maturing means growing until fully developed.",
+    "variations": [
+      "mature",
+      "matures",
+      "matured",
+      "maturing"
+    ],
+    "emoji": "🌱🐓",
+    "id": "gl444"
+  },
+  "maturity": {
+    "word": "maturity",
+    "definition": "the stage when a crop is fully grown and ready to be harvested",
+    "variations": [
+      "maturity",
+      "maturities",
+      "mature"
+    ],
+    "emoji": "🍅✅",
+    "id": "gl445"
+  },
+  "maturity indices": {
+    "word": "maturity indices",
+    "definition": "signs used to show that a crop is ready for harvesting",
+    "variations": [
+      "maturity index",
+      "maturity indices"
+    ],
+    "emoji": "✅🍅",
+    "id": "gl446"
+  },
+  "maximise": {
+    "word": "maximise",
+    "definition": "to make something as great or as high as possible.",
+    "variations": [
+      "maximise",
+      "maximised",
+      "maximising"
+    ],
+    "emoji": "📈✅",
+    "id": "gl447"
+  },
+  "meat-type": {
+    "word": "meat-type",
+    "definition": "Meat-type chickens are chickens kept mainly for meat production.",
+    "variations": [
+      "meat-type",
+      "meat-types"
+    ],
+    "emoji": "🍗🐔",
+    "id": "gl448"
+  },
+  "mechanisation": {
+    "word": "mechanisation",
+    "definition": "the use of machines to do farm work more easily and quickly",
+    "variations": [
+      "mechanisation",
+      "mechanization",
+      "mechanised",
+      "mechanized"
+    ],
+    "emoji": "🚜⚙️",
+    "id": "gl449"
+  },
+  "micro-organism": {
+    "word": "micro-organism",
+    "definition": "a very tiny living thing, such as bacteria or fungi, that can only be seen with special tools",
+    "variations": [
+      "micro-organism",
+      "micro-organisms"
+    ],
+    "emoji": "🦠🔬",
+    "id": "gl450"
+  },
+  "micro-organisms": {
+    "word": "micro-organisms",
+    "definition": "very tiny living things, some of which can cause disease",
+    "variations": [
+      "micro-organism",
+      "micro-organisms",
+      "microorganism",
+      "microorganisms"
+    ],
+    "emoji": "🦠🔬",
+    "id": "gl451"
+  },
+  "micronutrient": {
+    "word": "micronutrient",
+    "definition": "a nutrient needed only in very small amounts for healthy growth.",
+    "variations": [
+      "micronutrient",
+      "micronutrients"
+    ],
+    "emoji": "🔬✨",
+    "id": "gl452"
+  },
+  "micronutrients": {
+    "word": "micronutrients",
+    "definition": "nutrients needed by plants in very small amounts for healthy growth.",
+    "variations": [
+      "micronutrient",
+      "micronutrients"
+    ],
+    "emoji": "🧪🌱",
+    "id": "gl453"
+  },
+  "micropores": {
+    "word": "micropores",
+    "definition": "Very small spaces in soil that hold water for plants.",
+    "variations": [
+      "micropore",
+      "micropores"
+    ],
+    "emoji": "🕳️💧",
+    "id": "gl454"
+  },
+  "middlemen": {
+    "word": "middlemen",
+    "definition": "people or businesses that help move goods from producers to buyers",
+    "variations": [
+      "middleman",
+      "middlemen"
+    ],
+    "emoji": "🤝🛒",
+    "id": "gl455"
+  },
+  "mineral": {
+    "word": "mineral",
+    "definition": "a natural substance in food that helps the body stay healthy",
+    "variations": [
+      "mineral",
+      "minerals"
+    ],
+    "emoji": "🥬💪",
+    "id": "gl456"
+  },
+  "mineral matter": {
+    "word": "mineral matter",
+    "definition": "the part of soil made of tiny rock pieces such as sand, silt, and clay",
+    "variations": [
+      "mineral matter",
+      "minerals"
+    ],
+    "emoji": "🪨🟤",
+    "id": "gl457"
+  },
+  "minerals": {
+    "word": "minerals",
+    "definition": "Natural substances in soil that plants need for healthy growth.",
+    "variations": [
+      "mineral",
+      "minerals"
+    ],
+    "emoji": "🪨🌱",
+    "id": "gl458"
+  },
+  "mite": {
+    "word": "mite",
+    "definition": "a very tiny creature that can live on animals and cause irritation or disease.",
+    "variations": [
+      "mite",
+      "mites"
+    ],
+    "emoji": "🔍🐓",
+    "id": "gl459"
+  },
+  "mites": {
+    "word": "mites",
+    "definition": "very small creatures related to spiders, some of which damage plants",
+    "variations": [
+      "mite",
+      "mites"
+    ],
+    "emoji": "🕷️",
+    "id": "gl460"
+  },
+  "moisten": {
+    "word": "moisten",
+    "definition": "To make something slightly wet.",
+    "variations": [
+      "moisten",
+      "moistens",
+      "moistened",
+      "moistening",
+      "moist"
+    ],
+    "emoji": "💧",
+    "id": "gl461"
+  },
+  "moisture": {
+    "word": "moisture",
+    "definition": "a small amount of water found in soil, air, or plants",
+    "variations": [
+      "moisture",
+      "moist"
+    ],
+    "emoji": "💧🌫️",
+    "id": "gl462"
+  },
+  "moisture-proof": {
+    "word": "moisture-proof",
+    "definition": "able to stop water or dampness from passing through",
+    "variations": [
+      "moisture-proof"
+    ],
+    "emoji": "💧🚫",
+    "id": "gl463"
+  },
+  "mortality": {
+    "word": "mortality",
+    "definition": "the number of deaths in a group of animals.",
+    "variations": [
+      "mortality"
+    ],
+    "emoji": "📉🐓",
+    "id": "gl464"
+  },
+  "mortality rate": {
+    "word": "mortality rate",
+    "definition": "the number or percentage of animals that die in a group over a period of time",
+    "variations": [
+      "mortality rate",
+      "mortality rates"
+    ],
+    "emoji": "📉⚠️",
+    "id": "gl465"
+  },
+  "moult": {
+    "word": "moult",
+    "definition": "the natural shedding of old feathers and growth of new ones",
+    "variations": [
+      "moult",
+      "moulting"
+    ],
+    "emoji": "🪶🔄",
+    "id": "gl466"
+  },
+  "mulch": {
+    "word": "mulch",
+    "definition": "material put on the soil surface to help keep moisture, reduce weeds, and protect the soil",
+    "variations": [
+      "mulch",
+      "mulches",
+      "mulching"
+    ],
+    "emoji": "🍂🌿",
+    "id": "gl467"
+  },
+  "mulches": {
+    "word": "mulches",
+    "definition": "materials placed on the soil surface to keep moisture and reduce weeds",
+    "variations": [
+      "mulch",
+      "mulches"
+    ],
+    "emoji": "🌾💧",
+    "id": "gl468"
+  },
+  "mulching": {
+    "word": "mulching",
+    "definition": "covering the soil around plants with dry grass, straw, or other material to keep moisture and reduce weeds.",
+    "variations": [
+      "mulch",
+      "mulches",
+      "mulching",
+      "mulched"
+    ],
+    "emoji": "🌾🌱",
+    "id": "gl469"
+  },
+  "multi-storey gardening": {
+    "word": "multi-storey gardening",
+    "definition": "growing plants on several levels one above another",
+    "variations": [
+      "multi-storey gardening"
+    ],
+    "emoji": "🏗️🌱⬆️",
+    "id": "gl470"
+  },
+  "navel": {
+    "word": "navel",
+    "definition": "the small healed opening on a chick’s body where the yolk sac was attached before hatching",
+    "variations": [
+      "navel",
+      "navels"
+    ],
+    "emoji": "🐥🔍",
+    "id": "gl471"
+  },
+  "nematode": {
+    "word": "nematode",
+    "definition": "a very small worm-like pest that can damage plant roots",
+    "variations": [
+      "nematode",
+      "nematodes"
+    ],
+    "emoji": "🪱🌱",
+    "id": "gl472"
+  },
+  "nematodes": {
+    "word": "nematodes",
+    "definition": "tiny worms in the soil that can damage plant roots",
+    "variations": [
+      "nematode",
+      "nematodes"
+    ],
+    "emoji": "🪱🌱",
+    "id": "gl473"
+  },
+  "Nest": {
+    "word": "Nest",
+    "definition": "a place made or chosen by a bird for laying eggs and keeping its young safe",
+    "variations": [
+      "nest",
+      "nests"
+    ],
+    "emoji": "🪺🥚",
+    "id": "gl474"
+  },
+  "nests": {
+    "word": "nests",
+    "definition": "places where birds lay eggs",
+    "variations": [
+      "nest",
+      "nests"
+    ],
+    "emoji": "🥚🪹",
+    "id": "gl475"
+  },
+  "neutral": {
+    "word": "neutral",
+    "definition": "neither acidic nor alkaline",
+    "variations": [
+      "neutral"
+    ],
+    "emoji": "⚖️🧪",
+    "id": "gl476"
+  },
+  "nipple drinker": {
+    "word": "nipple drinker",
+    "definition": "a water device that releases water when a bird pecks it",
+    "variations": [
+      "nipple drinker",
+      "nipple drinkers"
+    ],
+    "emoji": "💧🐔",
+    "id": "gl477"
+  },
+  "nitrogen": {
+    "word": "nitrogen",
+    "definition": "a plant nutrient that helps leaves and stems grow",
+    "variations": [
+      "nitrogen"
+    ],
+    "emoji": "🍃🧪",
+    "id": "gl478"
+  },
+  "nitrogen fixation": {
+    "word": "nitrogen fixation",
+    "definition": "the process of changing nitrogen from the air into a form plants can use",
+    "variations": [
+      "nitrogen fixation"
+    ],
+    "emoji": "🌬️🌱🦠",
+    "id": "gl479"
+  },
+  "nitrogenous fertiliser": {
+    "word": "nitrogenous fertiliser",
+    "definition": "fertiliser that contains nitrogen to help plants grow fast and green",
+    "variations": [
+      "nitrogenous fertiliser",
+      "nitrogenous fertilisers"
+    ],
+    "emoji": "🧪🌱",
+    "id": "gl480"
+  },
+  "non-headed": {
+    "word": "non-headed",
+    "definition": "describing a cabbage that does not form a tight round head",
+    "variations": [
+      "non-headed"
+    ],
+    "emoji": "🥬↔️",
+    "id": "gl481"
+  },
+  "nostril": {
+    "word": "nostril",
+    "definition": "one of the two openings of the nose used for breathing",
+    "variations": [
+      "nostril",
+      "nostrils"
+    ],
+    "emoji": "👃💧",
+    "id": "gl482"
+  },
+  "NPK": {
+    "word": "NPK",
+    "definition": "a fertiliser mixture that contains nitrogen, phosphorus, and potassium",
+    "variations": [
+      "NPK"
+    ],
+    "emoji": "🧪🌱",
+    "id": "gl483"
+  },
+  "nuisance": {
+    "word": "nuisance",
+    "definition": "something annoying or troublesome",
+    "variations": [
+      "nuisance",
+      "nuisances"
+    ],
+    "emoji": "🪰😖",
+    "id": "gl484"
+  },
+  "nursery": {
+    "word": "nursery",
+    "definition": "a special place where young plants are grown before being moved to the field",
+    "variations": [
+      "nursery",
+      "nurseries"
+    ],
+    "emoji": "🌱🏡",
+    "id": "gl485"
+  },
+  "nutrient": {
+    "word": "nutrient",
+    "definition": "a useful substance that helps plants grow well",
+    "variations": [
+      "nutrient",
+      "nutrients"
+    ],
+    "emoji": "🌿🧪",
+    "id": "gl486"
+  },
+  "nutrients": {
+    "word": "nutrients",
+    "definition": "useful substances that plants and animals need to grow and stay healthy",
+    "variations": [
+      "nutrient",
+      "nutrients"
+    ],
+    "emoji": "🌿💧",
+    "id": "gl487"
+  },
+  "nutritional deficiency": {
+    "word": "nutritional deficiency",
+    "definition": "lack of enough important nutrients in the body",
+    "variations": [
+      "nutritional deficiency",
+      "nutritional deficiencies"
+    ],
+    "emoji": "🥣❗",
+    "id": "gl488"
+  },
+  "nutritional disorders": {
+    "word": "nutritional disorders",
+    "definition": "health problems caused by lack of proper nutrients or poor feeding",
+    "variations": [
+      "nutritional disorder",
+      "nutritional disorders"
+    ],
+    "emoji": "🥣⚠️🤒",
+    "id": "gl489"
+  },
+  "observations": {
+    "word": "observations",
+    "definition": "Things you notice carefully and record during an activity or experiment.",
+    "variations": [
+      "observation",
+      "observations",
+      "observe",
+      "observed",
+      "observing"
+    ],
+    "emoji": "👀📝",
+    "id": "gl490"
+  },
+  "offspring": {
+    "word": "offspring",
+    "definition": "Offspring are the young ones produced by animals or people.",
+    "variations": [
+      "offspring"
+    ],
+    "emoji": "🐣👶",
+    "id": "gl491"
+  },
+  "olericulture": {
+    "word": "olericulture",
+    "definition": "the branch of horticulture that deals with growing vegetables",
+    "variations": [
+      "olericulture"
+    ],
+    "emoji": "🥬🥕",
+    "id": "gl492"
+  },
+  "open-pollinated": {
+    "word": "open-pollinated",
+    "definition": "a plant variety that can produce seeds which grow into plants similar to the parent plant.",
+    "variations": [
+      "open-pollinated",
+      "open-pollinated varieties"
+    ],
+    "emoji": "🌼🌱",
+    "id": "gl493"
+  },
+  "optimum": {
+    "word": "optimum",
+    "definition": "the best or most suitable level or amount",
+    "variations": [
+      "optimum",
+      "optimal"
+    ],
+    "emoji": "✅📈",
+    "id": "gl494"
+  },
+  "organic": {
+    "word": "organic",
+    "definition": "grown or produced without using synthetic chemicals such as artificial fertilisers and pesticides",
+    "variations": [
+      "organic",
+      "organically"
+    ],
+    "emoji": "🌿♻️",
+    "id": "gl495"
+  },
+  "organic fertilisers": {
+    "word": "organic fertilisers",
+    "definition": "natural materials from plants or animals that add nutrients to the soil",
+    "variations": [
+      "organic fertiliser",
+      "organic fertilisers",
+      "organic fertilizer",
+      "organic fertilizers"
+    ],
+    "emoji": "🐄🍂🌱",
+    "id": "gl496"
+  },
+  "organic manure": {
+    "word": "organic manure",
+    "definition": "natural fertiliser made from animal waste or plant materials",
+    "variations": [
+      "organic manure",
+      "manure"
+    ],
+    "emoji": "🐄🌱",
+    "id": "gl497"
+  },
+  "organic matter": {
+    "word": "organic matter",
+    "definition": "dead plant or animal material in the soil that helps it become fertile.",
+    "variations": [
+      "organic matter"
+    ],
+    "emoji": "🍂🌍",
+    "id": "gl498"
+  },
+  "organisms": {
+    "word": "organisms",
+    "definition": "Living things such as tiny animals, plants, or microbes found in the soil.",
+    "variations": [
+      "organism",
+      "organisms"
+    ],
+    "emoji": "🦠🐛🌱",
+    "id": "gl499"
+  },
+  "ornamental": {
+    "word": "ornamental",
+    "definition": "kept mainly for beauty or decoration",
+    "variations": [
+      "ornamental"
+    ],
+    "emoji": "🦚✨",
+    "id": "gl500"
+  },
+  "ornamental crop": {
+    "word": "ornamental crop",
+    "definition": "a plant grown mainly to decorate places and make them look beautiful",
+    "variations": [
+      "ornamental crop",
+      "ornamental crops"
+    ],
+    "emoji": "🌸🏡",
+    "id": "gl501"
+  },
+  "ornamental plants": {
+    "word": "ornamental plants",
+    "definition": "plants grown mainly for beauty and decoration",
+    "variations": [
+      "ornamental plant",
+      "ornamental plants",
+      "ornamentals"
+    ],
+    "emoji": "🌸🌺",
+    "id": "gl502"
+  },
+  "overcrowding": {
+    "word": "overcrowding",
+    "definition": "having too many animals or people in one place",
+    "variations": [
+      "overcrowding"
+    ],
+    "emoji": "🚫🐓",
+    "id": "gl503"
+  },
+  "oxygen": {
+    "word": "oxygen",
+    "definition": "A gas in air that plants, animals, and soil organisms need to stay alive.",
+    "variations": [
+      "oxygen"
+    ],
+    "emoji": "🌬️🫁",
+    "id": "gl504"
+  },
+  "packaged": {
+    "word": "packaged",
+    "definition": "put into containers or wrapping for protection, storage, or sale",
+    "variations": [
+      "package",
+      "packages",
+      "packaged",
+      "packaging"
+    ],
+    "emoji": "📦🥚",
+    "id": "gl505"
+  },
+  "packaging": {
+    "word": "packaging",
+    "definition": "the wrapping or packing of a product so it can be stored, transported, or sold.",
+    "variations": [
+      "package",
+      "packages",
+      "packaged",
+      "packaging"
+    ],
+    "emoji": "📦🛍️",
+    "id": "gl506"
+  },
+  "paralysis": {
+    "word": "paralysis",
+    "definition": "loss of the ability to move part or all of the body",
+    "variations": [
+      "paralysis"
+    ],
+    "emoji": "⚠️🛌",
+    "id": "gl507"
+  },
+  "parasite": {
+    "word": "parasite",
+    "definition": "a living thing that lives on or inside an animal and causes harm",
+    "variations": [
+      "parasite",
+      "parasites"
+    ],
+    "emoji": "🦠🐛",
+    "id": "gl508"
+  },
+  "parasites": {
+    "word": "parasites",
+    "definition": "small organisms that live on or inside an animal and cause harm",
+    "variations": [
+      "parasite",
+      "parasites"
+    ],
+    "emoji": "🦟🪱🐔",
+    "id": "gl509"
+  },
+  "parasitic": {
+    "word": "parasitic",
+    "definition": "caused by parasites that live on or inside another animal and harm it",
+    "variations": [
+      "parasite",
+      "parasites",
+      "parasitic"
+    ],
+    "emoji": "🪱🦠",
+    "id": "gl510"
+  },
+  "partitions": {
+    "word": "partitions",
+    "definition": "walls or dividers that separate spaces inside a building",
+    "variations": [
+      "partition",
+      "partitions"
+    ],
+    "emoji": "🚪🧱",
+    "id": "gl511"
+  },
+  "partnerships": {
+    "word": "partnerships",
+    "definition": "working relationships between people or businesses for a shared purpose",
+    "variations": [
+      "partnership",
+      "partnerships"
+    ],
+    "emoji": "🤝🏪",
+    "id": "gl512"
+  },
+  "pathogen": {
+    "word": "pathogen",
+    "definition": "a germ or organism that causes disease",
+    "variations": [
+      "pathogen",
+      "pathogens"
+    ],
+    "emoji": "🦠⚠️",
+    "id": "gl513"
+  },
+  "pathogens": {
+    "word": "pathogens",
+    "definition": "tiny organisms that cause disease in plants, animals, or people.",
+    "variations": [
+      "pathogen",
+      "pathogens"
+    ],
+    "emoji": "🦠🌿",
+    "id": "gl514"
+  },
+  "pear shape": {
+    "word": "pear shape",
+    "definition": "a shape that is wider at one end and narrower at the other end",
+    "variations": [
+      "pear shape",
+      "pear-shaped"
+    ],
+    "emoji": "🍐🥚",
+    "id": "gl515"
+  },
+  "peculiar": {
+    "word": "peculiar",
+    "definition": "special or unusual in a way that makes something different",
+    "variations": [
+      "peculiar"
+    ],
+    "emoji": "👀⭐",
+    "id": "gl516"
+  },
+  "pellet": {
+    "word": "pellet",
+    "definition": "small hard pieces of feed made for animals to eat",
+    "variations": [
+      "pellet",
+      "pellets"
+    ],
+    "emoji": "🟤🌾",
+    "id": "gl517"
+  },
+  "pellets": {
+    "word": "pellets",
+    "definition": "small pressed pieces of animal feed",
+    "variations": [
+      "pellet",
+      "pellets"
+    ],
+    "emoji": "🌾🔸",
+    "id": "gl518"
+  },
+  "perch": {
+    "word": "perch",
+    "definition": "a raised bar or place where chickens sit or rest.",
+    "variations": [
+      "perch",
+      "perches",
+      "perched",
+      "perching"
+    ],
+    "emoji": "🪵🐔",
+    "id": "gl519"
+  },
+  "perches": {
+    "word": "perches",
+    "definition": "raised bars or places where chickens sit or rest",
+    "variations": [
+      "perch",
+      "perches"
+    ],
+    "emoji": "🐔🪵",
+    "id": "gl520"
+  },
+  "perennial": {
+    "word": "perennial",
+    "definition": "lasting for many years, especially a plant that grows again each year",
+    "variations": [
+      "perennial",
+      "perennials"
+    ],
+    "emoji": "🌳♻️",
+    "id": "gl521"
+  },
+  "perennial weeds": {
+    "word": "perennial weeds",
+    "definition": "weeds that live for many years and keep growing back",
+    "variations": [
+      "perennial weed",
+      "perennial weeds"
+    ],
+    "emoji": "🌾🔁",
+    "id": "gl522"
+  },
+  "peri-urban": {
+    "word": "peri-urban",
+    "definition": "located just outside or around a town or city",
+    "variations": [
+      "peri-urban"
+    ],
+    "emoji": "🏘️🌆",
+    "id": "gl523"
+  },
+  "perishable": {
+    "word": "perishable",
+    "definition": "able to go bad or spoil quickly",
+    "variations": [
+      "perishable",
+      "perishables"
+    ],
+    "emoji": "🥬⏳",
+    "id": "gl524"
+  },
+  "pest": {
+    "word": "pest",
+    "definition": "any living thing that harms crops, such as insects, weeds, rats, fungi, or bacteria",
+    "variations": [
+      "pest",
+      "pests"
+    ],
+    "emoji": "🐛🌿🐀",
+    "id": "gl525"
+  },
+  "pesticide": {
+    "word": "pesticide",
+    "definition": "a chemical or natural substance used to kill or control pests",
+    "variations": [
+      "pesticide",
+      "pesticides"
+    ],
+    "emoji": "🧪🐛",
+    "id": "gl526"
+  },
+  "pesticides": {
+    "word": "pesticides",
+    "definition": "substances used to kill pests that harm crops",
+    "variations": [
+      "pesticide",
+      "pesticides"
+    ],
+    "emoji": "🧪🌾",
+    "id": "gl527"
+  },
+  "pests": {
+    "word": "pests",
+    "definition": "small animals or insects that damage crops or animals",
+    "variations": [
+      "pest",
+      "pests"
+    ],
+    "emoji": "🐛🦗",
+    "id": "gl528"
+  },
+  "pH": {
+    "word": "pH",
+    "definition": "a scale used to measure how acidic or alkaline something is, such as soil.",
+    "variations": [
+      "pH"
+    ],
+    "emoji": "🧪📏",
+    "id": "gl529"
+  },
+  "Phenotype": {
+    "word": "Phenotype",
+    "definition": "the visible features or traits of an organism",
+    "variations": [
+      "phenotype",
+      "phenotypes"
+    ],
+    "emoji": "👀🧬",
+    "id": "gl530"
+  },
+  "phenotypically": {
+    "word": "phenotypically",
+    "definition": "Phenotypically means relating to visible features that can be seen or measured.",
+    "variations": [
+      "phenotypically",
+      "phenotypic"
+    ],
+    "emoji": "👀📏",
+    "id": "gl531"
+  },
+  "phosphate": {
+    "word": "phosphate",
+    "definition": "a plant nutrient that helps roots, flowers, and fruits to develop well.",
+    "variations": [
+      "phosphate",
+      "phosphates"
+    ],
+    "emoji": "🧪🌱",
+    "id": "gl532"
+  },
+  "phosphorus": {
+    "word": "phosphorus",
+    "definition": "a mineral important for growth, strong bones, and body functions",
+    "variations": [
+      "phosphorus"
+    ],
+    "emoji": "🦴🌱",
+    "id": "gl533"
+  },
+  "photosynthesis": {
+    "word": "photosynthesis",
+    "definition": "the process by which green plants use sunlight, water, and air to make food",
+    "variations": [
+      "photosynthesis"
+    ],
+    "emoji": "☀️🌿💧",
+    "id": "gl534"
+  },
+  "physiological disorder": {
+    "word": "physiological disorder",
+    "definition": "a plant problem caused by growing conditions, not by pests or diseases",
+    "variations": [
+      "physiological disorder",
+      "physiological disorders"
+    ],
+    "emoji": "🌱⚠️",
+    "id": "gl535"
+  },
+  "pipeline": {
+    "word": "pipeline",
+    "definition": "a pipe through which water or another substance flows",
+    "variations": [
+      "pipeline",
+      "pipelines"
+    ],
+    "emoji": "🚰➡️",
+    "id": "gl536"
+  },
+  "pituitary gland": {
+    "word": "pituitary gland",
+    "definition": "a small gland in the brain that helps control growth and reproduction",
+    "variations": [
+      "pituitary gland",
+      "pituitary glands"
+    ],
+    "emoji": "🧠⚙️",
+    "id": "gl537"
+  },
+  "Plant population": {
+    "word": "Plant population",
+    "definition": "the number of plants growing in a given area",
+    "variations": [
+      "plant population",
+      "plant density"
+    ],
+    "emoji": "🌱📏",
+    "id": "gl538"
+  },
+  "plot": {
+    "word": "plot",
+    "definition": "a small marked area of land used for growing crops",
+    "variations": [
+      "plot",
+      "plots"
+    ],
+    "emoji": "🟫📍",
+    "id": "gl539"
+  },
+  "plough": {
+    "word": "plough",
+    "definition": "to turn and loosen soil before planting",
+    "variations": [
+      "plough",
+      "ploughs",
+      "ploughed",
+      "ploughing"
+    ],
+    "emoji": "🚜🌍",
+    "id": "gl540"
+  },
+  "pluck": {
+    "word": "pluck",
+    "definition": "to pull feathers off a bird after slaughter",
+    "variations": [
+      "pluck",
+      "plucked",
+      "plucking"
+    ],
+    "emoji": "🪶✋",
+    "id": "gl541"
+  },
+  "plucking": {
+    "word": "plucking",
+    "definition": "removing feathers from a chicken after slaughter.",
+    "variations": [
+      "pluck",
+      "plucks",
+      "plucked",
+      "plucking"
+    ],
+    "emoji": "🪶🐓",
+    "id": "gl542"
+  },
+  "plywood": {
+    "word": "plywood",
+    "definition": "a strong board made by sticking thin layers of wood together",
+    "variations": [
+      "plywood"
+    ],
+    "emoji": "🪵🧱",
+    "id": "gl543"
+  },
+  "pod": {
+    "word": "pod",
+    "definition": "a long covering that holds seeds in some plants, such as beans and peas",
+    "variations": [
+      "pod",
+      "pods"
+    ],
+    "emoji": "🫛🌿",
+    "id": "gl544"
+  },
+  "polythene": {
+    "word": "polythene",
+    "definition": "a type of plastic used for wrapping or packaging things",
+    "variations": [
+      "polythene"
+    ],
+    "emoji": "🛍️📦",
+    "id": "gl545"
+  },
+  "polythene bag": {
+    "word": "polythene bag",
+    "definition": "a plastic bag used for carrying or holding things, sometimes for planting",
+    "variations": [
+      "polythene bag",
+      "polythene bags"
+    ],
+    "emoji": "🛍️🌱",
+    "id": "gl546"
+  },
+  "pomology": {
+    "word": "pomology",
+    "definition": "the branch of horticulture that deals with growing fruits",
+    "variations": [
+      "pomology"
+    ],
+    "emoji": "🍎🍊",
+    "id": "gl547"
+  },
+  "pore spaces": {
+    "word": "pore spaces",
+    "definition": "Small open spaces in soil that can hold air and water.",
+    "variations": [
+      "pore space",
+      "pore spaces"
+    ],
+    "emoji": "🕳️💧🌬️",
+    "id": "gl548"
+  },
+  "porosity": {
+    "word": "porosity",
+    "definition": "The amount of open space in soil for holding air and water.",
+    "variations": [
+      "porosity",
+      "porous"
+    ],
+    "emoji": "🕳️💧🌬️",
+    "id": "gl549"
+  },
+  "portfolio": {
+    "word": "portfolio",
+    "definition": "a file or collection of a learner’s work kept as evidence of learning",
+    "variations": [
+      "portfolio",
+      "portfolios"
+    ],
+    "emoji": "📁🗃️",
+    "id": "gl550"
+  },
+  "postharvest": {
+    "word": "postharvest",
+    "definition": "happening after crops have been harvested",
+    "variations": [
+      "postharvest"
+    ],
+    "emoji": "📦🥕",
+    "id": "gl551"
+  },
+  "postharvesting": {
+    "word": "postharvesting",
+    "definition": "the handling of crops after they have been harvested",
+    "variations": [
+      "postharvesting",
+      "postharvest"
+    ],
+    "emoji": "📦🥬",
+    "id": "gl552"
+  },
+  "pot": {
+    "word": "pot",
+    "definition": "a container used for growing a plant",
+    "variations": [
+      "pot",
+      "pots"
+    ],
+    "emoji": "🪴🌿",
+    "id": "gl553"
+  },
+  "potash": {
+    "word": "potash",
+    "definition": "a plant nutrient rich in potassium that helps plants grow strong and produce good fruits.",
+    "variations": [
+      "potash"
+    ],
+    "emoji": "🍅🧪",
+    "id": "gl554"
+  },
+  "potassium": {
+    "word": "potassium",
+    "definition": "a plant nutrient that helps crops grow strong and healthy",
+    "variations": [
+      "potassium"
+    ],
+    "emoji": "🌿🧪",
+    "id": "gl555"
+  },
+  "poultry": {
+    "word": "poultry",
+    "definition": "domesticated birds kept for eggs, meat, or other uses",
+    "variations": [
+      "poultry"
+    ],
+    "emoji": "🐔🦆",
+    "id": "gl556"
+  },
+  "precision farming": {
+    "word": "precision farming",
+    "definition": "a way of farming that uses technology to manage crops and animals more accurately",
+    "variations": [
+      "precision farming"
+    ],
+    "emoji": "🖥️🌾📍",
+    "id": "gl557"
+  },
+  "precooling": {
+    "word": "precooling",
+    "definition": "cooling vegetables quickly after harvest to remove heat and keep them fresh longer",
+    "variations": [
+      "precooling",
+      "precool",
+      "precooled"
+    ],
+    "emoji": "❄️🥦",
+    "id": "gl558"
+  },
+  "predator": {
+    "word": "predator",
+    "definition": "an animal that hunts and eats other animals.",
+    "variations": [
+      "predator",
+      "predators"
+    ],
+    "emoji": "🦅🦊🐍",
+    "id": "gl559"
+  },
+  "predators": {
+    "word": "predators",
+    "definition": "animals or insects that hunt and eat other animals or insects",
+    "variations": [
+      "predator",
+      "predators"
+    ],
+    "emoji": "🦗🕷️",
+    "id": "gl560"
+  },
+  "preferences": {
+    "word": "preferences",
+    "definition": "the things that people like more than others",
+    "variations": [
+      "preference",
+      "preferences"
+    ],
+    "emoji": "❤️👍",
+    "id": "gl561"
+  },
+  "preventive": {
+    "word": "preventive",
+    "definition": "meant to stop disease or a problem before it starts",
+    "variations": [
+      "preventive",
+      "prevention",
+      "prevent"
+    ],
+    "emoji": "🛡️✅",
+    "id": "gl562"
+  },
+  "processing": {
+    "word": "processing",
+    "definition": "treating harvested vegetables in ways such as drying, freezing, or canning so they last longer",
+    "variations": [
+      "processing",
+      "process",
+      "processes",
+      "processed"
+    ],
+    "emoji": "🏭🥕",
+    "id": "gl563"
+  },
+  "production": {
+    "word": "production",
+    "definition": "Production is the process of making or growing something for use or sale.",
+    "variations": [
+      "production",
+      "productions",
+      "produce",
+      "produced",
+      "producing"
+    ],
+    "emoji": "📈🥚",
+    "id": "gl564"
+  },
+  "production calendar": {
+    "word": "production calendar",
+    "definition": "a plan that shows when farm activities should be done during the season.",
+    "variations": [
+      "production calendar",
+      "production calendars"
+    ],
+    "emoji": "📅🚜",
+    "id": "gl565"
+  },
+  "productivity": {
+    "word": "productivity",
+    "definition": "the ability to produce a large amount of goods or output well",
+    "variations": [
+      "productivity",
+      "productive"
+    ],
+    "emoji": "📈🌽",
+    "id": "gl566"
+  },
+  "profit": {
+    "word": "profit",
+    "definition": "the money left after costs are removed from income",
+    "variations": [
+      "profit",
+      "profits",
+      "profitable"
+    ],
+    "emoji": "💰📈",
+    "id": "gl567"
+  },
+  "profitable": {
+    "word": "profitable",
+    "definition": "able to bring profit or money after costs are paid",
+    "variations": [
+      "profitable",
+      "profit"
+    ],
+    "emoji": "💰📈",
+    "id": "gl568"
+  },
+  "prophylactic": {
+    "word": "prophylactic",
+    "definition": "something used to prevent disease before it happens",
+    "variations": [
+      "prophylactic",
+      "prophylactics"
+    ],
+    "emoji": "🛡️💊",
+    "id": "gl569"
+  },
+  "prophylactics": {
+    "word": "prophylactics",
+    "definition": "drugs or treatments given to healthy animals to prevent disease",
+    "variations": [
+      "prophylactic",
+      "prophylactics"
+    ],
+    "emoji": "🛡️💊",
+    "id": "gl570"
+  },
+  "prophylaxis": {
+    "word": "prophylaxis",
+    "definition": "treatment or action taken to prevent disease before it starts.",
+    "variations": [
+      "prophylaxis"
+    ],
+    "emoji": "🛡️💊🐔",
+    "id": "gl571"
+  },
+  "protein": {
+    "word": "protein",
+    "definition": "a nutrient needed for growth, body repair, and good health",
+    "variations": [
+      "protein",
+      "proteins"
+    ],
+    "emoji": "💪🥚",
+    "id": "gl572"
+  },
+  "protozoa": {
+    "word": "protozoa",
+    "definition": "very small one-celled organisms, some of which can cause disease",
+    "variations": [
+      "protozoa",
+      "protozoan"
+    ],
+    "emoji": "🔬🦠",
+    "id": "gl573"
+  },
+  "pruning": {
+    "word": "pruning",
+    "definition": "cutting off extra branches or shoots to help a plant grow better.",
+    "variations": [
+      "prune",
+      "prunes",
+      "pruning",
+      "pruned"
+    ],
+    "emoji": "✂️🌿",
+    "id": "gl574"
+  },
+  "pubic bones": {
+    "word": "pubic bones",
+    "definition": "bones near the rear lower part of a bird’s body used when checking laying condition",
+    "variations": [
+      "pubic bone",
+      "pubic bones"
+    ],
+    "emoji": "🦴🐓",
+    "id": "gl575"
+  },
+  "pullet": {
+    "word": "pullet",
+    "definition": "a young female chicken that has not started laying eggs fully",
+    "variations": [
+      "pullet",
+      "pullets"
+    ],
+    "emoji": "🐔🌱",
+    "id": "gl576"
+  },
+  "Pullets": {
+    "word": "Pullets",
+    "definition": "young female chickens that are not yet fully mature",
+    "variations": [
+      "pullet",
+      "pullets"
+    ],
+    "emoji": "🐔",
+    "id": "gl577"
+  },
+  "pulses": {
+    "word": "pulses",
+    "definition": "seeds of crops such as beans, peas, and lentils that are eaten as food",
+    "variations": [
+      "pulse",
+      "pulses"
+    ],
+    "emoji": "🫘🌱",
+    "id": "gl578"
+  },
+  "pupa": {
+    "word": "pupa",
+    "definition": "the stage in an insect’s life when it changes from larva to adult",
+    "variations": [
+      "pupa",
+      "pupae"
+    ],
+    "emoji": "🐛➡️🦋",
+    "id": "gl579"
+  },
+  "Purebred": {
+    "word": "Purebred",
+    "definition": "an animal produced from parents of the same true breed",
+    "variations": [
+      "purebred",
+      "purebreds"
+    ],
+    "emoji": "🧬🐄",
+    "id": "gl580"
+  },
+  "purebreed": {
+    "word": "purebreed",
+    "definition": "A purebreed is an animal whose parents are from the same breed.",
+    "variations": [
+      "purebreed",
+      "purebreeds",
+      "purebred",
+      "purebreds"
+    ],
+    "emoji": "🐓📘",
+    "id": "gl581"
+  },
+  "purple blotch": {
+    "word": "purple blotch",
+    "definition": "a plant disease that causes purple spots or patches on leaves",
+    "variations": [
+      "purple blotch"
+    ],
+    "emoji": "🟣🍃",
+    "id": "gl582"
+  },
+  "quarantine": {
+    "word": "quarantine",
+    "definition": "keeping animals separate for a period of time to prevent the spread of disease",
+    "variations": [
+      "quarantine",
+      "quarantined"
+    ],
+    "emoji": "🚫🐓",
+    "id": "gl583"
+  },
+  "rainfall": {
+    "word": "rainfall",
+    "definition": "the amount of rain that falls in a place over time.",
+    "variations": [
+      "rainfall"
+    ],
+    "emoji": "🌧️☁️",
+    "id": "gl584"
+  },
+  "raised bed": {
+    "word": "raised bed",
+    "definition": "a seedbed made higher than the surrounding ground",
+    "variations": [
+      "raised bed",
+      "raised beds"
+    ],
+    "emoji": "⬆️🌱",
+    "id": "gl585"
+  },
+  "rammed earth": {
+    "word": "rammed earth",
+    "definition": "hard-packed soil used to make a strong floor or wall",
+    "variations": [
+      "rammed earth"
+    ],
+    "emoji": "🌍🧱",
+    "id": "gl586"
+  },
+  "ration": {
+    "word": "ration",
+    "definition": "the amount of feed given to an animal in a day or at one time",
+    "variations": [
+      "ration",
+      "rations"
+    ],
+    "emoji": "🥣📏",
+    "id": "gl587"
+  },
+  "Rations": {
+    "word": "Rations",
+    "definition": "the amount and type of feed given to an animal each day",
+    "variations": [
+      "ration",
+      "rations"
+    ],
+    "emoji": "🌾📏🐐",
+    "id": "gl588"
+  },
+  "raw materials": {
+    "word": "raw materials",
+    "definition": "basic materials taken from farms or nature and used to make other products",
+    "variations": [
+      "raw material",
+      "raw materials"
+    ],
+    "emoji": "🌿🏭",
+    "id": "gl589"
+  },
+  "ready-made": {
+    "word": "ready-made",
+    "definition": "already made and ready to use",
+    "variations": [
+      "ready-made"
+    ],
+    "emoji": "✅🪴",
+    "id": "gl590"
+  },
+  "reared": {
+    "word": "reared",
+    "definition": "grown and taken care of until mature",
+    "variations": [
+      "rear",
+      "reared",
+      "rearing"
+    ],
+    "emoji": "🐣🌿",
+    "id": "gl591"
+  },
+  "recommended": {
+    "word": "recommended",
+    "definition": "suggested as the best choice for a purpose",
+    "variations": [
+      "recommend",
+      "recommended",
+      "recommends",
+      "recommending",
+      "recommendation",
+      "recommendations"
+    ],
+    "emoji": "✅👍",
+    "id": "gl592"
+  },
+  "record keeping": {
+    "word": "record keeping",
+    "definition": "the process of writing down and saving important information for future use",
+    "variations": [
+      "record keeping",
+      "records"
+    ],
+    "emoji": "📝📂",
+    "id": "gl593"
+  },
+  "record-keeping": {
+    "word": "record-keeping",
+    "definition": "the practice of writing down and storing important information for future use",
+    "variations": [
+      "record-keeping",
+      "record keeping",
+      "records"
+    ],
+    "emoji": "📝📚",
+    "id": "gl594"
+  },
+  "refrigeration": {
+    "word": "refrigeration",
+    "definition": "keeping produce cold to preserve it and slow spoilage",
+    "variations": [
+      "refrigeration",
+      "refrigerate",
+      "refrigerated",
+      "refrigerating"
+    ],
+    "emoji": "❄️🧊",
+    "id": "gl595"
+  },
+  "regulations": {
+    "word": "regulations",
+    "definition": "official rules that people must follow",
+    "variations": [
+      "regulation",
+      "regulations"
+    ],
+    "emoji": "📜✅",
+    "id": "gl596"
+  },
+  "regulatory bodies": {
+    "word": "regulatory bodies",
+    "definition": "official organisations that make and enforce rules",
+    "variations": [
+      "regulatory body",
+      "regulatory bodies"
+    ],
+    "emoji": "🏛️📋",
+    "id": "gl597"
+  },
+  "relative humidity": {
+    "word": "relative humidity",
+    "definition": "the amount of moisture in the air compared to the highest amount the air can hold at that temperature",
+    "variations": [
+      "relative humidity",
+      "humidity"
+    ],
+    "emoji": "💧🌡️",
+    "id": "gl598"
+  },
+  "relatively": {
+    "word": "relatively",
+    "definition": "when compared with something else",
+    "variations": [
+      "relatively"
+    ],
+    "emoji": "⚖️📊",
+    "id": "gl599"
+  },
+  "reputation": {
+    "word": "reputation",
+    "definition": "Reputation is what people generally think about how good or bad something is.",
+    "variations": [
+      "reputation",
+      "reputations"
+    ],
+    "emoji": "⭐👍",
+    "id": "gl600"
+  },
+  "residue": {
+    "word": "residue",
+    "definition": "the part that remains after the main part has been used or removed.",
+    "variations": [
+      "residue",
+      "residues"
+    ],
+    "emoji": "🌾➕",
+    "id": "gl601"
+  },
+  "residues": {
+    "word": "residues",
+    "definition": "small amounts of a drug or chemical that remain in animal products after treatment",
+    "variations": [
+      "residue",
+      "residues"
+    ],
+    "emoji": "🧪🥚",
+    "id": "gl602"
+  },
+  "resistance": {
+    "word": "resistance",
+    "definition": "the ability of a plant to fight or withstand pests or diseases.",
+    "variations": [
+      "resistance",
+      "resistant"
+    ],
+    "emoji": "🛡️🌿",
+    "id": "gl603"
+  },
+  "resistant": {
+    "word": "resistant",
+    "definition": "able to fight against or not be easily harmed by pests or diseases",
+    "variations": [
+      "resistant",
+      "resistance"
+    ],
+    "emoji": "🛡️🌿",
+    "id": "gl604"
+  },
+  "resources": {
+    "word": "resources",
+    "definition": "useful things needed for work, such as land, money, labour, and tools",
+    "variations": [
+      "resource",
+      "resources"
+    ],
+    "emoji": "🌍💰🛠️",
+    "id": "gl605"
+  },
+  "respiratory": {
+    "word": "respiratory",
+    "definition": "related to breathing or the lungs",
+    "variations": [
+      "respiratory"
+    ],
+    "emoji": "🫁💨",
+    "id": "gl606"
+  },
+  "respire": {
+    "word": "respire",
+    "definition": "To breathe and release energy from food in living things.",
+    "variations": [
+      "respire",
+      "respires",
+      "respired",
+      "respiring",
+      "respiration"
+    ],
+    "emoji": "🫁🌱",
+    "id": "gl607"
+  },
+  "responsive": {
+    "word": "responsive",
+    "definition": "quick and willing to react or reply when needed",
+    "variations": [
+      "responsive"
+    ],
+    "emoji": "⚡🙂",
+    "id": "gl608"
+  },
+  "restricted feeding": {
+    "word": "restricted feeding",
+    "definition": "giving animals a measured amount of feed instead of letting them eat as much as they want",
+    "variations": [
+      "restricted feeding"
+    ],
+    "emoji": "🥣📏",
+    "id": "gl609"
+  },
+  "retail": {
+    "word": "retail",
+    "definition": "selling goods in small amounts directly to customers",
+    "variations": [
+      "retail",
+      "retailing"
+    ],
+    "emoji": "🛍️🥕",
+    "id": "gl610"
+  },
+  "retailer": {
+    "word": "retailer",
+    "definition": "a person or business that sells goods directly to consumers",
+    "variations": [
+      "retailer",
+      "retailers"
+    ],
+    "emoji": "🛒🏬",
+    "id": "gl611"
+  },
+  "retailers": {
+    "word": "retailers",
+    "definition": "people or businesses that sell goods in small amounts directly to customers",
+    "variations": [
+      "retailer",
+      "retailers"
+    ],
+    "emoji": "🛍️🏬",
+    "id": "gl612"
+  },
+  "revenues": {
+    "word": "revenues",
+    "definition": "money received from sales or business activities",
+    "variations": [
+      "revenue",
+      "revenues"
+    ],
+    "emoji": "💵📈",
+    "id": "gl613"
+  },
+  "ribbon": {
+    "word": "ribbon",
+    "definition": "A thin strip of moist soil formed by pressing it between the fingers during a soil test.",
+    "variations": [
+      "ribbon",
+      "ribbons"
+    ],
+    "emoji": "🤏🟤",
+    "id": "gl614"
+  },
+  "rodenticide": {
+    "word": "rodenticide",
+    "definition": "a chemical used to kill rodents such as rats and mice",
+    "variations": [
+      "rodenticide",
+      "rodenticides"
+    ],
+    "emoji": "🐀🧪",
+    "id": "gl615"
+  },
+  "rodents": {
+    "word": "rodents",
+    "definition": "small animals such as rats and mice that can damage food and spread disease",
+    "variations": [
+      "rodent",
+      "rodents"
+    ],
+    "emoji": "🐀🐭",
+    "id": "gl616"
+  },
+  "roost": {
+    "word": "roost",
+    "definition": "to rest or sleep on a raised place",
+    "variations": [
+      "roost",
+      "roosting"
+    ],
+    "emoji": "🐓🌙",
+    "id": "gl617"
+  },
+  "roosting": {
+    "word": "roosting",
+    "definition": "sitting or sleeping in a raised place, as birds do",
+    "variations": [
+      "roost",
+      "roosts",
+      "roosting",
+      "roosted"
+    ],
+    "emoji": "🐓🌙",
+    "id": "gl618"
+  },
+  "root": {
+    "word": "root",
+    "definition": "the part of a plant that usually grows under the soil and takes in water and nutrients",
+    "variations": [
+      "root",
+      "roots"
+    ],
+    "emoji": "🌱🟤",
+    "id": "gl619"
+  },
+  "root rot": {
+    "word": "root rot",
+    "definition": "a disease that causes plant roots to decay",
+    "variations": [
+      "root rot"
+    ],
+    "emoji": "🦠🌱",
+    "id": "gl620"
+  },
+  "roots": {
+    "word": "roots",
+    "definition": "The parts of a plant that grow in the soil and take in water and nutrients.",
+    "variations": [
+      "root",
+      "roots"
+    ],
+    "emoji": "🌱⬇️",
+    "id": "gl621"
+  },
+  "rotating crops": {
+    "word": "rotating crops",
+    "definition": "Changing the type of crop grown on the same land in different seasons or years.",
+    "variations": [
+      "rotate crops",
+      "rotates crops",
+      "rotating crops",
+      "crop rotation"
+    ],
+    "emoji": "🔄🌽🥕",
+    "id": "gl622"
+  },
+  "rotational": {
+    "word": "rotational",
+    "definition": "done in turns from one place or section to another",
+    "variations": [
+      "rotational",
+      "rotate",
+      "rotation"
+    ],
+    "emoji": "🔄🌱",
+    "id": "gl623"
+  },
+  "roundworm": {
+    "word": "roundworm",
+    "definition": "a long worm that can live inside an animal’s body and cause illness.",
+    "variations": [
+      "roundworm",
+      "roundworms"
+    ],
+    "emoji": "🪱⚠️",
+    "id": "gl624"
+  },
+  "roundworms": {
+    "word": "roundworms",
+    "definition": "long round worms that can live in the intestines of animals",
+    "variations": [
+      "roundworm",
+      "roundworms"
+    ],
+    "emoji": "🪱🦠",
+    "id": "gl625"
+  },
+  "ruminants": {
+    "word": "ruminants",
+    "definition": "animals such as cows and goats that chew food again after swallowing it",
+    "variations": [
+      "ruminant",
+      "ruminants"
+    ],
+    "emoji": "🐄🐐",
+    "id": "gl626"
+  },
+  "run": {
+    "word": "run",
+    "definition": "a fenced or marked outdoor area where poultry can move around",
+    "variations": [
+      "run",
+      "runs"
+    ],
+    "emoji": "🐔🌿",
+    "id": "gl627"
+  },
+  "sack": {
+    "word": "sack",
+    "definition": "a large strong bag used for carrying or storing things",
+    "variations": [
+      "sack",
+      "sacks"
+    ],
+    "emoji": "🧺🎒",
+    "id": "gl628"
+  },
+  "sand": {
+    "word": "sand",
+    "definition": "Large soil particles that feel gritty and let water drain quickly.",
+    "variations": [
+      "sand",
+      "sands",
+      "sandy"
+    ],
+    "emoji": "🏖️🟤",
+    "id": "gl629"
+  },
+  "sap": {
+    "word": "sap",
+    "definition": "the liquid inside a plant that carries water and food",
+    "variations": [
+      "sap",
+      "saps"
+    ],
+    "emoji": "🌿💧",
+    "id": "gl630"
+  },
+  "sawdust": {
+    "word": "sawdust",
+    "definition": "very small pieces of wood produced when timber is cut",
+    "variations": [
+      "sawdust"
+    ],
+    "emoji": "🪵🟤",
+    "id": "gl631"
+  },
+  "scalding": {
+    "word": "scalding",
+    "definition": "putting a chicken in hot water to make feathers easier to remove.",
+    "variations": [
+      "scald",
+      "scalds",
+      "scalded",
+      "scalding"
+    ],
+    "emoji": "💧♨️🐔",
+    "id": "gl632"
+  },
+  "science": {
+    "word": "science",
+    "definition": "knowledge gained by studying and testing how things work in nature",
+    "variations": [
+      "science",
+      "sciences",
+      "scientific",
+      "scientist",
+      "scientists"
+    ],
+    "emoji": "🔬🧪",
+    "id": "gl633"
+  },
+  "screen house": {
+    "word": "screen house",
+    "definition": "a protected structure covered with netting or screen, used to grow crops safely.",
+    "variations": [
+      "screen house",
+      "screen houses"
+    ],
+    "emoji": "🏠🌿",
+    "id": "gl634"
+  },
+  "seed": {
+    "word": "seed",
+    "definition": "the small part of a plant that can grow into a new plant",
+    "variations": [
+      "seed",
+      "seeds",
+      "seedless"
+    ],
+    "emoji": "🌰🌱",
+    "id": "gl635"
+  },
+  "seedbed": {
+    "word": "seedbed",
+    "definition": "a prepared piece of soil where seeds are planted and grown",
+    "variations": [
+      "seedbed",
+      "seedbeds"
+    ],
+    "emoji": "🌱🪴",
+    "id": "gl636"
+  },
+  "seedling": {
+    "word": "seedling",
+    "definition": "a young plant that has just started growing from a seed",
+    "variations": [
+      "seedling",
+      "seedlings"
+    ],
+    "emoji": "🌿💧",
+    "id": "gl637"
+  },
+  "seedlings": {
+    "word": "seedlings",
+    "definition": "young plants that have just started growing from seeds.",
+    "variations": [
+      "seedling",
+      "seedlings"
+    ],
+    "emoji": "🌱🍃",
+    "id": "gl638"
+  },
+  "semi-determinate": {
+    "word": "semi-determinate",
+    "definition": "a type of tomato plant whose growth is between determinate and indeterminate.",
+    "variations": [
+      "semi-determinate",
+      "semi-determinate tomatoes"
+    ],
+    "emoji": "🍅↔️",
+    "id": "gl639"
+  },
+  "semi-intensive": {
+    "word": "semi-intensive",
+    "definition": "a farming system where animals are partly confined and partly allowed to move around outside.",
+    "variations": [
+      "semi-intensive"
+    ],
+    "emoji": "🏠🌿🐓",
+    "id": "gl640"
+  },
+  "semi-intensive system": {
+    "word": "semi-intensive system",
+    "definition": "a poultry keeping system where birds stay in a house but also use runs outside for some time",
+    "variations": [
+      "semi-intensive system",
+      "semi-intensive systems"
+    ],
+    "emoji": "🐓🏡",
+    "id": "gl641"
+  },
+  "sexual maturity": {
+    "word": "sexual maturity",
+    "definition": "the stage when an animal is ready to reproduce",
+    "variations": [
+      "sexual maturity"
+    ],
+    "emoji": "🐔🥚",
+    "id": "gl642"
+  },
+  "shade": {
+    "word": "shade",
+    "definition": "cover that protects plants from strong sunlight",
+    "variations": [
+      "shade",
+      "shaded"
+    ],
+    "emoji": "☂️🌤️",
+    "id": "gl643"
+  },
+  "shelf life": {
+    "word": "shelf life",
+    "definition": "the length of time a product stays good before it spoils",
+    "variations": [
+      "shelf life"
+    ],
+    "emoji": "📦⏰",
+    "id": "gl644"
+  },
+  "shelf-life": {
+    "word": "shelf-life",
+    "definition": "the length of time food can stay fresh before going bad",
+    "variations": [
+      "shelf-life"
+    ],
+    "emoji": "🕒🍅",
+    "id": "gl645"
+  },
+  "shelter": {
+    "word": "shelter",
+    "definition": "a place that protects animals or people from danger or bad weather",
+    "variations": [
+      "shelter",
+      "shelters",
+      "sheltered"
+    ],
+    "emoji": "🏠🛡️",
+    "id": "gl646"
+  },
+  "shock": {
+    "word": "shock",
+    "definition": "stress or damage a plant feels after being moved or changing conditions suddenly",
+    "variations": [
+      "shock",
+      "shocks"
+    ],
+    "emoji": "😟🌿",
+    "id": "gl647"
+  },
+  "shortage": {
+    "word": "shortage",
+    "definition": "a situation where there is not enough of something",
+    "variations": [
+      "shortage",
+      "shortages"
+    ],
+    "emoji": "⚠️📉",
+    "id": "gl648"
+  },
+  "silt": {
+    "word": "silt",
+    "definition": "Medium-sized soil particles that feel smooth and soft.",
+    "variations": [
+      "silt",
+      "silts",
+      "silty"
+    ],
+    "emoji": "🟤✋",
+    "id": "gl649"
+  },
+  "site": {
+    "word": "site",
+    "definition": "the place chosen for an activity such as farming",
+    "variations": [
+      "site",
+      "sites"
+    ],
+    "emoji": "📍🌍",
+    "id": "gl650"
+  },
+  "site selection": {
+    "word": "site selection",
+    "definition": "the process of choosing a suitable place for farming",
+    "variations": [
+      "site selection"
+    ],
+    "emoji": "📍🌱",
+    "id": "gl651"
+  },
+  "slats": {
+    "word": "slats",
+    "definition": "narrow bars or strips with spaces between them, used to make a floor that lets droppings fall through",
+    "variations": [
+      "slat",
+      "slats"
+    ],
+    "emoji": "🪵🐓",
+    "id": "gl652"
+  },
+  "slatted floor system": {
+    "word": "slatted floor system",
+    "definition": "a poultry housing system with a raised floor made of slats so droppings fall through",
+    "variations": [
+      "slatted floor system",
+      "slatted floor systems"
+    ],
+    "emoji": "🐔🪵",
+    "id": "gl653"
+  },
+  "slaughter": {
+    "word": "slaughter",
+    "definition": "to kill an animal for meat.",
+    "variations": [
+      "slaughter",
+      "slaughters",
+      "slaughtered",
+      "slaughtering"
+    ],
+    "emoji": "🍗🔪",
+    "id": "gl654"
+  },
+  "sloping": {
+    "word": "sloping",
+    "definition": "leaning or going downward at an angle",
+    "variations": [
+      "slope",
+      "sloped",
+      "sloping"
+    ],
+    "emoji": "📐⬇️",
+    "id": "gl655"
+  },
+  "soil": {
+    "word": "soil",
+    "definition": "the top layer of earth where plants grow",
+    "variations": [
+      "soil",
+      "soils"
+    ],
+    "emoji": "🟫🌱",
+    "id": "gl656"
+  },
+  "soil compaction": {
+    "word": "soil compaction",
+    "definition": "the pressing down of soil so that it becomes hard and has fewer air spaces",
+    "variations": [
+      "soil compaction",
+      "compacted soil",
+      "compact"
+    ],
+    "emoji": "👣🪨",
+    "id": "gl657"
+  },
+  "soil degradation": {
+    "word": "soil degradation",
+    "definition": "damage or decline in the quality of soil, making it less productive",
+    "variations": [
+      "soil degradation",
+      "degradation",
+      "degrade",
+      "degraded"
+    ],
+    "emoji": "⚠️🌍",
+    "id": "gl658"
+  },
+  "soil erosion": {
+    "word": "soil erosion",
+    "definition": "the wearing away or removal of topsoil by wind or water",
+    "variations": [
+      "soil erosion",
+      "erosion",
+      "erode",
+      "eroded"
+    ],
+    "emoji": "💨💧🌍",
+    "id": "gl659"
+  },
+  "soil fertility": {
+    "word": "soil fertility",
+    "definition": "the ability of soil to provide the nutrients needed for plants to grow well",
+    "variations": [
+      "soil fertility",
+      "fertility",
+      "fertile",
+      "infertile"
+    ],
+    "emoji": "🌍🌿",
+    "id": "gl660"
+  },
+  "soil health": {
+    "word": "soil health",
+    "definition": "the condition of soil and how well it supports plants and living organisms",
+    "variations": [
+      "soil health",
+      "healthy soil"
+    ],
+    "emoji": "🌍🌱💚",
+    "id": "gl661"
+  },
+  "soil particles": {
+    "word": "soil particles",
+    "definition": "Very small pieces that make up soil, such as sand, silt, and clay.",
+    "variations": [
+      "soil particle",
+      "soil particles",
+      "particle",
+      "particles"
+    ],
+    "emoji": "🟤🔬",
+    "id": "gl662"
+  },
+  "soil pH": {
+    "word": "soil pH",
+    "definition": "A measure of how acidic or alkaline the soil is.",
+    "variations": [
+      "soil pH",
+      "pH"
+    ],
+    "emoji": "🧪⚖️",
+    "id": "gl663"
+  },
+  "soil profile": {
+    "word": "soil profile",
+    "definition": "A vertical section of soil showing its different layers.",
+    "variations": [
+      "soil profile",
+      "soil profiles"
+    ],
+    "emoji": "🟫📏",
+    "id": "gl664"
+  },
+  "soil science": {
+    "word": "soil science",
+    "definition": "the study of soil, including its properties and how it helps plants grow",
+    "variations": [
+      "soil science",
+      "soil"
+    ],
+    "emoji": "🟤🌱",
+    "id": "gl665"
+  },
+  "soil solution": {
+    "word": "soil solution",
+    "definition": "Water in the soil with dissolved minerals and nutrients in it.",
+    "variations": [
+      "soil solution",
+      "soil solutions"
+    ],
+    "emoji": "💧🧪",
+    "id": "gl666"
+  },
+  "soil structure": {
+    "word": "soil structure",
+    "definition": "the way soil particles join together to form groups or clumps",
+    "variations": [
+      "soil structure",
+      "soil structures"
+    ],
+    "emoji": "🧱🌍",
+    "id": "gl667"
+  },
+  "soil testing": {
+    "word": "soil testing",
+    "definition": "checking soil to find out its nutrient levels and pH",
+    "variations": [
+      "soil testing",
+      "test soil",
+      "soil test"
+    ],
+    "emoji": "🔬🌍",
+    "id": "gl668"
+  },
+  "Soil texture": {
+    "word": "Soil texture",
+    "definition": "the feel and composition of soil based on the amount of sand, silt, and clay in it",
+    "variations": [
+      "soil texture"
+    ],
+    "emoji": "🌍🪨",
+    "id": "gl669"
+  },
+  "soiled": {
+    "word": "soiled",
+    "definition": "made dirty",
+    "variations": [
+      "soil",
+      "soils",
+      "soiled"
+    ],
+    "emoji": "🧼 dirt",
+    "id": "gl670"
+  },
+  "Solanaceae": {
+    "word": "Solanaceae",
+    "definition": "a plant family that includes crops such as tomato, pepper, and potato",
+    "variations": [
+      "Solanaceae"
+    ],
+    "emoji": "🍅🥔",
+    "id": "gl671"
+  },
+  "sort": {
+    "word": "sort",
+    "definition": "to separate things into groups, for example by size, quality, or type",
+    "variations": [
+      "sort",
+      "sorts",
+      "sorted",
+      "sorting"
+    ],
+    "emoji": "🗂️🥕",
+    "id": "gl672"
+  },
+  "sorting": {
+    "word": "sorting",
+    "definition": "separating vegetables by removing spoiled, damaged, or diseased ones",
+    "variations": [
+      "sorting",
+      "sort",
+      "sorts",
+      "sorted"
+    ],
+    "emoji": "🧺✅",
+    "id": "gl673"
+  },
+  "sow": {
+    "word": "sow",
+    "definition": "to plant seeds in the soil.",
+    "variations": [
+      "sow",
+      "sows",
+      "sowing",
+      "sowed"
+    ],
+    "emoji": "🌱✋",
+    "id": "gl674"
+  },
+  "Sowing": {
+    "word": "Sowing",
+    "definition": "the act of planting seeds in soil or another growing medium",
+    "variations": [
+      "sow",
+      "sowing",
+      "sown"
+    ],
+    "emoji": "🌾🌱",
+    "id": "gl675"
+  },
+  "spacing": {
+    "word": "spacing",
+    "definition": "the distance left between plants so that they can grow well",
+    "variations": [
+      "spacing",
+      "spacings",
+      "space",
+      "spaced"
+    ],
+    "emoji": "↔️🌱",
+    "id": "gl676"
+  },
+  "species": {
+    "word": "species",
+    "definition": "a group of similar living things of the same kind",
+    "variations": [
+      "species"
+    ],
+    "emoji": "🧬🌱",
+    "id": "gl677"
+  },
+  "specimen": {
+    "word": "specimen",
+    "definition": "a single example used for study or display",
+    "variations": [
+      "specimen",
+      "specimens"
+    ],
+    "emoji": "🔍🌿",
+    "id": "gl678"
+  },
+  "spice crop": {
+    "word": "spice crop",
+    "definition": "a crop grown for parts used to add flavour or smell to food or drinks",
+    "variations": [
+      "spice crop",
+      "spice crops"
+    ],
+    "emoji": "🌶️🫚🍽️",
+    "id": "gl679"
+  },
+  "spider mites": {
+    "word": "spider mites",
+    "definition": "very tiny pests that damage leaves by sucking plant juices",
+    "variations": [
+      "spider mite",
+      "spider mites"
+    ],
+    "emoji": "🕷️🍃",
+    "id": "gl680"
+  },
+  "spoilage": {
+    "word": "spoilage",
+    "definition": "the process of food going bad",
+    "variations": [
+      "spoilage"
+    ],
+    "emoji": "🦠🍅",
+    "id": "gl681"
+  },
+  "sprinkler": {
+    "word": "sprinkler",
+    "definition": "a tool or system that sprays water over crops like rain",
+    "variations": [
+      "sprinkler",
+      "sprinklers"
+    ],
+    "emoji": "💦🌿",
+    "id": "gl682"
+  },
+  "sprouting": {
+    "word": "sprouting",
+    "definition": "beginning to grow small shoots from a seed.",
+    "variations": [
+      "sprouting",
+      "sprout",
+      "sprouts"
+    ],
+    "emoji": "🌱💦",
+    "id": "gl683"
+  },
+  "stacking": {
+    "word": "stacking",
+    "definition": "placing things one on top of another in an orderly way",
+    "variations": [
+      "stack",
+      "stacks",
+      "stacked",
+      "stacking"
+    ],
+    "emoji": "📚🥚",
+    "id": "gl684"
+  },
+  "stakeholders": {
+    "word": "stakeholders",
+    "definition": "people or groups who are involved in or affected by an activity or business",
+    "variations": [
+      "stakeholder",
+      "stakeholders"
+    ],
+    "emoji": "👥🤝",
+    "id": "gl685"
+  },
+  "staking": {
+    "word": "staking",
+    "definition": "supporting a plant by tying it to a stick, pole, or rod.",
+    "variations": [
+      "stake",
+      "stakes",
+      "staking",
+      "staked"
+    ],
+    "emoji": "🪵🍅",
+    "id": "gl686"
+  },
+  "starter diet": {
+    "word": "starter diet",
+    "definition": "special feed given to very young animals to help them grow well",
+    "variations": [
+      "starter diet",
+      "starter diets"
+    ],
+    "emoji": "🐥🥣",
+    "id": "gl687"
+  },
+  "stem": {
+    "word": "stem",
+    "definition": "the main part of a plant that supports leaves, flowers, and fruits",
+    "variations": [
+      "stem",
+      "stems"
+    ],
+    "emoji": "🌿📏",
+    "id": "gl688"
+  },
+  "stocking density": {
+    "word": "stocking density",
+    "definition": "how closely animals are kept together in a certain area.",
+    "variations": [
+      "stocking density",
+      "stocking densities"
+    ],
+    "emoji": "📐🐔",
+    "id": "gl689"
+  },
+  "stocking rate": {
+    "word": "stocking rate",
+    "definition": "the number of birds kept in a given space.",
+    "variations": [
+      "stocking rate",
+      "stocking rates"
+    ],
+    "emoji": "📏🐓",
+    "id": "gl690"
+  },
+  "storage": {
+    "word": "storage",
+    "definition": "the safe keeping of things for future use",
+    "variations": [
+      "storage",
+      "store",
+      "stores",
+      "stored"
+    ],
+    "emoji": "📦🏠",
+    "id": "gl691"
+  },
+  "stress": {
+    "word": "stress",
+    "definition": "a condition where an animal is under pressure, discomfort, or fear, which can affect its health and behaviour",
+    "variations": [
+      "stress",
+      "stresses",
+      "stressed"
+    ],
+    "emoji": "😣🐥",
+    "id": "gl692"
+  },
+  "structure": {
+    "word": "structure",
+    "definition": "something built to support or protect an activity, plant, or object",
+    "variations": [
+      "structure",
+      "structures"
+    ],
+    "emoji": "🏗️🪵",
+    "id": "gl693"
+  },
+  "structures": {
+    "word": "structures",
+    "definition": "things that are built for a purpose, such as animal houses or farm sheds",
+    "variations": [
+      "structure",
+      "structures"
+    ],
+    "emoji": "🏗️🏠",
+    "id": "gl694"
+  },
+  "submerged": {
+    "word": "submerged",
+    "definition": "completely covered by water.",
+    "variations": [
+      "submerged",
+      "submerge"
+    ],
+    "emoji": "💧⬇️",
+    "id": "gl695"
+  },
+  "subsistence": {
+    "word": "subsistence",
+    "definition": "producing crops mainly for home use instead of for sale",
+    "variations": [
+      "subsistence"
+    ],
+    "emoji": "🏠🌽",
+    "id": "gl696"
+  },
+  "subsoil": {
+    "word": "subsoil",
+    "definition": "The soil layer below topsoil, usually with fewer nutrients and less organic matter.",
+    "variations": [
+      "subsoil"
+    ],
+    "emoji": "🟤⬇️",
+    "id": "gl697"
+  },
+  "summary": {
+    "word": "summary",
+    "definition": "a short statement that gives the main points of something",
+    "variations": [
+      "summary",
+      "summaries"
+    ],
+    "emoji": "📝📄",
+    "id": "gl698"
+  },
+  "sunken bed": {
+    "word": "sunken bed",
+    "definition": "a seedbed made lower than the surrounding ground so that it can hold moisture",
+    "variations": [
+      "sunken bed",
+      "sunken beds"
+    ],
+    "emoji": "⬇️💧",
+    "id": "gl699"
+  },
+  "sunlight": {
+    "word": "sunlight",
+    "definition": "light that comes from the sun and helps plants make food.",
+    "variations": [
+      "sunlight"
+    ],
+    "emoji": "☀️🌱",
+    "id": "gl700"
+  },
+  "sunscald": {
+    "word": "sunscald",
+    "definition": "damage to fruits caused by too much strong sunlight and heat",
+    "variations": [
+      "sunscald"
+    ],
+    "emoji": "☀️🍅",
+    "id": "gl701"
+  },
+  "supplement": {
+    "word": "supplement",
+    "definition": "to add extra food or something more to improve what is already there.",
+    "variations": [
+      "supplement",
+      "supplementing",
+      "supplemented",
+      "supplements"
+    ],
+    "emoji": "➕🌾",
+    "id": "gl702"
+  },
+  "supplementary feeding": {
+    "word": "supplementary feeding",
+    "definition": "giving extra feed in addition to what animals find for themselves",
+    "variations": [
+      "supplementary feeding"
+    ],
+    "emoji": "🌾🐔",
+    "id": "gl703"
+  },
+  "supplements": {
+    "word": "supplements",
+    "definition": "extra nutrients added to feed or water to improve health",
+    "variations": [
+      "supplement",
+      "supplements"
+    ],
+    "emoji": "💊🍽️",
+    "id": "gl704"
+  },
+  "surviving": {
+    "word": "surviving",
+    "definition": "Surviving means staying alive and continuing to live in difficult conditions.",
+    "variations": [
+      "survive",
+      "survives",
+      "survived",
+      "surviving",
+      "survival"
+    ],
+    "emoji": "💪🌍",
+    "id": "gl705"
+  },
+  "sustainable": {
+    "word": "sustainable",
+    "definition": "able to continue for a long time without causing problems or using too many resources.",
+    "variations": [
+      "sustainable",
+      "sustainably",
+      "sustainability"
+    ],
+    "emoji": "♻️🌱",
+    "id": "gl706"
+  },
+  "Sustainable agriculture": {
+    "word": "Sustainable agriculture",
+    "definition": "farming in a way that meets present needs without harming future generations",
+    "variations": [
+      "sustainable agriculture"
+    ],
+    "emoji": "🌍🌾♻️",
+    "id": "gl707"
+  },
+  "symptom": {
+    "word": "symptom",
+    "definition": "a sign that shows an animal or person may be sick.",
+    "variations": [
+      "symptom",
+      "symptoms"
+    ],
+    "emoji": "🤒🩺",
+    "id": "gl708"
+  },
+  "synthetic": {
+    "word": "synthetic",
+    "definition": "made by chemical processes rather than naturally",
+    "variations": [
+      "synthetic",
+      "synthetics"
+    ],
+    "emoji": "🧪🏭",
+    "id": "gl709"
+  },
+  "systematically": {
+    "word": "systematically",
+    "definition": "in an organised and orderly way",
+    "variations": [
+      "systematic",
+      "systematically"
+    ],
+    "emoji": "📋✅",
+    "id": "gl710"
+  },
+  "target market": {
+    "word": "target market",
+    "definition": "the group of people most likely to buy a product",
+    "variations": [
+      "target market",
+      "target markets"
+    ],
+    "emoji": "🎯🛒",
+    "id": "gl711"
+  },
+  "technical know-how": {
+    "word": "technical know-how",
+    "definition": "the practical knowledge and skill needed to do a job well",
+    "variations": [
+      "technical know-how"
+    ],
+    "emoji": "🛠️🧠",
+    "id": "gl712"
+  },
+  "techniques": {
+    "word": "techniques",
+    "definition": "special ways of doing a task or solving a problem",
+    "variations": [
+      "technique",
+      "techniques"
+    ],
+    "emoji": "🛠️📘",
+    "id": "gl713"
+  },
+  "technology": {
+    "word": "technology",
+    "definition": "the use of tools, machines, and new methods to solve problems or improve work",
+    "variations": [
+      "technology",
+      "technologies",
+      "technological"
+    ],
+    "emoji": "⚙️💡",
+    "id": "gl714"
+  },
+  "temperament": {
+    "word": "temperament",
+    "definition": "the usual way an animal behaves",
+    "variations": [
+      "temperament",
+      "temperaments"
+    ],
+    "emoji": "🐓🙂",
+    "id": "gl715"
+  },
+  "termite-proof": {
+    "word": "termite-proof",
+    "definition": "made to resist damage by termites",
+    "variations": [
+      "termite-proof"
+    ],
+    "emoji": "🐜🚫",
+    "id": "gl716"
+  },
+  "texture": {
+    "word": "texture",
+    "definition": "The feel of soil based on the amount of sand, silt, and clay in it.",
+    "variations": [
+      "texture",
+      "textures"
+    ],
+    "emoji": "✋🟤",
+    "id": "gl717"
+  },
+  "thermometer": {
+    "word": "thermometer",
+    "definition": "an instrument used to measure temperature",
+    "variations": [
+      "thermometer",
+      "thermometers"
+    ],
+    "emoji": "🌡️",
+    "id": "gl718"
+  },
+  "thermometers": {
+    "word": "thermometers",
+    "definition": "tools used to measure temperature",
+    "variations": [
+      "thermometer",
+      "thermometers"
+    ],
+    "emoji": "🌡️🔥",
+    "id": "gl719"
+  },
+  "thinning": {
+    "word": "thinning",
+    "definition": "removing some plants so that the others have enough space to grow well",
+    "variations": [
+      "thin",
+      "thins",
+      "thinned",
+      "thinning"
+    ],
+    "emoji": "✂️🌿",
+    "id": "gl720"
+  },
+  "thresh": {
+    "word": "thresh",
+    "definition": "to separate seeds or grain from the harvested plant",
+    "variations": [
+      "thresh",
+      "threshed",
+      "threshing"
+    ],
+    "emoji": "🌾👋",
+    "id": "gl721"
+  },
+  "thrips": {
+    "word": "thrips",
+    "definition": "very small insects that damage flowers, leaves, and fruits of plants",
+    "variations": [
+      "thrips"
+    ],
+    "emoji": "🐜🌸",
+    "id": "gl722"
+  },
+  "tier": {
+    "word": "tier",
+    "definition": "one level or row arranged above or below another",
+    "variations": [
+      "tier",
+      "tiers"
+    ],
+    "emoji": "📚⬆️",
+    "id": "gl723"
+  },
+  "tilth": {
+    "word": "tilth",
+    "definition": "the physical condition of soil, especially how fine and suitable it is for planting",
+    "variations": [
+      "tilth"
+    ],
+    "emoji": "🌱🟤",
+    "id": "gl724"
+  },
+  "Topdressing": {
+    "word": "Topdressing",
+    "definition": "putting fertiliser or compost on the soil surface to improve plant growth",
+    "variations": [
+      "topdressing"
+    ],
+    "emoji": "🌿🧺",
+    "id": "gl725"
+  },
+  "topsoil": {
+    "word": "topsoil",
+    "definition": "the upper layer of soil where most plant roots grow well",
+    "variations": [
+      "topsoil"
+    ],
+    "emoji": "🌍🌱",
+    "id": "gl726"
+  },
+  "toxic": {
+    "word": "toxic",
+    "definition": "poisonous and harmful to living things",
+    "variations": [
+      "toxic",
+      "toxicity"
+    ],
+    "emoji": "☠️⚠️",
+    "id": "gl727"
+  },
+  "trace elements": {
+    "word": "trace elements",
+    "definition": "minerals needed by the body in very small amounts for good health and growth",
+    "variations": [
+      "trace element",
+      "trace elements"
+    ],
+    "emoji": "🧂💪",
+    "id": "gl728"
+  },
+  "trait": {
+    "word": "trait",
+    "definition": "A trait is a particular quality or feature of a living thing.",
+    "variations": [
+      "trait",
+      "traits"
+    ],
+    "emoji": "🧬👀",
+    "id": "gl729"
+  },
+  "traits": {
+    "word": "traits",
+    "definition": "special features or qualities passed from parents to young ones.",
+    "variations": [
+      "trait",
+      "traits"
+    ],
+    "emoji": "🧬⭐",
+    "id": "gl730"
+  },
+  "transit": {
+    "word": "transit",
+    "definition": "the movement of goods from one place to another",
+    "variations": [
+      "transit"
+    ],
+    "emoji": "🚚📦",
+    "id": "gl731"
+  },
+  "transpiration": {
+    "word": "transpiration",
+    "definition": "the loss of water vapour from plant leaves into the air",
+    "variations": [
+      "transpiration"
+    ],
+    "emoji": "🌿💨",
+    "id": "gl732"
+  },
+  "transplant": {
+    "word": "transplant",
+    "definition": "to move a young plant from one place, such as a nursery, to another place where it will continue growing",
+    "variations": [
+      "transplant",
+      "transplants",
+      "transplanted",
+      "transplanting"
+    ],
+    "emoji": "🌱➡️🌾",
+    "id": "gl733"
+  },
+  "transplanting": {
+    "word": "transplanting",
+    "definition": "moving young plants from the nursery to the main field",
+    "variations": [
+      "transplant",
+      "transplants",
+      "transplanting",
+      "transplanted"
+    ],
+    "emoji": "🌱➡️🌾",
+    "id": "gl734"
+  },
+  "transportation": {
+    "word": "transportation",
+    "definition": "Transportation is the movement of people, animals, or goods from one place to another.",
+    "variations": [
+      "transportation",
+      "transport"
+    ],
+    "emoji": "🚚🛣️",
+    "id": "gl735"
+  },
+  "tray": {
+    "word": "tray",
+    "definition": "a shallow container used for raising seedlings",
+    "variations": [
+      "tray",
+      "trays"
+    ],
+    "emoji": "🪴📦",
+    "id": "gl736"
+  },
+  "trellising": {
+    "word": "trellising",
+    "definition": "supporting plants with lines, wires, or frames so they grow upright.",
+    "variations": [
+      "trellis",
+      "trellising",
+      "trellised"
+    ],
+    "emoji": "🪢🌿",
+    "id": "gl737"
+  },
+  "trends": {
+    "word": "trends",
+    "definition": "general changes or patterns happening over time",
+    "variations": [
+      "trend",
+      "trends"
+    ],
+    "emoji": "📈🔄",
+    "id": "gl738"
+  },
+  "tropical": {
+    "word": "tropical",
+    "definition": "related to hot and often wet regions near the equator",
+    "variations": [
+      "tropical",
+      "tropics"
+    ],
+    "emoji": "🌴☀️",
+    "id": "gl739"
+  },
+  "trough": {
+    "word": "trough",
+    "definition": "a long open container used for giving animals water or feed",
+    "variations": [
+      "trough",
+      "troughs"
+    ],
+    "emoji": "💧🥣",
+    "id": "gl740"
+  },
+  "trough-type drinkers": {
+    "word": "trough-type drinkers",
+    "definition": "long narrow containers from which birds drink water",
+    "variations": [
+      "trough-type drinker",
+      "trough-type drinkers"
+    ],
+    "emoji": "💧🐤",
+    "id": "gl741"
+  },
+  "troughs": {
+    "word": "troughs",
+    "definition": "long containers used for feeding or giving water to animals",
+    "variations": [
+      "trough",
+      "troughs"
+    ],
+    "emoji": "🥣🐄🐔",
+    "id": "gl742"
+  },
+  "tyre": {
+    "word": "tyre",
+    "definition": "the thick rubber ring fitted around a wheel; it can also be reused for planting",
+    "variations": [
+      "tyre",
+      "tyres"
+    ],
+    "emoji": "🛞♻️",
+    "id": "gl743"
+  },
+  "underside": {
+    "word": "underside",
+    "definition": "the lower part of something, such as the bottom side of a leaf",
+    "variations": [
+      "underside",
+      "undersides"
+    ],
+    "emoji": "⬇️🍃",
+    "id": "gl744"
+  },
+  "uniformity": {
+    "word": "uniformity",
+    "definition": "Uniformity means being similar in size, shape, or quality.",
+    "variations": [
+      "uniformity"
+    ],
+    "emoji": "📏✅",
+    "id": "gl745"
+  },
+  "unique selling proposition": {
+    "word": "unique selling proposition",
+    "definition": "the special feature that makes a product different and attractive to buyers",
+    "variations": [
+      "unique selling proposition",
+      "USP"
+    ],
+    "emoji": "⭐🥚📣",
+    "id": "gl746"
+  },
+  "uprooting": {
+    "word": "uprooting",
+    "definition": "pulling a whole plant out of the ground with its roots",
+    "variations": [
+      "uproot",
+      "uproots",
+      "uprooted",
+      "uprooting"
+    ],
+    "emoji": "🌱✋",
+    "id": "gl747"
+  },
+  "urban": {
+    "word": "urban",
+    "definition": "related to a town or city",
+    "variations": [
+      "urban"
+    ],
+    "emoji": "🏙️🚶",
+    "id": "gl748"
+  },
+  "urea": {
+    "word": "urea",
+    "definition": "a nitrogen-rich fertiliser used to help plants grow faster",
+    "variations": [
+      "urea"
+    ],
+    "emoji": "🧪🌿",
+    "id": "gl749"
+  },
+  "utilisation": {
+    "word": "utilisation",
+    "definition": "the use of something in a useful or effective way",
+    "variations": [
+      "utilisation",
+      "utilise",
+      "utilised",
+      "utilising"
+    ],
+    "emoji": "⚙️📦",
+    "id": "gl750"
+  },
+  "vaccinate": {
+    "word": "vaccinate",
+    "definition": "to give a vaccine to protect against disease",
+    "variations": [
+      "vaccinate",
+      "vaccinated",
+      "vaccinating",
+      "vaccination"
+    ],
+    "emoji": "💉🛡️",
+    "id": "gl751"
+  },
+  "vaccinated": {
+    "word": "vaccinated",
+    "definition": "given medicine to protect against a disease",
+    "variations": [
+      "vaccinate",
+      "vaccinated",
+      "vaccination",
+      "vaccinations"
+    ],
+    "emoji": "💉🛡️",
+    "id": "gl752"
+  },
+  "vaccinating": {
+    "word": "vaccinating",
+    "definition": "giving medicine to birds to protect them from diseases",
+    "variations": [
+      "vaccinate",
+      "vaccinated",
+      "vaccinating",
+      "vaccination"
+    ],
+    "emoji": "💉🐥",
+    "id": "gl753"
+  },
+  "vaccination": {
+    "word": "vaccination",
+    "definition": "the giving of a vaccine to protect an animal or person from disease.",
+    "variations": [
+      "vaccination",
+      "vaccinations",
+      "vaccinate",
+      "vaccinated",
+      "vaccinating"
+    ],
+    "emoji": "💉🐓",
+    "id": "gl754"
+  },
+  "vaccination schedule": {
+    "word": "vaccination schedule",
+    "definition": "a plan showing when vaccines should be given",
+    "variations": [
+      "vaccination schedule",
+      "vaccination schedules"
+    ],
+    "emoji": "📅💉",
+    "id": "gl755"
+  },
+  "vaccine": {
+    "word": "vaccine",
+    "definition": "a biological product given to an animal to help its body fight a specific disease",
+    "variations": [
+      "vaccine",
+      "vaccines"
+    ],
+    "emoji": "💉🧬",
+    "id": "gl756"
+  },
+  "value addition": {
+    "word": "value addition",
+    "definition": "improving a product so it can sell better or for a higher price",
+    "variations": [
+      "value addition"
+    ],
+    "emoji": "➕💰",
+    "id": "gl757"
+  },
+  "value chain": {
+    "word": "value chain",
+    "definition": "the series of steps followed from producing something to processing, storing, and selling it",
+    "variations": [
+      "value chain",
+      "value chains"
+    ],
+    "emoji": "🔗📦",
+    "id": "gl758"
+  },
+  "vapour": {
+    "word": "vapour",
+    "definition": "a gas form of water or another liquid",
+    "variations": [
+      "vapour",
+      "vapours"
+    ],
+    "emoji": "💨💧",
+    "id": "gl759"
+  },
+  "varieties": {
+    "word": "varieties",
+    "definition": "different types of the same crop or plant",
+    "variations": [
+      "variety",
+      "varieties"
+    ],
+    "emoji": "🌱🌿",
+    "id": "gl760"
+  },
+  "variety": {
+    "word": "variety",
+    "definition": "a type of crop or plant with its own special features, such as size, colour, taste, or yield",
+    "variations": [
+      "variety",
+      "varieties"
+    ],
+    "emoji": "🌱🧅",
+    "id": "gl761"
+  },
+  "vectors": {
+    "word": "vectors",
+    "definition": "living things, such as insects, that carry disease-causing germs from one animal to another",
+    "variations": [
+      "vector",
+      "vectors"
+    ],
+    "emoji": "🦟🦠",
+    "id": "gl762"
+  },
+  "vegetable": {
+    "word": "vegetable",
+    "definition": "a plant or plant part that people grow and eat as food",
+    "variations": [
+      "vegetable",
+      "vegetables"
+    ],
+    "emoji": "🥬🥕",
+    "id": "gl763"
+  },
+  "vent": {
+    "word": "vent",
+    "definition": "the opening through which a bird passes waste and eggs",
+    "variations": [
+      "vent",
+      "vents"
+    ],
+    "emoji": "🐔🥚",
+    "id": "gl764"
+  },
+  "ventilate": {
+    "word": "ventilate",
+    "definition": "to allow fresh air to move through a house or room",
+    "variations": [
+      "ventilate",
+      "ventilated",
+      "ventilating",
+      "ventilation"
+    ],
+    "emoji": "🌬️🏠",
+    "id": "gl765"
+  },
+  "ventilated": {
+    "word": "ventilated",
+    "definition": "having enough fresh air moving through",
+    "variations": [
+      "ventilate",
+      "ventilated",
+      "ventilation"
+    ],
+    "emoji": "🌬️🏠",
+    "id": "gl766"
+  },
+  "ventilation": {
+    "word": "ventilation",
+    "definition": "the movement of fresh air in and out of a house or building",
+    "variations": [
+      "ventilation"
+    ],
+    "emoji": "🌬️🏠",
+    "id": "gl767"
+  },
+  "vermin": {
+    "word": "vermin",
+    "definition": "small harmful animals such as rats that destroy food or spread disease.",
+    "variations": [
+      "vermin"
+    ],
+    "emoji": "🐀🚫",
+    "id": "gl768"
+  },
+  "vertical garden": {
+    "word": "vertical garden",
+    "definition": "a garden where plants are grown upwards on a wall or structure to save space",
+    "variations": [
+      "vertical garden",
+      "vertical gardens"
+    ],
+    "emoji": "🌿⬆️",
+    "id": "gl769"
+  },
+  "vertical gardening": {
+    "word": "vertical gardening",
+    "definition": "growing plants upward in layers or on raised supports to save space",
+    "variations": [
+      "vertical gardening"
+    ],
+    "emoji": "⬆️🌿🏢",
+    "id": "gl770"
+  },
+  "veterinarian": {
+    "word": "veterinarian",
+    "definition": "a trained animal doctor who treats and advises on animal health.",
+    "variations": [
+      "veterinarian",
+      "veterinarians"
+    ],
+    "emoji": "🩺🐄🐔",
+    "id": "gl771"
+  },
+  "viable": {
+    "word": "viable",
+    "definition": "able to live, grow, or develop successfully.",
+    "variations": [
+      "viable",
+      "viability",
+      "non-viable"
+    ],
+    "emoji": "✅🐣",
+    "id": "gl772"
+  },
+  "vices": {
+    "word": "vices",
+    "definition": "bad habits or harmful behaviours shown by animals",
+    "variations": [
+      "vice",
+      "vices"
+    ],
+    "emoji": "⚠️🐔",
+    "id": "gl773"
+  },
+  "vigour": {
+    "word": "vigour",
+    "definition": "strength, health, and energy",
+    "variations": [
+      "vigour"
+    ],
+    "emoji": "💪✨",
+    "id": "gl774"
+  },
+  "viral": {
+    "word": "viral",
+    "definition": "caused by a virus",
+    "variations": [
+      "viral"
+    ],
+    "emoji": "🦠",
+    "id": "gl775"
+  },
+  "virus": {
+    "word": "virus",
+    "definition": "a very tiny germ that causes disease.",
+    "variations": [
+      "virus",
+      "viruses"
+    ],
+    "emoji": "🦠🤒",
+    "id": "gl776"
+  },
+  "vitamin": {
+    "word": "vitamin",
+    "definition": "a substance in food that helps the body grow and stay healthy",
+    "variations": [
+      "vitamin",
+      "vitamins"
+    ],
+    "emoji": "🍽️💊",
+    "id": "gl777"
+  },
+  "volatilization": {
+    "word": "volatilization",
+    "definition": "the loss of nutrients when they change into gas and escape into the air",
+    "variations": [
+      "volatilization",
+      "volatilize",
+      "volatilized"
+    ],
+    "emoji": "💨🧪",
+    "id": "gl778"
+  },
+  "wastage": {
+    "word": "wastage",
+    "definition": "loss of feed or other materials through careless use or spilling.",
+    "variations": [
+      "wastage"
+    ],
+    "emoji": "⚠️🌾",
+    "id": "gl779"
+  },
+  "water logging": {
+    "word": "water logging",
+    "definition": "a condition where too much water stays in the soil for a long time",
+    "variations": [
+      "water logging",
+      "waterlogged",
+      "waterlogging"
+    ],
+    "emoji": "💧🫧",
+    "id": "gl780"
+  },
+  "water retention": {
+    "word": "water retention",
+    "definition": "The ability of soil to hold water for some time.",
+    "variations": [
+      "water retention"
+    ],
+    "emoji": "💧🟤",
+    "id": "gl781"
+  },
+  "waterfowl": {
+    "word": "waterfowl",
+    "definition": "birds that live on or near water, such as ducks and geese",
+    "variations": [
+      "waterfowl"
+    ],
+    "emoji": "🦆💧",
+    "id": "gl782"
+  },
+  "waterlogging": {
+    "word": "waterlogging",
+    "definition": "a condition where too much water stays in the soil and harms plants",
+    "variations": [
+      "waterlogging",
+      "waterlogged"
+    ],
+    "emoji": "💧🌱",
+    "id": "gl783"
+  },
+  "weathering": {
+    "word": "weathering",
+    "definition": "the breaking down of rocks into smaller pieces over time",
+    "variations": [
+      "weathering",
+      "weathered"
+    ],
+    "emoji": "🪨⏳",
+    "id": "gl784"
+  },
+  "webbed feet": {
+    "word": "webbed feet",
+    "definition": "feet with skin between the toes that help ducks swim easily.",
+    "variations": [
+      "webbed foot",
+      "webbed feet"
+    ],
+    "emoji": "🦆🌊",
+    "id": "gl785"
+  },
+  "Weed": {
+    "word": "Weed",
+    "definition": "a plant growing where it is not wanted",
+    "variations": [
+      "weed",
+      "weeds",
+      "weeding"
+    ],
+    "emoji": "🌿⚠️",
+    "id": "gl786"
+  },
+  "weeds": {
+    "word": "weeds",
+    "definition": "unwanted plants that grow among crops and compete for water, light, and nutrients.",
+    "variations": [
+      "weed",
+      "weeds",
+      "weeding"
+    ],
+    "emoji": "🌿🚫",
+    "id": "gl787"
+  },
+  "weevil": {
+    "word": "weevil",
+    "definition": "a type of insect pest that can damage plant stems, seeds, or leaves",
+    "variations": [
+      "weevil",
+      "weevils"
+    ],
+    "emoji": "🐞🌱",
+    "id": "gl788"
+  },
+  "well-drained": {
+    "word": "well-drained",
+    "definition": "able to let extra water pass through easily without staying in the soil too long.",
+    "variations": [
+      "well-drained"
+    ],
+    "emoji": "🌧️⬇️",
+    "id": "gl789"
+  },
+  "whiteflies": {
+    "word": "whiteflies",
+    "definition": "tiny white insects that suck sap from plants and can spread diseases in tomatoes",
+    "variations": [
+      "whitefly",
+      "whiteflies"
+    ],
+    "emoji": "🪰🍅",
+    "id": "gl790"
+  },
+  "whitefly": {
+    "word": "whitefly",
+    "definition": "a tiny white insect that sucks sap from plant leaves",
+    "variations": [
+      "whitefly",
+      "whiteflies"
+    ],
+    "emoji": "🤍🪰🌿",
+    "id": "gl791"
+  },
+  "wholesale": {
+    "word": "wholesale",
+    "definition": "selling goods in large quantities, usually to traders or shops",
+    "variations": [
+      "wholesale",
+      "wholesaling"
+    ],
+    "emoji": "📦🚚",
+    "id": "gl792"
+  },
+  "wholesaler": {
+    "word": "wholesaler",
+    "definition": "a person or business that buys goods in large amounts and sells them to retailers",
+    "variations": [
+      "wholesaler",
+      "wholesalers"
+    ],
+    "emoji": "📦🏪",
+    "id": "gl793"
+  },
+  "wholesalers": {
+    "word": "wholesalers",
+    "definition": "traders who buy goods in large amounts and sell them in bulk",
+    "variations": [
+      "wholesaler",
+      "wholesalers"
+    ],
+    "emoji": "📦🏪",
+    "id": "gl794"
+  },
+  "wholesome": {
+    "word": "wholesome",
+    "definition": "safe, clean, and good for eating",
+    "variations": [
+      "wholesome"
+    ],
+    "emoji": "🥚✅",
+    "id": "gl795"
+  },
+  "wilting": {
+    "word": "wilting",
+    "definition": "the drooping or drying of a plant because it lacks enough water or has damaged roots",
+    "variations": [
+      "wilting",
+      "wilt",
+      "wilts",
+      "wilted"
+    ],
+    "emoji": "🥀☀️",
+    "id": "gl796"
+  },
+  "winnow": {
+    "word": "winnow",
+    "definition": "to separate grain from chaff using air or wind",
+    "variations": [
+      "winnow",
+      "winnowed",
+      "winnowing"
+    ],
+    "emoji": "🌬️🌾",
+    "id": "gl797"
+  },
+  "wire mesh": {
+    "word": "wire mesh",
+    "definition": "a net-like material made of wire, used to cover openings and keep animals safe",
+    "variations": [
+      "wire mesh"
+    ],
+    "emoji": "🕸️🪟",
+    "id": "gl798"
+  },
+  "wire-netting": {
+    "word": "wire-netting",
+    "definition": "strong wire mesh used for making floors, cages, or walls in poultry houses",
+    "variations": [
+      "wire-netting"
+    ],
+    "emoji": "🪤🐔",
+    "id": "gl799"
+  },
+  "withdrawal period": {
+    "word": "withdrawal period",
+    "definition": "the waiting time between applying a pesticide and harvesting the crop safely",
+    "variations": [
+      "withdrawal period",
+      "withdrawal periods"
+    ],
+    "emoji": "⏳🌾",
+    "id": "gl800"
+  },
+  "wood shavings": {
+    "word": "wood shavings",
+    "definition": "thin small curls of wood used as litter or bedding",
+    "variations": [
+      "wood shaving",
+      "wood shavings"
+    ],
+    "emoji": "🪵🌾",
+    "id": "gl801"
+  },
+  "wrinkled": {
+    "word": "wrinkled",
+    "definition": "having a folded or uneven surface instead of being smooth",
+    "variations": [
+      "wrinkle",
+      "wrinkles",
+      "wrinkled"
+    ],
+    "emoji": "🥚〰️",
+    "id": "gl802"
+  },
+  "yield": {
+    "word": "yield",
+    "definition": "the amount of crop produced from a given area of land",
+    "variations": [
+      "yield",
+      "yields"
+    ],
+    "emoji": "🧺📦",
+    "id": "gl803"
+  },
+  "yolk": {
+    "word": "yolk",
+    "definition": "the yellow inner part of an egg that contains food for the developing chick.",
+    "variations": [
+      "yolk",
+      "yolks"
+    ],
+    "emoji": "🥚🟡",
+    "id": "gl804"
+  },
+  "zero-energy cooling chamber": {
+    "word": "zero-energy cooling chamber",
+    "definition": "a simple cooler that keeps vegetables fresh without using electricity",
+    "variations": [
+      "zero-energy cooling chamber",
+      "zero-energy cooling chambers"
+    ],
+    "emoji": "❄️🥬🏠",
+    "id": "gl805"
+  }
+}
